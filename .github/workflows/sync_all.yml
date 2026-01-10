@@ -1,0 +1,38 @@
+name: Sync All AI Maps
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  sync_all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Download and Sync CSVs
+        run: |
+          # 1. Define your tab names and their unique GIDs from GSheets
+          declare -A tabs=( 
+            ["coin_ids"]="1139773528" 
+            ["exchange_ids"]="918927079" 
+          )
+          
+          # 2. Set your Published Base URL (replace with your ID if different)
+          BASE_URL="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQ66ZlCVJFRd1xoizv9eS8NDPoFH7mkOncXWwp7g5yojz2v2NX-vniHbQkT0DHAl4C1EwraNzpZkeU/pub?output=csv"
+          
+          # 3. Loop and download
+          for name in "${!tabs[@]}"; do
+            gid=${tabs[$name]}
+            echo "Syncing $name..."
+            curl -L "${BASE_URL}&gid=${gid}" > "${name}.csv"
+          done
+
+      - name: Commit to Repo
+        run: |
+          git config --global user.name "DataBot"
+          git config --global user.email "bot@github.com"
+          git add *.csv
+          git commit -m "Auto-update: All N cleaned ID maps" || exit 0
+          git push
