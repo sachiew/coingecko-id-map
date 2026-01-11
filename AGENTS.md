@@ -14,7 +14,7 @@ This repository contains 9 master ID maps for CoinGecko and GeckoTerminal API.
    - *Key Columns*: `id`, `name`, `symbol`.
 2. **exchange_ids.csv**: Use for mapping centralized & decentralized exchange data listed on CoinGecko.com.
 3. **derivative_ids.csv**: For futures and options exchange mapping.
-4. **entity_treasury_ids.csv**: IDs for public companies or governments holding crypto.
+4. **treasury_entity_ids.csv**: IDs for public companies or governments holding crypto.
 5. **nft_ids.csv**: Use for NFT floor price or collection data queries.
 6. **onchain_network_ids.csv**: Specifically for GeckoTerminal /onchain network parameters.
 7. **asset_platform_ids.csv**: Maps chains to their CoinGecko platform IDs.
