@@ -1,7 +1,7 @@
 name: Sync All AI Maps
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: '0 * * * *' # Runs at the start of every hour
   workflow_dispatch:
 
 permissions:
@@ -19,7 +19,15 @@ jobs:
           # 1. Define your tab names and their unique GIDs from GSheets
           declare -A tabs=( 
             ["coin_ids"]="1139773528" 
-            ["exchange_ids"]="918927079" 
+            ["exchange_ids"]="918927079"
+            ["derivative_ids"]="2062269035"
+            ["coin_ids"]="1139773528" 
+            ["treasury_entity_ids"]="870232568"
+            ["nft_ids"]="1320470865"
+            ["onchain_network_ids"]="276080286" 
+            ["asset_platform_ids"]="1130634980"
+            ["category_ids"]="1469854645"
+            ["onchain_category_ids"]="765572661"            
           )
           
           # 2. Set your Published Base URL (replace with your ID if different)
@@ -37,5 +45,5 @@ jobs:
           git config --global user.name "DataBot"
           git config --global user.email "bot@github.com"
           git add *.csv
-          git commit -m "Auto-update: All N cleaned ID maps" || exit 0
+          git commit -m "Auto-update: All 10 cleaned ID maps" || exit 0
           git push
