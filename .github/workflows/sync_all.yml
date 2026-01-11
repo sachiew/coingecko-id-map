@@ -21,7 +21,6 @@ jobs:
             ["coin_ids"]="1139773528" 
             ["exchange_ids"]="918927079"
             ["derivative_ids"]="2062269035"
-            ["coin_ids"]="1139773528" 
             ["treasury_entity_ids"]="870232568"
             ["nft_ids"]="1320470865"
             ["onchain_network_ids"]="276080286" 
@@ -45,5 +44,5 @@ jobs:
           git config --global user.name "DataBot"
           git config --global user.email "bot@github.com"
           git add *.csv
-          git commit -m "Auto-update: All 10 cleaned ID maps" || exit 0
+          git commit -m "Auto-update: All 9 cleaned ID maps" || exit 0
           git push
