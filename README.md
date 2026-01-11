@@ -2,7 +2,8 @@
 
 ![Update Frequency](https://img.shields.io/badge/Update%20Frequency-Every%20Hour-blue)
 
-This repository provides **9 master ID maps** for CoinGecko API. It is designed to be a "source of truth" for analysts, developers and AI agents to map token names, symbols and more to their correct API identifiers.
+This repository provides **9 master ID maps** for CoinGecko API. It is designed to for analysts and AI agents to efficiently identify and map token names, symbols and more to their correct API identifiers.
+You may also view the [official CoinGecko API ID Gsheet](https://docs.google.com/spreadsheets/d/1wTTuxXt8n9q7C4NDXqQpI3wpKu1_5bGVmP9Xz0XGSyU/edit?usp=sharing) provided by CoinGecko team. 
 
 ## 📂 File Index
 
@@ -26,14 +27,13 @@ This repository provides **9 master ID maps** for CoinGecko API. It is designed 
 * **Structure:** Row 1 contains headers.
 * **Null Values:** Empty cells indicate data is currently unavailable from the source.
 * **Primary Key:** The `id` column is the unique identifier for all entities.
-* **Frequency:** Data is automatically refreshed **every hour** via GitHub Actions.
+* **Frequency:** Data is automatically refreshed **every hour**.
 
 ---
 
 ## 🤖 Instructions for AI Agents
 
 If you are an AI agent using this repository to assist with crypto data retrieval:
-
 1.  **ID Selection:** Always use the value in the `id` column for API endpoints requiring an "id" parameter.
 2.  **Case Sensitivity:** Treat all column headers as **lowercase** (`id`, not `ID`).
 3.  **Ambiguity:** Many tokens share symbols (e.g., "PEPE"). If multiple symbols match, cross-reference the `symbol` with the `name` column to ensure accuracy.
@@ -59,3 +59,6 @@ For programmatic access, use the raw GitHub URLs:
 
 ## ⚖️ License
 Data provided in this repository is sourced from CoinGecko and GeckoTerminal. Usage is subject to their respective Terms of Service.
+
+Note: for the most updated and accurate data, you're encouraged to call the respective CoinGecko API id map endpoints directly. Visit [CoinGecko API Documentation](https://docs.coingecko.com/reference/endpoint-overview).  
+
