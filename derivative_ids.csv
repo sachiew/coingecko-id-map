@@ -4,8 +4,8 @@ coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
-lbank-futures,LBank (Futures)
 bitmart_futures,Bitmart Futures
+lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
@@ -14,14 +14,14 @@ okex_swap,OKX (Futures)
 toobit_derivatives,Toobit Futures
 xt_derivatives,XT.COM (Derivatives)
 bydfi-futures,BYDFi (Futures)
-bitvenus,BVOX (Futures)
 bingx_futures,BingX (Futures)
 whitebit_futures,WhiteBIT Futures
 bitmex,BitMEX (Derivative)
+bitvenus,BVOX (Futures)
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 orangex_futures,OrangeX Futures
+deepcoin_derivatives,Deepcoin (Derivatives)
 phemex_futures,Phemex (Futures)
 deribit,Deribit
 aster,Aster (Futures)
@@ -58,11 +58,11 @@ globe_exchange_derivatives,Globe (Derivatives)
 bullish-futures,Bullish (Futures)
 powertrade_derivatives,Powertrade (Derivatives)
 delta_futures,Delta Exchange (Futures)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 derive-futures,Derive (Futures)
-aqx_derivatives,Flipster
-bitmax_futures,AscendEX  (BitMax) (Futures)
 coinex_futures,CoinEx (Futures)
+aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 gemini_derivatives,Gemini Derivatives
 vest-exchange-futures,Vest Exchange
@@ -70,14 +70,14 @@ aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
 gtrade-arbitrum,gTrade (Arbitrum)
 zb_derivatives,ZB (Derivatives)
-poloniex_futures,Poloniex Futures
 injective_futures,Helix (Futures)
+poloniex_futures,Poloniex Futures
 hitbtc_derivatives,HitBTC (Derivatives)
 coincatch_derivatives,CoinCatch Derivatives
 bigone_futures,BigONE Futures
 enclave-markets,EnclaveX
-arkham_futures,Arkham (Futures)
 evedex,EVEDEX
+arkham_futures,Arkham (Futures)
 flash-trade,Flash Trade
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
@@ -94,8 +94,8 @@ merkle_trade,Merkle Trade
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 polynomial-trade,Polynomial Trade 
 gtrade-polygon,gTrade (Polygon)
-navigator,Navigator
 deriw,DeriW
+navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 dydx_perpetual,dYdX Perpetual (Ethereum)
