@@ -1,18 +1,18 @@
 id,name
 binance_futures,Binance (Futures)
-bybit,Bybit (Futures)
-gate_futures,Gate (Futures)
 bitmart_futures,Bitmart Futures
+bybit,Bybit (Futures)
 coinw_futures,CoinW (Futures)
+gate_futures,Gate (Futures)
 ftx,FTX (Derivatives)
 lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 mxc_futures,MEXC (Futures)
 bitget_futures,Bitget Futures
-hyperliquid,Hyperliquid (Futures)
 okex_swap,OKX (Futures)
-xt_derivatives,XT.COM (Derivatives)
+hyperliquid,Hyperliquid (Futures)
 bitvenus,BVOX (Futures)
+xt_derivatives,XT.COM (Derivatives)
 toobit_derivatives,Toobit Futures
 bydfi-futures,BYDFi (Futures)
 whitebit_futures,WhiteBIT Futures
@@ -53,14 +53,14 @@ ostium,Ostium
 bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
-bullish-futures,Bullish (Futures)
 pacifica,Pacifica
+bullish-futures,Bullish (Futures)
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 delta_futures,Delta Exchange (Futures)
 aqx_derivatives,Flipster
 coinex_futures,CoinEx (Futures)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 woo_network_futures,WOO X (Futures)
 vest-exchange-futures,Vest Exchange
 gemini_derivatives,Gemini Derivatives
@@ -88,12 +88,12 @@ levana-perps-osmosis,Levana Perps (Osmosis)
 deriw,DeriW
 defx,Defx
 kiloex-opbnb,KiloEx (opBnb)
-strike-finance,Strike Finance
 merkle_trade,Merkle Trade
+strike-finance,Strike Finance
 polynomial-trade,Polynomial Trade 
-powertrade_derivatives,Powertrade (Derivatives)
-kiloex-manta-pacific,KiloEx (Manta Pacific)
 gtrade-polygon,gTrade (Polygon)
+kiloex-manta-pacific,KiloEx (Manta Pacific)
+powertrade_derivatives,Powertrade (Derivatives)
 navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
