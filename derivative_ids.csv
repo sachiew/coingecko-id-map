@@ -9,10 +9,10 @@ lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 mxc_futures,MEXC (Futures)
 bitget_futures,Bitget Futures
-okex_swap,OKX (Futures)
 hyperliquid,Hyperliquid (Futures)
-bitvenus,BVOX (Futures)
+okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
+bitvenus,BVOX (Futures)
 toobit_derivatives,Toobit Futures
 bydfi-futures,BYDFi (Futures)
 whitebit_futures,WhiteBIT Futures
@@ -36,15 +36,15 @@ edgex,edgeX
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 btse_futures,BTSE (Futures)
-paradex,Paradex
 kcex-futures,KCEX (Futures)
 ourbit-futures,Ourbit (Futures)
+paradex,Paradex
 grvt_futures,GRVT
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-backpack-futures,Backpack (Futures)
 biconomy-futures,Biconomy (Futures)
+backpack-futures,Backpack (Futures)
 dmex,DMEX
 extended,Extended
 drift_protocol,Drift Protocol
@@ -57,9 +57,9 @@ pacifica,Pacifica
 bullish-futures,Bullish (Futures)
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
+coinex_futures,CoinEx (Futures)
 delta_futures,Delta Exchange (Futures)
 aqx_derivatives,Flipster
-coinex_futures,CoinEx (Futures)
 bitmax_futures,AscendEX  (BitMax) (Futures)
 woo_network_futures,WOO X (Futures)
 vest-exchange-futures,Vest Exchange
@@ -73,27 +73,27 @@ injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 coincatch_derivatives,CoinCatch Derivatives
 bigone_futures,BigONE Futures
-enclave-markets,EnclaveX
 flash-trade,Flash Trade
+enclave-markets,EnclaveX
 arkham_futures,Arkham (Futures)
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
-gtrade-base,gTrade (Base)
 valr-futures,VALR Futures
+gtrade-base,gTrade (Base)
 evedex,EVEDEX
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-base,KiloEx (Base)
 kiloex-bsc,KiloEx (BSC)
 levana-perps-osmosis,Levana Perps (Osmosis)
-deriw,DeriW
 defx,Defx
 kiloex-opbnb,KiloEx (opBnb)
 merkle_trade,Merkle Trade
 strike-finance,Strike Finance
-polynomial-trade,Polynomial Trade 
-gtrade-polygon,gTrade (Polygon)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 powertrade_derivatives,Powertrade (Derivatives)
+polynomial-trade,Polynomial Trade 
+deriw,DeriW
+gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
