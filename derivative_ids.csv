@@ -14,9 +14,9 @@ bitmart_futures,Bitmart Futures
 xt_derivatives,XT.COM (Derivatives)
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
-bitvenus,BVOX (Futures)
 whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
+bitvenus,BVOX (Futures)
 bitmex,BitMEX (Derivative)
 coinup-futures,CoinUp.io (Futures)
 orangex_futures,OrangeX Futures
@@ -45,8 +45,8 @@ bitrue_futures,Bitrue (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 biconomy-futures,Biconomy (Futures)
 backpack-futures,Backpack (Futures)
-dmex,DMEX
 extended,Extended
+dmex,DMEX
 drift_protocol,Drift Protocol
 apex-omni,ApeX Omni
 ostium,Ostium
@@ -59,9 +59,9 @@ globe_exchange_derivatives,Globe (Derivatives)
 powertrade_derivatives,Powertrade (Derivatives)
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 aqx_derivatives,Flipster
 coinex_futures,CoinEx (Futures)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 delta_futures,Delta Exchange (Futures)
 woo_network_futures,WOO X (Futures)
 gemini_derivatives,Gemini Derivatives
@@ -74,18 +74,18 @@ poloniex_futures,Poloniex Futures
 injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
-myx-bsc,MYX (BSC)
 coincatch_derivatives,CoinCatch Derivatives
 enclave-markets,EnclaveX
-flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
+flash-trade,Flash Trade
 arkham_futures,Arkham (Futures)
+myx-bsc,MYX (BSC)
 evedex,EVEDEX
 valr-futures,VALR Futures
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-base,KiloEx (Base)
 myx-linea,MYX (Linea)
 kiloex-bsc,KiloEx (BSC)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 defx,Defx
 levana-perps-osmosis,Levana Perps (Osmosis)
 kiloex-opbnb,KiloEx (opBnb)
@@ -96,8 +96,8 @@ polynomial-trade,Polynomial Trade
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 deriw,DeriW
-demex_derivatives,Demex (Derivatives)
 myx,MYX
+demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 ox-fun,Quanto
 orderly_network_derivatives,Orderly (Derivatives) (Near)
