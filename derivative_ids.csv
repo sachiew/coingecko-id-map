@@ -14,28 +14,28 @@ okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
-bitvenus,BVOX (Futures)
 whitebit_futures,WhiteBIT Futures
-bingx_futures,BingX (Futures)
+bitvenus,BVOX (Futures)
+bitmex,BitMEX (Derivative)
 coinup-futures,CoinUp.io (Futures)
 orangex_futures,OrangeX Futures
-huobi_dm,HTX Futures
-bitmex,BitMEX (Derivative)
 deepcoin_derivatives,Deepcoin (Derivatives)
+huobi_dm,HTX Futures
 phemex_futures,Phemex (Futures)
 deribit,Deribit
 aster,Aster (Futures)
+bingx_futures,BingX (Futures)
+crypto_com_futures,Crypto.com Exchange (Futures)
 kumex,KuCoin Futures
 bitunix_futures,Bitunix Futures
-crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
 lighter,Lighter
 zoomex-futures,Zoomex (Futures)
 prime_xbt,PrimeXBT
 edgex,edgeX
 blofin,BloFin (Futures)
-btcex_futures,BTCEX (Futures)
 btse_futures,BTSE (Futures)
+btcex_futures,BTCEX (Futures)
 kcex-futures,KCEX (Futures)
 paradex,Paradex
 ourbit-futures,Ourbit (Futures)
@@ -59,19 +59,19 @@ globe_exchange_derivatives,Globe (Derivatives)
 powertrade_derivatives,Powertrade (Derivatives)
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 aqx_derivatives,Flipster
 coinex_futures,CoinEx (Futures)
 delta_futures,Delta Exchange (Futures)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 woo_network_futures,WOO X (Futures)
 gemini_derivatives,Gemini Derivatives
-aevo,Aevo
 vest-exchange-futures,Vest Exchange
+aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
 zb_derivatives,ZB (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
-injective_futures,Helix (Futures)
 poloniex_futures,Poloniex Futures
+injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 coincatch_derivatives,CoinCatch Derivatives
@@ -88,9 +88,9 @@ kiloex-bsc,KiloEx (BSC)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 defx,Defx
 levana-perps-osmosis,Levana Perps (Osmosis)
-strike-finance,Strike Finance
-merkle_trade,Merkle Trade
 kiloex-opbnb,KiloEx (opBnb)
+merkle_trade,Merkle Trade
+strike-finance,Strike Finance
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 navigator,Navigator
 polynomial-trade,Polynomial Trade 
