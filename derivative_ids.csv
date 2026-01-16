@@ -14,9 +14,9 @@ bitmart_futures,Bitmart Futures
 xt_derivatives,XT.COM (Derivatives)
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
+bitvenus,BVOX (Futures)
 whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
-bitvenus,BVOX (Futures)
 bitmex,BitMEX (Derivative)
 coinup-futures,CoinUp.io (Futures)
 orangex_futures,OrangeX Futures
@@ -45,8 +45,8 @@ bitrue_futures,Bitrue (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 biconomy-futures,Biconomy (Futures)
 backpack-futures,Backpack (Futures)
-extended,Extended
 dmex,DMEX
+extended,Extended
 drift_protocol,Drift Protocol
 apex-omni,ApeX Omni
 ostium,Ostium
@@ -59,9 +59,9 @@ globe_exchange_derivatives,Globe (Derivatives)
 powertrade_derivatives,Powertrade (Derivatives)
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 aqx_derivatives,Flipster
 coinex_futures,CoinEx (Futures)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 delta_futures,Delta Exchange (Futures)
 woo_network_futures,WOO X (Futures)
 gemini_derivatives,Gemini Derivatives
@@ -77,8 +77,8 @@ bigone_futures,BigONE Futures
 coincatch_derivatives,CoinCatch Derivatives
 enclave-markets,EnclaveX
 gtrade-base,gTrade (Base)
-flash-trade,Flash Trade
 arkham_futures,Arkham (Futures)
+flash-trade,Flash Trade
 myx-bsc,MYX (BSC)
 evedex,EVEDEX
 valr-futures,VALR Futures
@@ -97,8 +97,8 @@ gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 deriw,DeriW
 myx,MYX
-demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
+d8x-futures,D8X (Berachain)
 ox-fun,Quanto
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 vertex-edge-base,Vertex Edge (Base)
@@ -169,6 +169,7 @@ fmex,FMex
 rabbitx,RabbitX
 mufex,MUFEX
 bitmake_futures,BitMake Futures
+demex_derivatives,Demex (Derivatives)
 btcc_futures,BTCC Futures
 vertex_protocol_derivatives,Vertex Edge (Arbitrum)
 opnx_derivatives,OPNX Derivatives
@@ -181,4 +182,3 @@ apex_pro,ApeX Pro
 bluefin_futures,Bluefin (Futures)
 synfutures,SynFutures
 vertex-edge-abstract,Vertex Edge (Abstract)
-d8x-futures,D8X (Berachain)
