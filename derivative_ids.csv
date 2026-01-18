@@ -15,9 +15,9 @@ xt_derivatives,XT.COM (Derivatives)
 whitebit_futures,WhiteBIT Futures
 bitmex,BitMEX (Derivative)
 coinup-futures,CoinUp.io (Futures)
-huobi_dm,HTX Futures
-toobit_derivatives,Toobit Futures
 bingx_futures,BingX (Futures)
+toobit_derivatives,Toobit Futures
+huobi_dm,HTX Futures
 phemex_futures,Phemex (Futures)
 orangex_futures,OrangeX Futures
 deribit,Deribit
@@ -28,21 +28,21 @@ bitvenus,BVOX (Futures)
 kumex,KuCoin Futures
 bitunix_futures,Bitunix Futures
 bitfinex_futures,Bitfinex (Futures)
-lighter,Lighter
 deepcoin_derivatives,Deepcoin (Derivatives)
+prime_xbt,PrimeXBT
+lighter,Lighter
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
-prime_xbt,PrimeXBT
-blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
+blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
-ourbit-futures,Ourbit (Futures)
 backpack-futures,Backpack (Futures)
+ourbit-futures,Ourbit (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 biconomy-futures,Biconomy (Futures)
 extended,Extended
@@ -59,10 +59,10 @@ ostium,Ostium
 delta_futures,Delta Exchange (Futures)
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 coinex_futures,CoinEx (Futures)
 woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
-bitmax_futures,AscendEX  (BitMax) (Futures)
 gemini_derivatives,Gemini Derivatives
 vest-exchange-futures,Vest Exchange
 aevo,Aevo
@@ -74,17 +74,17 @@ injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 coincatch_derivatives,CoinCatch Derivatives
-arkham_futures,Arkham (Futures)
 evedex,EVEDEX
+arkham_futures,Arkham (Futures)
 myx-bsc,MYX (BSC)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 enclave-markets,EnclaveX
 flash-trade,Flash Trade
 valr-futures,VALR Futures
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-base,KiloEx (Base)
 myx-linea,MYX (Linea)
-kiloex-bsc,KiloEx (BSC)
 gtrade-base,gTrade (Base)
+kiloex-bsc,KiloEx (BSC)
 defx,Defx
 levana-perps-osmosis,Levana Perps (Osmosis)
 kiloex-opbnb,KiloEx (opBnb)
