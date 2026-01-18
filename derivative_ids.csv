@@ -4,8 +4,8 @@ coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
-weex-futures,WEEX (Futures)
 bitmart_futures,Bitmart Futures
+weex-futures,WEEX (Futures)
 hyperliquid,Hyperliquid (Futures)
 mxc_futures,MEXC (Futures)
 bitget_futures,Bitget Futures
@@ -13,11 +13,11 @@ okex_swap,OKX (Futures)
 bydfi-futures,BYDFi (Futures)
 xt_derivatives,XT.COM (Derivatives)
 whitebit_futures,WhiteBIT Futures
-bitmex,BitMEX (Derivative)
 coinup-futures,CoinUp.io (Futures)
 huobi_dm,HTX Futures
-bingx_futures,BingX (Futures)
 toobit_derivatives,Toobit Futures
+bingx_futures,BingX (Futures)
+bitmex,BitMEX (Derivative)
 phemex_futures,Phemex (Futures)
 orangex_futures,OrangeX Futures
 deribit,Deribit
@@ -28,10 +28,10 @@ bitvenus,BVOX (Futures)
 kumex,KuCoin Futures
 bitunix_futures,Bitunix Futures
 bitfinex_futures,Bitfinex (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 lighter,Lighter
 zoomex-futures,Zoomex (Futures)
 prime_xbt,PrimeXBT
+deepcoin_derivatives,Deepcoin (Derivatives)
 edgex,edgeX
 btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
@@ -40,9 +40,9 @@ paradex,Paradex
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
 kraken_futures,Kraken (Futures)
-ourbit-futures,Ourbit (Futures)
 backpack-futures,Backpack (Futures)
 bitrue_futures,Bitrue (Futures)
+ourbit-futures,Ourbit (Futures)
 biconomy-futures,Biconomy (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 extended,Extended
@@ -59,10 +59,10 @@ globe_exchange_derivatives,Globe (Derivatives)
 delta_futures,Delta Exchange (Futures)
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 woo_network_futures,WOO X (Futures)
 coinex_futures,CoinEx (Futures)
 aqx_derivatives,Flipster
+bitmax_futures,AscendEX  (BitMax) (Futures)
 gemini_derivatives,Gemini Derivatives
 vest-exchange-futures,Vest Exchange
 aevo,Aevo
@@ -83,8 +83,8 @@ enclave-markets,EnclaveX
 valr-futures,VALR Futures
 kiloex-base,KiloEx (Base)
 myx-linea,MYX (Linea)
-gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
+gtrade-base,gTrade (Base)
 defx,Defx
 kiloex-opbnb,KiloEx (opBnb)
 strike-finance,Strike Finance
