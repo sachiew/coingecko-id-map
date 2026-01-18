@@ -16,8 +16,8 @@ whitebit_futures,WhiteBIT Futures
 bitmex,BitMEX (Derivative)
 coinup-futures,CoinUp.io (Futures)
 huobi_dm,HTX Futures
-phemex_futures,Phemex (Futures)
 bingx_futures,BingX (Futures)
+phemex_futures,Phemex (Futures)
 toobit_derivatives,Toobit Futures
 deribit,Deribit
 orangex_futures,OrangeX Futures
@@ -28,8 +28,8 @@ kumex,KuCoin Futures
 bitvenus,BVOX (Futures)
 bitunix_futures,Bitunix Futures
 bitfinex_futures,Bitfinex (Futures)
-lighter,Lighter
 prime_xbt,PrimeXBT
+lighter,Lighter
 zoomex-futures,Zoomex (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 edgex,edgeX
@@ -60,9 +60,9 @@ delta_futures,Delta Exchange (Futures)
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 woo_network_futures,WOO X (Futures)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 coinex_futures,CoinEx (Futures)
 aqx_derivatives,Flipster
+bitmax_futures,AscendEX  (BitMax) (Futures)
 gemini_derivatives,Gemini Derivatives
 aevo,Aevo
 vest-exchange-futures,Vest Exchange
@@ -73,30 +73,30 @@ poloniex_futures,Poloniex Futures
 injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
+flash-trade,Flash Trade
 coincatch_derivatives,CoinCatch Derivatives
 arkham_futures,Arkham (Futures)
 evedex,EVEDEX
 myx-bsc,MYX (BSC)
 enclave-markets,EnclaveX
-flash-trade,Flash Trade
 valr-futures,VALR Futures
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-base,KiloEx (Base)
 myx-linea,MYX (Linea)
 gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
 defx,Defx
-levana-perps-osmosis,Levana Perps (Osmosis)
 kiloex-opbnb,KiloEx (opBnb)
+levana-perps-osmosis,Levana Perps (Osmosis)
 strike-finance,Strike Finance
-merkle_trade,Merkle Trade
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-navigator,Navigator
+merkle_trade,Merkle Trade
 polynomial-trade,Polynomial Trade 
+navigator,Navigator
 deriw,DeriW
-gtrade-polygon,gTrade (Polygon)
 powertrade_derivatives,Powertrade (Derivatives)
+gtrade-polygon,gTrade (Polygon)
 spacewhale,SpaceWhale
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 d8x-futures,D8X (Berachain)
 ox-fun,Quanto
 vertex-edge-base,Vertex Edge (Base)
