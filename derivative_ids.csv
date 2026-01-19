@@ -1,10 +1,10 @@
 id,name
 binance_futures,Binance (Futures)
-bitmart_futures,Bitmart Futures
 coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
-bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
+bybit,Bybit (Futures)
+bitmart_futures,Bitmart Futures
 lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
@@ -29,16 +29,16 @@ crypto_com_futures,Crypto.com Exchange (Futures)
 kumex,KuCoin Futures
 bitunix_futures,Bitunix Futures
 bitfinex_futures,Bitfinex (Futures)
-prime_xbt,PrimeXBT
 lighter,Lighter
+prime_xbt,PrimeXBT
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
 btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
-grvt_futures,GRVT
 ourbit-futures,Ourbit (Futures)
+grvt_futures,GRVT
 kcex-futures,KCEX (Futures)
 kraken_futures,Kraken (Futures)
 backpack-futures,Backpack (Futures)
@@ -88,8 +88,8 @@ kiloex-bsc,KiloEx (BSC)
 levana-perps-osmosis,Levana Perps (Osmosis)
 defx,Defx
 kiloex-opbnb,KiloEx (opBnb)
-polynomial-trade,Polynomial Trade 
 merkle_trade,Merkle Trade
+polynomial-trade,Polynomial Trade 
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 strike-finance,Strike Finance
 powertrade_derivatives,Powertrade (Derivatives)
