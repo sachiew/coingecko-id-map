@@ -1,6 +1,5 @@
 id,name
 binance_futures,Binance (Futures)
-bitmart_futures,Bitmart Futures
 gate_futures,Gate (Futures)
 coinw_futures,CoinW (Futures)
 bybit,Bybit (Futures)
@@ -9,6 +8,7 @@ toobit_derivatives,Toobit Futures
 mxc_futures,MEXC (Futures)
 lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
+bitmart_futures,Bitmart Futures
 bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
 okex_swap,OKX (Futures)
@@ -18,8 +18,8 @@ bydfi-futures,BYDFi (Futures)
 whitebit_futures,WhiteBIT Futures
 orangex_futures,OrangeX Futures
 bitmex,BitMEX (Derivative)
-deepcoin_derivatives,Deepcoin (Derivatives)
 coinup-futures,CoinUp.io (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
 phemex_futures,Phemex (Futures)
@@ -30,13 +30,12 @@ kumex,KuCoin Futures
 bitunix_futures,Bitunix Futures
 bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
-lighter,Lighter
 zoomex-futures,Zoomex (Futures)
+lighter,Lighter
 btcex_futures,BTCEX (Futures)
 edgex,edgeX
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
-bitrue_futures,Bitrue (Futures)
 paradex,Paradex
 ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
@@ -44,6 +43,7 @@ kcex-futures,KCEX (Futures)
 kraken_futures,Kraken (Futures)
 backpack-futures,Backpack (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
+bitrue_futures,Bitrue (Futures)
 biconomy-futures,Biconomy (Futures)
 extended,Extended
 dmex,DMEX
@@ -73,8 +73,8 @@ injective_futures,Helix (Futures)
 poloniex_futures,Poloniex Futures
 powertrade_derivatives,Powertrade (Derivatives)
 hitbtc_derivatives,HitBTC (Derivatives)
-flash-trade,Flash Trade
 bigone_futures,BigONE Futures
+flash-trade,Flash Trade
 evedex,EVEDEX
 arkham_futures,Arkham (Futures)
 myx-bsc,MYX (BSC)
@@ -85,11 +85,11 @@ kiloex-bsc,KiloEx (BSC)
 valr-futures,VALR Futures
 gtrade-base,gTrade (Base)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
-levana-perps-osmosis,Levana Perps (Osmosis)
 kiloex-opbnb,KiloEx (opBnb)
 defx,Defx
 coincatch_derivatives,CoinCatch Derivatives
 strike-finance,Strike Finance
+levana-perps-osmosis,Levana Perps (Osmosis)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 polynomial-trade,Polynomial Trade 
 merkle_trade,Merkle Trade
