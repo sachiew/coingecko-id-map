@@ -3,10 +3,10 @@ bitmart_futures,Bitmart Futures
 binance_futures,Binance (Futures)
 coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
-ftx,FTX (Derivatives)
 bybit,Bybit (Futures)
-lbank-futures,LBank (Futures)
+ftx,FTX (Derivatives)
 mxc_futures,MEXC (Futures)
+lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 hyperliquid,Hyperliquid (Futures)
 bitget_futures,Bitget Futures
@@ -17,8 +17,8 @@ whitebit_futures,WhiteBIT Futures
 bitmex,BitMEX (Derivative)
 bitvenus,BVOX (Futures)
 coinup-futures,CoinUp.io (Futures)
-bingx_futures,BingX (Futures)
 toobit_derivatives,Toobit Futures
+bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
 phemex_futures,Phemex (Futures)
 orangex_futures,OrangeX Futures
@@ -26,12 +26,12 @@ deepcoin_derivatives,Deepcoin (Derivatives)
 deribit,Deribit
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
-bitunix_futures,Bitunix Futures
 kumex,KuCoin Futures
+bitunix_futures,Bitunix Futures
 bitfinex_futures,Bitfinex (Futures)
+prime_xbt,PrimeXBT
 zoomex-futures,Zoomex (Futures)
 lighter,Lighter
-prime_xbt,PrimeXBT
 edgex,edgeX
 btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
@@ -69,19 +69,19 @@ aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
 zb_derivatives,ZB (Derivatives)
 injective_futures,Helix (Futures)
-poloniex_futures,Poloniex Futures
 gtrade-arbitrum,gTrade (Arbitrum)
+poloniex_futures,Poloniex Futures
 hitbtc_derivatives,HitBTC (Derivatives)
-flash-trade,Flash Trade
 bigone_futures,BigONE Futures
+flash-trade,Flash Trade
 arkham_futures,Arkham (Futures)
 evedex,EVEDEX
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 enclave-markets,EnclaveX
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
-coincatch_derivatives,CoinCatch Derivatives
 gtrade-base,gTrade (Base)
+coincatch_derivatives,CoinCatch Derivatives
 kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
@@ -92,8 +92,8 @@ merkle_trade,Merkle Trade
 strike-finance,Strike Finance
 polynomial-trade,Polynomial Trade 
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-gtrade-polygon,gTrade (Polygon)
 powertrade_derivatives,Powertrade (Derivatives)
+gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 holdstation-defutures,Holdstation DeFutures
