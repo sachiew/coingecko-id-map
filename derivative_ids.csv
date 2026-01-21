@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
-gate_futures,Gate (Futures)
 ftx,FTX (Derivatives)
+gate_futures,Gate (Futures)
 coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
 lbank-futures,LBank (Futures)
@@ -37,8 +37,8 @@ edgex,edgeX
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
-ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
+ourbit-futures,Ourbit (Futures)
 kcex-futures,KCEX (Futures)
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
@@ -55,8 +55,8 @@ levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
 bullish-futures,Bullish (Futures)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 powertrade_derivatives,Powertrade (Derivatives)
 aqx_derivatives,Flipster
 derive-futures,Derive (Futures)
@@ -81,8 +81,8 @@ enclave-markets,EnclaveX
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 myx-bsc,MYX (BSC)
 kiloex-base,KiloEx (Base)
-myx-linea,MYX (Linea)
 valr-futures,VALR Futures
+myx-linea,MYX (Linea)
 gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
