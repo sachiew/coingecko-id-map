@@ -1,13 +1,13 @@
 id,name
 binance_futures,Binance (Futures)
 bitmart_futures,Bitmart Futures
+coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 toobit_derivatives,Toobit Futures
-lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
-coinw_futures,CoinW (Futures)
+lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
@@ -26,9 +26,9 @@ deribit,Deribit
 bitmex,BitMEX (Derivative)
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
+prime_xbt,PrimeXBT
 kumex,KuCoin Futures
 bitunix_futures,Bitunix Futures
-prime_xbt,PrimeXBT
 bitfinex_futures,Bitfinex (Futures)
 zoomex-futures,Zoomex (Futures)
 lighter,Lighter
@@ -77,12 +77,12 @@ enclave-markets,EnclaveX
 evedex,EVEDEX
 flash-trade,Flash Trade
 arkham_futures,Arkham (Futures)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-base,KiloEx (Base)
-kiloex-bsc,KiloEx (BSC)
 valr-futures,VALR Futures
+kiloex-bsc,KiloEx (BSC)
 gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 defx,Defx
