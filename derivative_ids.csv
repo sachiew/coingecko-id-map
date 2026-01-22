@@ -7,8 +7,8 @@ coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
 lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
-bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
+bitget_futures,Bitget Futures
 bitmart_futures,Bitmart Futures
 okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
@@ -17,10 +17,10 @@ orangex_futures,OrangeX Futures
 bitvenus,BVOX (Futures)
 bydfi-futures,BYDFi (Futures)
 whitebit_futures,WhiteBIT Futures
-deepcoin_derivatives,Deepcoin (Derivatives)
 coinup-futures,CoinUp.io (Futures)
 bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
+deepcoin_derivatives,Deepcoin (Derivatives)
 phemex_futures,Phemex (Futures)
 deribit,Deribit
 bitmex,BitMEX (Derivative)
@@ -37,9 +37,9 @@ edgex,edgeX
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
-ourbit-futures,Ourbit (Futures)
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
+ourbit-futures,Ourbit (Futures)
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
 backpack-futures,Backpack (Futures)
@@ -54,10 +54,10 @@ apex-omni,ApeX Omni
 bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
-bitmax_futures,AscendEX  (BitMax) (Futures)
 pacifica,Pacifica
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 powertrade_derivatives,Powertrade (Derivatives)
 derive-futures,Derive (Futures)
 aqx_derivatives,Flipster
@@ -75,8 +75,8 @@ injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 evedex,EVEDEX
-flash-trade,Flash Trade
 arkham_futures,Arkham (Futures)
+flash-trade,Flash Trade
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
@@ -84,9 +84,9 @@ kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 gtrade-base,gTrade (Base)
+merkle_trade,Merkle Trade
 enclave-markets,EnclaveX
 kiloex-opbnb,KiloEx (opBnb)
-merkle_trade,Merkle Trade
 strike-finance,Strike Finance
 defx,Defx
 polynomial-trade,Polynomial Trade 
