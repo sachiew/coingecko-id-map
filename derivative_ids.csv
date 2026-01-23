@@ -1,23 +1,23 @@
 id,name
 binance_futures,Binance (Futures)
 bitmart_futures,Bitmart Futures
-bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
-gate_futures,Gate (Futures)
+bybit,Bybit (Futures)
 coinw_futures,CoinW (Futures)
+gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
-hyperliquid,Hyperliquid (Futures)
 bitget_futures,Bitget Futures
+hyperliquid,Hyperliquid (Futures)
 okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
 orangex_futures,OrangeX Futures
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
 whitebit_futures,WhiteBIT Futures
-coinup-futures,CoinUp.io (Futures)
 bitvenus,BVOX (Futures)
+coinup-futures,CoinUp.io (Futures)
 bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
 phemex_futures,Phemex (Futures)
@@ -43,8 +43,8 @@ ourbit-futures,Ourbit (Futures)
 kraken_futures,Kraken (Futures)
 backpack-futures,Backpack (Futures)
 biconomy-futures,Biconomy (Futures)
-coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 bitrue_futures,Bitrue (Futures)
+coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 extended,Extended
 coinex_futures,CoinEx (Futures)
 dmex,DMEX
@@ -85,8 +85,8 @@ valr-futures,VALR Futures
 gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
 enclave-markets,EnclaveX
-kiloex-opbnb,KiloEx (opBnb)
 merkle_trade,Merkle Trade
+kiloex-opbnb,KiloEx (opBnb)
 defx,Defx
 strike-finance,Strike Finance
 polynomial-trade,Polynomial Trade 
@@ -97,7 +97,7 @@ demex_derivatives,Demex (Derivatives)
 fwx-futures,FWX (Futures) (Avalanche)
 spacewhale,SpaceWhale
 deriw,DeriW
-dydx_perpetual,dYdX Perpetual (Ethereum)
+orderly_network_derivatives,Orderly (Derivatives) (Near)
 synfutures,SynFutures
 apex_pro,ApeX Pro
 fairdesk_derivatives,Fairdesk Derivatives
@@ -140,7 +140,6 @@ jojo-exchange-futures,JOJO Exchange
 spherex,SphereX
 ln-exchange-futures,LN Exchange (Futures)
 vertex-edge-base,Vertex Edge (Base)
-orderly_network_derivatives,Orderly (Derivatives) (Near)
 vertex-edge-abstract,Vertex Edge (Abstract)
 bluefin_futures,Bluefin (Futures)
 d8x-futures,D8X (Berachain)
@@ -179,7 +178,9 @@ perpetual_protocol,Perpetual Protocol
 leverj,Leverj
 bullish_futures,Bullish Futures (OLD)
 equos_perpetual,EQONEX (Perpetual)
+dydx_perpetual,dYdX Perpetual (Ethereum)
 mcdex_bsc,MCDEX (BSC)
+antarctic,Antarctic 
 fmex,FMex
 btcc_futures,BTCC Futures
 mango_markets_derivatives,Mango Markets (Derivatives)
