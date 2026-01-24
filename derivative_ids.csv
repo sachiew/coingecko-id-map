@@ -2,8 +2,8 @@ id,name
 binance_futures,Binance (Futures)
 ftx,FTX (Derivatives)
 bybit,Bybit (Futures)
-gate_futures,Gate (Futures)
 bitmart_futures,Bitmart Futures
+gate_futures,Gate (Futures)
 coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
 lbank-futures,LBank (Futures)
@@ -81,9 +81,9 @@ myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 enclave-markets,EnclaveX
 kiloex-opbnb,KiloEx (opBnb)
 merkle_trade,Merkle Trade
@@ -93,8 +93,8 @@ kiloex-manta-pacific,KiloEx (Manta Pacific)
 polynomial-trade,Polynomial Trade 
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
-myx,MYX
 fwx-futures,FWX (Futures) (Avalanche)
+myx,MYX
 spacewhale,SpaceWhale
 deriw,DeriW
 orderly_network_derivatives,Orderly (Derivatives) (Near)
