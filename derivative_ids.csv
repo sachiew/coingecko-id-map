@@ -13,35 +13,35 @@ okex_swap,OKX (Futures)
 bydfi-futures,BYDFi (Futures)
 whitebit_futures,WhiteBIT Futures
 xt_derivatives,XT.COM (Derivatives)
+prime_xbt,PrimeXBT
 coinup-futures,CoinUp.io (Futures)
 bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
-prime_xbt,PrimeXBT
 phemex_futures,Phemex (Futures)
 bitmex,BitMEX (Derivative)
 deribit,Deribit
 orangex_futures,OrangeX Futures
-toobit_derivatives,Toobit Futures
 lbank-futures,LBank (Futures)
 aster,Aster (Futures)
+toobit_derivatives,Toobit Futures
 crypto_com_futures,Crypto.com Exchange (Futures)
 kumex,KuCoin Futures
-bitvenus,BVOX (Futures)
 bitunix_futures,Bitunix Futures
 bitfinex_futures,Bitfinex (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
+bitvenus,BVOX (Futures)
 zoomex-futures,Zoomex (Futures)
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
 edgex,edgeX
+deepcoin_derivatives,Deepcoin (Derivatives)
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
 grvt_futures,GRVT
 kcex-futures,KCEX (Futures)
 kraken_futures,Kraken (Futures)
-ourbit-futures,Ourbit (Futures)
 extended,Extended
+ourbit-futures,Ourbit (Futures)
 backpack-futures,Backpack (Futures)
 biconomy-futures,Biconomy (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
@@ -59,10 +59,9 @@ globe_exchange_derivatives,Globe (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
 powertrade_derivatives,Powertrade (Derivatives)
 delta_futures,Delta Exchange (Futures)
-ostium,Ostium
 derive-futures,Derive (Futures)
-vest-exchange-futures,Vest Exchange
 orderly_network_derivatives_evm,Orderly (Derivatives)
+vest-exchange-futures,Vest Exchange
 aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 gemini_derivatives,Gemini Derivatives
@@ -76,8 +75,8 @@ hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 arkham_futures,Arkham (Futures)
 evedex,EVEDEX
-flash-trade,Flash Trade
 myx-bsc,MYX (BSC)
+flash-trade,Flash Trade
 myx-linea,MYX (Linea)
 gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
@@ -125,6 +124,7 @@ coincall,Coincall
 vertex-protocol,Vertex Protocol
 ktx_finance_arbitrum_derivatives,KTX.Finance (Arbitrum)
 equation,Equation
+ostium,Ostium
 ebi-xyz,EBI.XYZ
 blitz,Blitz
 aboard-exchange,Aboard Exchange
