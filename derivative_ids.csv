@@ -1,9 +1,9 @@
 id,name
 binance_futures,Binance (Futures)
-coinw_futures,CoinW (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
+coinw_futures,CoinW (Futures)
 bitmart_futures,Bitmart Futures
 mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
@@ -11,13 +11,13 @@ bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
 okex_swap,OKX (Futures)
 bydfi-futures,BYDFi (Futures)
-whitebit_futures,WhiteBIT Futures
 xt_derivatives,XT.COM (Derivatives)
-bitmex,BitMEX (Derivative)
 toobit_derivatives,Toobit Futures
+whitebit_futures,WhiteBIT Futures
+bitmex,BitMEX (Derivative)
 prime_xbt,PrimeXBT
-coinup-futures,CoinUp.io (Futures)
 bingx_futures,BingX (Futures)
+coinup-futures,CoinUp.io (Futures)
 huobi_dm,HTX Futures
 orangex_futures,OrangeX Futures
 phemex_futures,Phemex (Futures)
@@ -27,8 +27,8 @@ lbank-futures,LBank (Futures)
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 kumex,KuCoin Futures
-bitunix_futures,Bitunix Futures
 deepcoin_derivatives,Deepcoin (Derivatives)
+bitunix_futures,Bitunix Futures
 bitfinex_futures,Bitfinex (Futures)
 zoomex-futures,Zoomex (Futures)
 lighter,Lighter
@@ -37,10 +37,10 @@ edgex,edgeX
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
-grvt_futures,GRVT
 kcex-futures,KCEX (Futures)
-ourbit-futures,Ourbit (Futures)
+grvt_futures,GRVT
 kraken_futures,Kraken (Futures)
+ourbit-futures,Ourbit (Futures)
 bitrue_futures,Bitrue (Futures)
 extended,Extended
 backpack-futures,Backpack (Futures)
@@ -85,14 +85,14 @@ gtrade-base,gTrade (Base)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 enclave-markets,EnclaveX
 kiloex-opbnb,KiloEx (opBnb)
+strike-finance,Strike Finance
 defx,Defx
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 polynomial-trade,Polynomial Trade 
-strike-finance,Strike Finance
 merkle_trade,Merkle Trade
 gtrade-polygon,gTrade (Polygon)
-holdstation-defutures,Holdstation DeFutures
 navigator,Navigator
+holdstation-defutures,Holdstation DeFutures
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 deriw,DeriW
