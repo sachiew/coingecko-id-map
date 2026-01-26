@@ -1,10 +1,10 @@
 id,name
 binance_futures,Binance (Futures)
+bitmart_futures,Bitmart Futures
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 coinw_futures,CoinW (Futures)
-bitmart_futures,Bitmart Futures
 lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 mxc_futures,MEXC (Futures)
@@ -13,8 +13,8 @@ toobit_derivatives,Toobit Futures
 hyperliquid,Hyperliquid (Futures)
 okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
-bitvenus,BVOX (Futures)
 bydfi-futures,BYDFi (Futures)
+bitvenus,BVOX (Futures)
 whitebit_futures,WhiteBIT Futures
 bitmex,BitMEX (Derivative)
 prime_xbt,PrimeXBT
@@ -22,8 +22,8 @@ orangex_futures,OrangeX Futures
 bingx_futures,BingX (Futures)
 coinup-futures,CoinUp.io (Futures)
 huobi_dm,HTX Futures
-phemex_futures,Phemex (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
+phemex_futures,Phemex (Futures)
 deribit,Deribit
 aster,Aster (Futures)
 kumex,KuCoin Futures
@@ -49,8 +49,8 @@ biconomy-futures,Biconomy (Futures)
 coinex_futures,CoinEx (Futures)
 dmex,DMEX
 drift_protocol,Drift Protocol
-ostium,Ostium
 apex-omni,ApeX Omni
+ostium,Ostium
 bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
@@ -59,7 +59,6 @@ bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
 delta_futures,Delta Exchange (Futures)
-powertrade_derivatives,Powertrade (Derivatives)
 vest-exchange-futures,Vest Exchange
 derive-futures,Derive (Futures)
 aqx_derivatives,Flipster
@@ -84,21 +83,22 @@ kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
-kiloex-opbnb,KiloEx (opBnb)
 enclave-markets,EnclaveX
+kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
 defx,Defx
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 strike-finance,Strike Finance
-merkle_trade,Merkle Trade
 polynomial-trade,Polynomial Trade 
+merkle_trade,Merkle Trade
 gtrade-polygon,gTrade (Polygon)
+powertrade_derivatives,Powertrade (Derivatives)
 navigator,Navigator
 fwx-futures,FWX (Futures) (Avalanche)
 myx,MYX
+spacewhale,SpaceWhale
 demex_derivatives,Demex (Derivatives)
 holdstation-defutures,Holdstation DeFutures
-spacewhale,SpaceWhale
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 synfutures,SynFutures
 apex_pro,ApeX Pro
