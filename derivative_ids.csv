@@ -1,9 +1,9 @@
 id,name
 binance_futures,Binance (Futures)
-bitmart_futures,Bitmart Futures
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
+bitmart_futures,Bitmart Futures
 coinw_futures,CoinW (Futures)
 lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
@@ -37,9 +37,9 @@ edgex,edgeX
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
+ourbit-futures,Ourbit (Futures)
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
-ourbit-futures,Ourbit (Futures)
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
 extended,Extended
@@ -91,8 +91,8 @@ kiloex-manta-pacific,KiloEx (Manta Pacific)
 strike-finance,Strike Finance
 polynomial-trade,Polynomial Trade 
 merkle_trade,Merkle Trade
-gtrade-polygon,gTrade (Polygon)
 powertrade_derivatives,Powertrade (Derivatives)
+gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 fwx-futures,FWX (Futures) (Avalanche)
 myx,MYX
