@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
-gate_futures,Gate (Futures)
 ftx,FTX (Derivatives)
+gate_futures,Gate (Futures)
 coinw_futures,CoinW (Futures)
 lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
@@ -16,8 +16,8 @@ bingx_futures,BingX (Futures)
 toobit_derivatives,Toobit Futures
 bydfi-futures,BYDFi (Futures)
 bitmex,BitMEX (Derivative)
-whitebit_futures,WhiteBIT Futures
 prime_xbt,PrimeXBT
+whitebit_futures,WhiteBIT Futures
 bitvenus,BVOX (Futures)
 coinup-futures,CoinUp.io (Futures)
 huobi_dm,HTX Futures
@@ -58,12 +58,12 @@ dydx_chain,dYdX Chain
 bullish-futures,Bullish (Futures)
 pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
-powertrade_derivatives,Powertrade (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
+powertrade_derivatives,Powertrade (Derivatives)
 vest-exchange-futures,Vest Exchange
+orderly_network_derivatives_evm,Orderly (Derivatives)
 derive-futures,Derive (Futures)
 delta_futures,Delta Exchange (Futures)
-orderly_network_derivatives_evm,Orderly (Derivatives)
 aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 gemini_derivatives,Gemini Derivatives
@@ -77,24 +77,24 @@ hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 arkham_futures,Arkham (Futures)
 evedex,EVEDEX
-myx-bsc,MYX (BSC)
-gtrade-base,gTrade (Base)
-myx-linea,MYX (Linea)
 flash-trade,Flash Trade
+myx-bsc,MYX (BSC)
+myx-linea,MYX (Linea)
+gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
+merkle_trade,Merkle Trade
 enclave-markets,EnclaveX
 deriw,DeriW
-merkle_trade,Merkle Trade
 defx,Defx
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-strike-finance,Strike Finance
 polynomial-trade,Polynomial Trade 
-navigator,Navigator
+strike-finance,Strike Finance
 gtrade-polygon,gTrade (Polygon)
+navigator,Navigator
 holdstation-defutures,Holdstation DeFutures
 fwx-futures,FWX (Futures) (Avalanche)
 myx,MYX
