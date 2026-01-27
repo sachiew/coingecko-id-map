@@ -37,8 +37,8 @@ edgex,edgeX
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
-grvt_futures,GRVT
 kcex-futures,KCEX (Futures)
+grvt_futures,GRVT
 ourbit-futures,Ourbit (Futures)
 kraken_futures,Kraken (Futures)
 extended,Extended
@@ -58,8 +58,8 @@ dydx_chain,dYdX Chain
 bullish-futures,Bullish (Futures)
 pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
-powertrade_derivatives,Powertrade (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
+powertrade_derivatives,Powertrade (Derivatives)
 vest-exchange-futures,Vest Exchange
 derive-futures,Derive (Futures)
 delta_futures,Delta Exchange (Futures)
@@ -87,14 +87,14 @@ gtrade-base,gTrade (Base)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
-merkle_trade,Merkle Trade
-deriw,DeriW
-kiloex-manta-pacific,KiloEx (Manta Pacific)
-defx,Defx
 strike-finance,Strike Finance
+deriw,DeriW
+defx,Defx
+kiloex-manta-pacific,KiloEx (Manta Pacific)
+merkle_trade,Merkle Trade
 polynomial-trade,Polynomial Trade 
-gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
+gtrade-polygon,gTrade (Polygon)
 holdstation-defutures,Holdstation DeFutures
 fwx-futures,FWX (Futures) (Avalanche)
 spacewhale,SpaceWhale
