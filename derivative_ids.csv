@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
-ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
+ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
 lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
@@ -37,9 +37,9 @@ edgex,edgeX
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
-kcex-futures,KCEX (Futures)
-grvt_futures,GRVT
 ourbit-futures,Ourbit (Futures)
+grvt_futures,GRVT
+kcex-futures,KCEX (Futures)
 kraken_futures,Kraken (Futures)
 extended,Extended
 antarctic,Antarctic 
@@ -59,6 +59,7 @@ bullish-futures,Bullish (Futures)
 pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
+powertrade_derivatives,Powertrade (Derivatives)
 vest-exchange-futures,Vest Exchange
 delta_futures,Delta Exchange (Futures)
 derive-futures,Derive (Futures)
@@ -67,20 +68,19 @@ aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 gemini_derivatives,Gemini Derivatives
 aevo,Aevo
-hashkey-global-futures,HashKey Global (Futures)
 gtrade-arbitrum,gTrade (Arbitrum)
+hashkey-global-futures,HashKey Global (Futures)
 zb_derivatives,ZB (Derivatives)
-injective_futures,Helix (Futures)
 poloniex_futures,Poloniex Futures
-powertrade_derivatives,Powertrade (Derivatives)
+injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 arkham_futures,Arkham (Futures)
 evedex,EVEDEX
-flash-trade,Flash Trade
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 gtrade-base,gTrade (Base)
+flash-trade,Flash Trade
 kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
@@ -88,11 +88,11 @@ gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
 enclave-markets,EnclaveX
 deriw,DeriW
+merkle_trade,Merkle Trade
 defx,Defx
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 polynomial-trade,Polynomial Trade 
 strike-finance,Strike Finance
-merkle_trade,Merkle Trade
 navigator,Navigator
 gtrade-polygon,gTrade (Polygon)
 holdstation-defutures,Holdstation DeFutures
