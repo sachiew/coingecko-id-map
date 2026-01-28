@@ -2,8 +2,8 @@ id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
 coinw_futures,CoinW (Futures)
-gate_futures,Gate (Futures)
 ftx,FTX (Derivatives)
+gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 mxc_futures,MEXC (Futures)
@@ -22,9 +22,9 @@ bitvenus,BVOX (Futures)
 coinup-futures,CoinUp.io (Futures)
 orangex_futures,OrangeX Futures
 huobi_dm,HTX Futures
-deepcoin_derivatives,Deepcoin (Derivatives)
 phemex_futures,Phemex (Futures)
 deribit,Deribit
+deepcoin_derivatives,Deepcoin (Derivatives)
 aster,Aster (Futures)
 bitunix_futures,Bitunix Futures
 crypto_com_futures,Crypto.com Exchange (Futures)
@@ -37,8 +37,8 @@ edgex,edgeX
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
-ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
+ourbit-futures,Ourbit (Futures)
 kcex-futures,KCEX (Futures)
 kraken_futures,Kraken (Futures)
 extended,Extended
@@ -58,12 +58,12 @@ bullish-futures,Bullish (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 powertrade_derivatives,Powertrade (Derivatives)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 vest-exchange-futures,Vest Exchange
 derive-futures,Derive (Futures)
-orderly_network_derivatives_evm,Orderly (Derivatives)
 delta_futures,Delta Exchange (Futures)
+orderly_network_derivatives_evm,Orderly (Derivatives)
 aqx_derivatives,Flipster
 ln-exchange-futures,LN Exchange (Futures)
 woo_network_futures,WOO X (Futures)
@@ -81,19 +81,19 @@ evedex,EVEDEX
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 flash-trade,Flash Trade
+enclave-markets,EnclaveX
 gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
-enclave-markets,EnclaveX
 strike-finance,Strike Finance
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 defx,Defx
 deriw,DeriW
-merkle_trade,Merkle Trade
 polynomial-trade,Polynomial Trade 
+merkle_trade,Merkle Trade
 navigator,Navigator
 gtrade-polygon,gTrade (Polygon)
 holdstation-defutures,Holdstation DeFutures
