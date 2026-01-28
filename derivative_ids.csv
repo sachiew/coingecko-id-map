@@ -8,13 +8,13 @@ lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 mxc_futures,MEXC (Futures)
 bitget_futures,Bitget Futures
-bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
+bitmart_futures,Bitmart Futures
 okex_swap,OKX (Futures)
 toobit_derivatives,Toobit Futures
 xt_derivatives,XT.COM (Derivatives)
-bydfi-futures,BYDFi (Futures)
 bitmex,BitMEX (Derivative)
+bydfi-futures,BYDFi (Futures)
 whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
 prime_xbt,PrimeXBT
@@ -38,8 +38,8 @@ blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
 kcex-futures,KCEX (Futures)
-grvt_futures,GRVT
 ourbit-futures,Ourbit (Futures)
+grvt_futures,GRVT
 kraken_futures,Kraken (Futures)
 extended,Extended
 bitrue_futures,Bitrue (Futures)
@@ -61,8 +61,8 @@ globe_exchange_derivatives,Globe (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
 vest-exchange-futures,Vest Exchange
 derive-futures,Derive (Futures)
-delta_futures,Delta Exchange (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
+delta_futures,Delta Exchange (Futures)
 aqx_derivatives,Flipster
 ln-exchange-futures,LN Exchange (Futures)
 woo_network_futures,WOO X (Futures)
@@ -84,22 +84,22 @@ flash-trade,Flash Trade
 enclave-markets,EnclaveX
 gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
-valr-futures,VALR Futures
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
+valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
 strike-finance,Strike Finance
 defx,Defx
-kiloex-manta-pacific,KiloEx (Manta Pacific)
-polynomial-trade,Polynomial Trade 
 deriw,DeriW
+kiloex-manta-pacific,KiloEx (Manta Pacific)
+merkle_trade,Merkle Trade
+polynomial-trade,Polynomial Trade 
 navigator,Navigator
 gtrade-polygon,gTrade (Polygon)
-merkle_trade,Merkle Trade
 demex_derivatives,Demex (Derivatives)
 fwx-futures,FWX (Futures) (Avalanche)
-holdstation-defutures,Holdstation DeFutures
 spacewhale,SpaceWhale
+holdstation-defutures,Holdstation DeFutures
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 synfutures,SynFutures
 apex_pro,ApeX Pro
