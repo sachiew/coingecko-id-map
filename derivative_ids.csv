@@ -1,29 +1,29 @@
 id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
-gate_futures,Gate (Futures)
-ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
+ftx,FTX (Derivatives)
+gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
-weex-futures,WEEX (Futures)
 mxc_futures,MEXC (Futures)
+weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
 bitmart_futures,Bitmart Futures
-okex_swap,OKX (Futures)
 bitmex,BitMEX (Derivative)
+okex_swap,OKX (Futures)
 toobit_derivatives,Toobit Futures
 xt_derivatives,XT.COM (Derivatives)
 bydfi-futures,BYDFi (Futures)
-bingx_futures,BingX (Futures)
-whitebit_futures,WhiteBIT Futures
-bitvenus,BVOX (Futures)
 prime_xbt,PrimeXBT
+bitvenus,BVOX (Futures)
+whitebit_futures,WhiteBIT Futures
+bingx_futures,BingX (Futures)
 coinup-futures,CoinUp.io (Futures)
 orangex_futures,OrangeX Futures
 huobi_dm,HTX Futures
-phemex_futures,Phemex (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
+phemex_futures,Phemex (Futures)
 deribit,Deribit
 aster,Aster (Futures)
 bitunix_futures,Bitunix Futures
@@ -64,8 +64,8 @@ vest-exchange-futures,Vest Exchange
 derive-futures,Derive (Futures)
 delta_futures,Delta Exchange (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
-ln-exchange-futures,LN Exchange (Futures)
 aqx_derivatives,Flipster
+ln-exchange-futures,LN Exchange (Futures)
 woo_network_futures,WOO X (Futures)
 gemini_derivatives,Gemini Derivatives
 aevo,Aevo
@@ -81,24 +81,24 @@ evedex,EVEDEX
 flash-trade,Flash Trade
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
-enclave-markets,EnclaveX
 gtrade-base,gTrade (Base)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
+enclave-markets,EnclaveX
 kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
 strike-finance,Strike Finance
+merkle_trade,Merkle Trade
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 defx,Defx
 deriw,DeriW
-merkle_trade,Merkle Trade
 polynomial-trade,Polynomial Trade 
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
+holdstation-defutures,Holdstation DeFutures
 fwx-futures,FWX (Futures) (Avalanche)
 levana-perps-osmosis,Levana Perps (Osmosis)
-holdstation-defutures,Holdstation DeFutures
 spacewhale,SpaceWhale
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 synfutures,SynFutures
