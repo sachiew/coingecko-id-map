@@ -7,9 +7,9 @@ gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 mxc_futures,MEXC (Futures)
-bitmart_futures,Bitmart Futures
 bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
+bitmart_futures,Bitmart Futures
 okex_swap,OKX (Futures)
 toobit_derivatives,Toobit Futures
 bitmex,BitMEX (Derivative)
@@ -43,8 +43,8 @@ ourbit-futures,Ourbit (Futures)
 kraken_futures,Kraken (Futures)
 extended,Extended
 bitrue_futures,Bitrue (Futures)
-coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 antarctic,Antarctic 
+coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 biconomy-futures,Biconomy (Futures)
 backpack-futures,Backpack (Futures)
 coinex_futures,CoinEx (Futures)
@@ -58,13 +58,13 @@ dydx_chain,dYdX Chain
 pacifica,Pacifica
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-vest-exchange-futures,Vest Exchange
 bitmax_futures,AscendEX  (BitMax) (Futures)
+vest-exchange-futures,Vest Exchange
 derive-futures,Derive (Futures)
 delta_futures,Delta Exchange (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
-gtrade-arbitrum,gTrade (Arbitrum)
 ln-exchange-futures,LN Exchange (Futures)
+gtrade-arbitrum,gTrade (Arbitrum)
 aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 gemini_derivatives,Gemini Derivatives
@@ -82,8 +82,8 @@ gtrade-base,gTrade (Base)
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 enclave-markets,EnclaveX
-kiloex-base,KiloEx (Base)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
+kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
@@ -93,9 +93,9 @@ kiloex-manta-pacific,KiloEx (Manta Pacific)
 deriw,DeriW
 merkle_trade,Merkle Trade
 polynomial-trade,Polynomial Trade 
-powertrade_derivatives,Powertrade (Derivatives)
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
+powertrade_derivatives,Powertrade (Derivatives)
 holdstation-defutures,Holdstation DeFutures
 levana-perps-osmosis,Levana Perps (Osmosis)
 fwx-futures,FWX (Futures) (Avalanche)
