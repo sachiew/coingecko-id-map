@@ -4,20 +4,20 @@ bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 bitvenus,BVOX (Futures)
-toobit_derivatives,Toobit Futures
 mxc_futures,MEXC (Futures)
+toobit_derivatives,Toobit Futures
 bitmex,BitMEX (Derivative)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
-hyperliquid,Hyperliquid (Futures)
 xt_derivatives,XT.COM (Derivatives)
+hyperliquid,Hyperliquid (Futures)
 coinw_futures,CoinW (Futures)
 bitmart_futures,Bitmart Futures
-bydfi-futures,BYDFi (Futures)
-orangex_futures,OrangeX Futures
-bingx_futures,BingX (Futures)
 prime_xbt,PrimeXBT
+bydfi-futures,BYDFi (Futures)
+bingx_futures,BingX (Futures)
+orangex_futures,OrangeX Futures
 deepcoin_derivatives,Deepcoin (Derivatives)
 whitebit_futures,WhiteBIT Futures
 huobi_dm,HTX Futures
@@ -34,22 +34,22 @@ zoomex-futures,Zoomex (Futures)
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
 btse_futures,BTSE (Futures)
-edgex,edgeX
 blofin,BloFin (Futures)
-bitmax_futures,AscendEX  (BitMax) (Futures)
-paradex,Paradex
+edgex,edgeX
 ourbit-futures,Ourbit (Futures)
+paradex,Paradex
 grvt_futures,GRVT
 kcex-futures,KCEX (Futures)
 extended,Extended
+bitmax_futures,AscendEX  (BitMax) (Futures)
 kraken_futures,Kraken (Futures)
 antarctic,Antarctic 
 bitrue_futures,Bitrue (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 biconomy-futures,Biconomy (Futures)
 backpack-futures,Backpack (Futures)
-dmex,DMEX
 coinex_futures,CoinEx (Futures)
+dmex,DMEX
 ostium,Ostium
 drift_protocol,Drift Protocol
 ln-exchange-futures,LN Exchange (Futures)
@@ -81,11 +81,11 @@ arkham_futures,Arkham (Futures)
 flash-trade,Flash Trade
 myx-linea,MYX (Linea)
 kiloex-bsc,KiloEx (BSC)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
+kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
 myx-bsc,MYX (BSC)
-kiloex-base,KiloEx (Base)
 gtrade-base,gTrade (Base)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
 enclave-markets,EnclaveX
 deriw,DeriW
@@ -96,8 +96,8 @@ defx,Defx
 gtrade-polygon,gTrade (Polygon)
 levana-perps-osmosis,Levana Perps (Osmosis)
 powertrade_derivatives,Powertrade (Derivatives)
-navigator,Navigator
 demex_derivatives,Demex (Derivatives)
+navigator,Navigator
 myx,MYX
 spacewhale,SpaceWhale
 orderly_network_derivatives,Orderly (Derivatives) (Near)
