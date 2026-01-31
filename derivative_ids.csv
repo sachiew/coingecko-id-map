@@ -8,16 +8,16 @@ mxc_futures,MEXC (Futures)
 toobit_derivatives,Toobit Futures
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
+bitmex,BitMEX (Derivative)
 okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
-bitmex,BitMEX (Derivative)
 hyperliquid,Hyperliquid (Futures)
 coinw_futures,CoinW (Futures)
 bitmart_futures,Bitmart Futures
 prime_xbt,PrimeXBT
 bydfi-futures,BYDFi (Futures)
-bingx_futures,BingX (Futures)
 orangex_futures,OrangeX Futures
+bingx_futures,BingX (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 whitebit_futures,WhiteBIT Futures
 huobi_dm,HTX Futures
@@ -49,24 +49,24 @@ biconomy-futures,Biconomy (Futures)
 coinex_futures,CoinEx (Futures)
 dmex,DMEX
 backpack-futures,Backpack (Futures)
-ln-exchange-futures,LN Exchange (Futures)
 ostium,Ostium
 drift_protocol,Drift Protocol
+ln-exchange-futures,LN Exchange (Futures)
 bullish-futures,Bullish (Futures)
 apex-omni,ApeX Omni
-bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
-bitmax_futures,AscendEX  (BitMax) (Futures)
+bitkan-futures,BitKan (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
+bitmax_futures,AscendEX  (BitMax) (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
 aqx_derivatives,Flipster
 derive-futures,Derive (Futures)
 woo_network_futures,WOO X (Futures)
 delta_futures,Delta Exchange (Futures)
-gtrade-arbitrum,gTrade (Arbitrum)
 orderly_network_derivatives_evm,Orderly (Derivatives)
+gtrade-arbitrum,gTrade (Arbitrum)
 aevo,Aevo
 gemini_derivatives,Gemini Derivatives
 hashkey-global-futures,HashKey Global (Futures)
@@ -80,23 +80,23 @@ evedex,EVEDEX
 arkham_futures,Arkham (Futures)
 flash-trade,Flash Trade
 myx-linea,MYX (Linea)
+valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
-valr-futures,VALR Futures
 kiloex-base,KiloEx (Base)
 myx-bsc,MYX (BSC)
 gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 enclave-markets,EnclaveX
-deriw,DeriW
 polynomial-trade,Polynomial Trade 
-strike-finance,Strike Finance
+deriw,DeriW
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 defx,Defx
+strike-finance,Strike Finance
 gtrade-polygon,gTrade (Polygon)
 powertrade_derivatives,Powertrade (Derivatives)
-levana-perps-osmosis,Levana Perps (Osmosis)
 navigator,Navigator
+levana-perps-osmosis,Levana Perps (Osmosis)
 demex_derivatives,Demex (Derivatives)
 myx,MYX
 spacewhale,SpaceWhale
