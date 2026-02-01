@@ -6,23 +6,23 @@ gate_futures,Gate (Futures)
 mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
 weex-futures,WEEX (Futures)
-bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
+bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
-bitvenus,BVOX (Futures)
 hyperliquid,Hyperliquid (Futures)
+bitvenus,BVOX (Futures)
+prime_xbt,PrimeXBT
 bitmart_futures,Bitmart Futures
 bitmex,BitMEX (Derivative)
-prime_xbt,PrimeXBT
 toobit_derivatives,Toobit Futures
 bydfi-futures,BYDFi (Futures)
 bingx_futures,BingX (Futures)
 whitebit_futures,WhiteBIT Futures
 orangex_futures,OrangeX Futures
 huobi_dm,HTX Futures
+deepcoin_derivatives,Deepcoin (Derivatives)
 deribit,Deribit
 coinup-futures,CoinUp.io (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 phemex_futures,Phemex (Futures)
 lbank-futures,LBank (Futures)
 aster,Aster (Futures)
@@ -51,13 +51,13 @@ coinex_futures,CoinEx (Futures)
 backpack-futures,Backpack (Futures)
 drift_protocol,Drift Protocol
 bullish-futures,Bullish (Futures)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 apex-omni,ApeX Omni
-bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
-ln-exchange-futures,LN Exchange (Futures)
+bitkan-futures,BitKan (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
-bitmax_futures,AscendEX  (BitMax) (Futures)
+ln-exchange-futures,LN Exchange (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
 aqx_derivatives,Flipster
@@ -78,23 +78,23 @@ evedex,EVEDEX
 bigone_futures,BigONE Futures
 arkham_futures,Arkham (Futures)
 myx-bsc,MYX (BSC)
+flash-trade,Flash Trade
 myx-linea,MYX (Linea)
 kiloex-base,KiloEx (Base)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-bsc,KiloEx (BSC)
 valr-futures,VALR Futures
-flash-trade,Flash Trade
 kiloex-opbnb,KiloEx (opBnb)
 gtrade-base,gTrade (Base)
-enclave-markets,EnclaveX
 deriw,DeriW
+enclave-markets,EnclaveX
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 defx,Defx
 strike-finance,Strike Finance
 polynomial-trade,Polynomial Trade 
 merkle_trade,Merkle Trade
-gtrade-polygon,gTrade (Polygon)
 powertrade_derivatives,Powertrade (Derivatives)
+gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 levana-perps-osmosis,Levana Perps (Osmosis)
 demex_derivatives,Demex (Derivatives)
