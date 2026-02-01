@@ -5,13 +5,13 @@ ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
+bitmex,BitMEX (Derivative)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
-bitmex,BitMEX (Derivative)
-bitvenus,BVOX (Futures)
 xt_derivatives,XT.COM (Derivatives)
 hyperliquid,Hyperliquid (Futures)
+bitvenus,BVOX (Futures)
 bitmart_futures,Bitmart Futures
 prime_xbt,PrimeXBT
 toobit_derivatives,Toobit Futures
@@ -19,10 +19,10 @@ bydfi-futures,BYDFi (Futures)
 bingx_futures,BingX (Futures)
 whitebit_futures,WhiteBIT Futures
 orangex_futures,OrangeX Futures
-deepcoin_derivatives,Deepcoin (Derivatives)
 huobi_dm,HTX Futures
 deribit,Deribit
 coinup-futures,CoinUp.io (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 phemex_futures,Phemex (Futures)
 lbank-futures,LBank (Futures)
 aster,Aster (Futures)
@@ -33,9 +33,9 @@ bitfinex_futures,Bitfinex (Futures)
 zoomex-futures,Zoomex (Futures)
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
+btse_futures,BTSE (Futures)
 edgex,edgeX
 blofin,BloFin (Futures)
-btse_futures,BTSE (Futures)
 paradex,Paradex
 ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
@@ -77,27 +77,27 @@ hitbtc_derivatives,HitBTC (Derivatives)
 evedex,EVEDEX
 bigone_futures,BigONE Futures
 arkham_futures,Arkham (Futures)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 kiloex-base,KiloEx (Base)
 kiloex-bsc,KiloEx (BSC)
 valr-futures,VALR Futures
 flash-trade,Flash Trade
-gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
+gtrade-base,gTrade (Base)
 enclave-markets,EnclaveX
 deriw,DeriW
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 defx,Defx
-polynomial-trade,Polynomial Trade 
 strike-finance,Strike Finance
+polynomial-trade,Polynomial Trade 
 merkle_trade,Merkle Trade
 gtrade-polygon,gTrade (Polygon)
 powertrade_derivatives,Powertrade (Derivatives)
 navigator,Navigator
-demex_derivatives,Demex (Derivatives)
 levana-perps-osmosis,Levana Perps (Osmosis)
+demex_derivatives,Demex (Derivatives)
 myx,MYX
 spacewhale,SpaceWhale
 orderly_network_derivatives,Orderly (Derivatives) (Near)
