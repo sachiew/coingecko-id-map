@@ -6,17 +6,17 @@ gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 bitmex,BitMEX (Derivative)
 mxc_futures,MEXC (Futures)
-weex-futures,WEEX (Futures)
 coinw_futures,CoinW (Futures)
 bitget_futures,Bitget Futures
+weex-futures,WEEX (Futures)
 okex_swap,OKX (Futures)
 bitvenus,BVOX (Futures)
 hyperliquid,Hyperliquid (Futures)
 bitmart_futures,Bitmart Futures
 xt_derivatives,XT.COM (Derivatives)
 prime_xbt,PrimeXBT
-bingx_futures,BingX (Futures)
 toobit_derivatives,Toobit Futures
+bingx_futures,BingX (Futures)
 bydfi-futures,BYDFi (Futures)
 orangex_futures,OrangeX Futures
 whitebit_futures,WhiteBIT Futures
@@ -36,8 +36,8 @@ btcex_futures,BTCEX (Futures)
 edgex,edgeX
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
-ourbit-futures,Ourbit (Futures)
 paradex,Paradex
+ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
 kcex-futures,KCEX (Futures)
 bitrue_futures,Bitrue (Futures)
@@ -61,8 +61,8 @@ pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
 vest-exchange-futures,Vest Exchange
-woo_network_futures,WOO X (Futures)
 gtrade-arbitrum,gTrade (Arbitrum)
+woo_network_futures,WOO X (Futures)
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 aqx_derivatives,Flipster
@@ -76,26 +76,26 @@ poloniex_futures,Poloniex Futures
 evedex,EVEDEX
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
-myx-bsc,MYX (BSC)
 arkham_futures,Arkham (Futures)
+myx-bsc,MYX (BSC)
 gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
 kiloex-bsc,KiloEx (BSC)
 flash-trade,Flash Trade
-strike-finance,Strike Finance
 valr-futures,VALR Futures
+strike-finance,Strike Finance
 myx-linea,MYX (Linea)
 enclave-markets,EnclaveX
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-merkle_trade,Merkle Trade
 polynomial-trade,Polynomial Trade 
+merkle_trade,Merkle Trade
 defx,Defx
 gtrade-polygon,gTrade (Polygon)
-powertrade_derivatives,Powertrade (Derivatives)
 navigator,Navigator
+powertrade_derivatives,Powertrade (Derivatives)
 demex_derivatives,Demex (Derivatives)
 fwx-futures,FWX (Futures) (Avalanche)
 levana-perps-osmosis,Levana Perps (Osmosis)
