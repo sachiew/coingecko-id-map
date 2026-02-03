@@ -5,36 +5,36 @@ ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 bitmex,BitMEX (Derivative)
 lbank-futures,LBank (Futures)
+bitvenus,BVOX (Futures)
+toobit_derivatives,Toobit Futures
 mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
-bitvenus,BVOX (Futures)
 bitget_futures,Bitget Futures
-toobit_derivatives,Toobit Futures
+okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
 coinw_futures,CoinW (Futures)
-okex_swap,OKX (Futures)
 hyperliquid,Hyperliquid (Futures)
 bitmart_futures,Bitmart Futures
-prime_xbt,PrimeXBT
 bingx_futures,BingX (Futures)
+prime_xbt,PrimeXBT
 bydfi-futures,BYDFi (Futures)
 orangex_futures,OrangeX Futures
-whitebit_futures,WhiteBIT Futures
 deepcoin_derivatives,Deepcoin (Derivatives)
+whitebit_futures,WhiteBIT Futures
 deribit,Deribit
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
 phemex_futures,Phemex (Futures)
 aster,Aster (Futures)
-kumex,KuCoin Futures
 crypto_com_futures,Crypto.com Exchange (Futures)
+kumex,KuCoin Futures
 bitunix_futures,Bitunix Futures
 bitfinex_futures,Bitfinex (Futures)
 lighter,Lighter
 zoomex-futures,Zoomex (Futures)
 btcex_futures,BTCEX (Futures)
-btse_futures,BTSE (Futures)
 edgex,edgeX
+btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 paradex,Paradex
 ourbit-futures,Ourbit (Futures)
@@ -53,16 +53,16 @@ ostium,Ostium
 drift_protocol,Drift Protocol
 bullish-futures,Bullish (Futures)
 apex-omni,ApeX Omni
-bitmax_futures,AscendEX  (BitMax) (Futures)
-bitkan-futures,BitKan (Futures)
-levex-futures,LeveX (Futures)
-dydx_chain,dYdX Chain
 ln-exchange-futures,LN Exchange (Futures)
+levex-futures,LeveX (Futures)
+bitkan-futures,BitKan (Futures)
+dydx_chain,dYdX Chain
+bitmax_futures,AscendEX  (BitMax) (Futures)
 pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
-aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
+aqx_derivatives,Flipster
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
@@ -89,11 +89,11 @@ kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
 enclave-markets,EnclaveX
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-merkle_trade,Merkle Trade
-defx,Defx
 powertrade_derivatives,Powertrade (Derivatives)
 polynomial-trade,Polynomial Trade 
+defx,Defx
 gtrade-polygon,gTrade (Polygon)
+merkle_trade,Merkle Trade
 navigator,Navigator
 levana-perps-osmosis,Levana Perps (Osmosis)
 demex_derivatives,Demex (Derivatives)
