@@ -7,22 +7,22 @@ lbank-futures,LBank (Futures)
 bitmex,BitMEX (Derivative)
 mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
-weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
+weex-futures,WEEX (Futures)
 okex_swap,OKX (Futures)
 bitmart_futures,Bitmart Futures
 xt_derivatives,XT.COM (Derivatives)
 hyperliquid,Hyperliquid (Futures)
-bitvenus,BVOX (Futures)
 prime_xbt,PrimeXBT
+bitvenus,BVOX (Futures)
 toobit_derivatives,Toobit Futures
 bingx_futures,BingX (Futures)
 bydfi-futures,BYDFi (Futures)
 orangex_futures,OrangeX Futures
 whitebit_futures,WhiteBIT Futures
+deepcoin_derivatives,Deepcoin (Derivatives)
 huobi_dm,HTX Futures
 deribit,Deribit
-deepcoin_derivatives,Deepcoin (Derivatives)
 coinup-futures,CoinUp.io (Futures)
 phemex_futures,Phemex (Futures)
 aster,Aster (Futures)
@@ -38,8 +38,8 @@ btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 paradex,Paradex
 ourbit-futures,Ourbit (Futures)
-grvt_futures,GRVT
 kcex-futures,KCEX (Futures)
+grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
 extended,Extended
 kraken_futures,Kraken (Futures)
@@ -56,8 +56,8 @@ apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 bitkan-futures,BitKan (Futures)
 dydx_chain,dYdX Chain
-pacifica,Pacifica
 ln-exchange-futures,LN Exchange (Futures)
+pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
 vest-exchange-futures,Vest Exchange
@@ -78,10 +78,10 @@ hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 arkham_futures,Arkham (Futures)
 myx-bsc,MYX (BSC)
-flash-trade,Flash Trade
-kiloex-base,KiloEx (Base)
 strike-finance,Strike Finance
+kiloex-base,KiloEx (Base)
 kiloex-bsc,KiloEx (BSC)
+flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
 valr-futures,VALR Futures
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
@@ -89,9 +89,9 @@ myx-linea,MYX (Linea)
 enclave-markets,EnclaveX
 kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
+merkle_trade,Merkle Trade
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 polynomial-trade,Polynomial Trade 
-merkle_trade,Merkle Trade
 defx,Defx
 gtrade-polygon,gTrade (Polygon)
 powertrade_derivatives,Powertrade (Derivatives)
