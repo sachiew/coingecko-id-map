@@ -6,19 +6,19 @@ gate_futures,Gate (Futures)
 bitvenus,BVOX (Futures)
 bitmex,BitMEX (Derivative)
 lbank-futures,LBank (Futures)
+weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
-weex-futures,WEEX (Futures)
-toobit_derivatives,Toobit Futures
 xt_derivatives,XT.COM (Derivatives)
+toobit_derivatives,Toobit Futures
 hyperliquid,Hyperliquid (Futures)
 coinw_futures,CoinW (Futures)
 bitmart_futures,Bitmart Futures
 bingx_futures,BingX (Futures)
+mxc_futures,MEXC (Futures)
+orangex_futures,OrangeX Futures
 prime_xbt,PrimeXBT
 deepcoin_derivatives,Deepcoin (Derivatives)
-orangex_futures,OrangeX Futures
-mxc_futures,MEXC (Futures)
 bydfi-futures,BYDFi (Futures)
 whitebit_futures,WhiteBIT Futures
 deribit,Deribit
@@ -38,8 +38,8 @@ edgex,edgeX
 blofin,BloFin (Futures)
 ourbit-futures,Ourbit (Futures)
 paradex,Paradex
-grvt_futures,GRVT
 kcex-futures,KCEX (Futures)
+grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
 extended,Extended
 kraken_futures,Kraken (Futures)
@@ -50,16 +50,16 @@ backpack-futures,Backpack (Futures)
 coinex_futures,CoinEx (Futures)
 dmex,DMEX
 ostium,Ostium
-ln-exchange-futures,LN Exchange (Futures)
 drift_protocol,Drift Protocol
+ln-exchange-futures,LN Exchange (Futures)
 bullish-futures,Bullish (Futures)
 apex-omni,ApeX Omni
 bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
-globe_exchange_derivatives,Globe (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
+globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
 aqx_derivatives,Flipster
 derive-futures,Derive (Futures)
@@ -83,16 +83,16 @@ myx-linea,MYX (Linea)
 strike-finance,Strike Finance
 kiloex-base,KiloEx (Base)
 kiloex-bsc,KiloEx (BSC)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 valr-futures,VALR Futures
 gtrade-base,gTrade (Base)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 enclave-markets,EnclaveX
 merkle_trade,Merkle Trade
-polynomial-trade,Polynomial Trade 
 defx,Defx
+polynomial-trade,Polynomial Trade 
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 levana-perps-osmosis,Levana Perps (Osmosis)
