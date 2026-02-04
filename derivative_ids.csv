@@ -8,15 +8,15 @@ bitvenus,BVOX (Futures)
 lbank-futures,LBank (Futures)
 toobit_derivatives,Toobit Futures
 mxc_futures,MEXC (Futures)
+bitmart_futures,Bitmart Futures
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
-bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
 xt_derivatives,XT.COM (Derivatives)
 coinw_futures,CoinW (Futures)
-bingx_futures,BingX (Futures)
 prime_xbt,PrimeXBT
+bingx_futures,BingX (Futures)
 orangex_futures,OrangeX Futures
 deepcoin_derivatives,Deepcoin (Derivatives)
 bydfi-futures,BYDFi (Futures)
@@ -36,8 +36,8 @@ btcex_futures,BTCEX (Futures)
 btse_futures,BTSE (Futures)
 edgex,edgeX
 blofin,BloFin (Futures)
-ourbit-futures,Ourbit (Futures)
 paradex,Paradex
+ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
 kcex-futures,KCEX (Futures)
 bitrue_futures,Bitrue (Futures)
@@ -49,13 +49,13 @@ coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 backpack-futures,Backpack (Futures)
 dmex,DMEX
 coinex_futures,CoinEx (Futures)
-ostium,Ostium
 drift_protocol,Drift Protocol
 bullish-futures,Bullish (Futures)
+ostium,Ostium
 ln-exchange-futures,LN Exchange (Futures)
 apex-omni,ApeX Omni
-levex-futures,LeveX (Futures)
 bitkan-futures,BitKan (Futures)
+levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
@@ -65,10 +65,10 @@ derive-futures,Derive (Futures)
 woo_network_futures,WOO X (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 aqx_derivatives,Flipster
-gtrade-arbitrum,gTrade (Arbitrum)
 delta_futures,Delta Exchange (Futures)
 aevo,Aevo
 gemini_derivatives,Gemini Derivatives
+gtrade-arbitrum,gTrade (Arbitrum)
 hashkey-global-futures,HashKey Global (Futures)
 zb_derivatives,ZB (Derivatives)
 injective_futures,Helix (Futures)
@@ -97,8 +97,8 @@ merkle_trade,Merkle Trade
 navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 fwx-futures,FWX (Futures) (Avalanche)
-levana-perps-osmosis,Levana Perps (Osmosis)
 spacewhale,SpaceWhale
+levana-perps-osmosis,Levana Perps (Osmosis)
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 synfutures,SynFutures
 apex_pro,ApeX Pro
