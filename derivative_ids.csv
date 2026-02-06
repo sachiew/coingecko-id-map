@@ -5,15 +5,15 @@ ftx,FTX (Derivatives)
 toobit_derivatives,Toobit Futures
 gate_futures,Gate (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
-orangex_futures,OrangeX Futures
 mxc_futures,MEXC (Futures)
+orangex_futures,OrangeX Futures
 lbank-futures,LBank (Futures)
-bitmart_futures,Bitmart Futures
 okex_swap,OKX (Futures)
+bitget_futures,Bitget Futures
 weex-futures,WEEX (Futures)
 xt_derivatives,XT.COM (Derivatives)
-bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
+bitmart_futures,Bitmart Futures
 prime_xbt,PrimeXBT
 bitvenus,BVOX (Futures)
 bingx_futures,BingX (Futures)
@@ -38,10 +38,10 @@ btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 paradex,Paradex
 bitmex,BitMEX (Derivative)
-ln-exchange-futures,LN Exchange (Futures)
-kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
+kcex-futures,KCEX (Futures)
 bitrue_futures,Bitrue (Futures)
+ln-exchange-futures,LN Exchange (Futures)
 extended,Extended
 kraken_futures,Kraken (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
@@ -49,8 +49,8 @@ antarctic,Antarctic
 biconomy-futures,Biconomy (Futures)
 dmex,DMEX
 coinex_futures,CoinEx (Futures)
-backpack-futures,Backpack (Futures)
 bullish-futures,Bullish (Futures)
+backpack-futures,Backpack (Futures)
 ostium,Ostium
 drift_protocol,Drift Protocol
 apex-omni,ApeX Omni
@@ -67,8 +67,8 @@ orderly_network_derivatives_evm,Orderly (Derivatives)
 aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
 aqx_derivatives,Flipster
-gtrade-arbitrum,gTrade (Arbitrum)
 gemini_derivatives,Gemini Derivatives
+gtrade-arbitrum,gTrade (Arbitrum)
 zb_derivatives,ZB (Derivatives)
 delta_futures,Delta Exchange (Futures)
 injective_futures,Helix (Futures)
@@ -85,7 +85,6 @@ valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
-navigator,Navigator
 strike-finance,Strike Finance
 deriw,DeriW
 kiloex-opbnb,KiloEx (opBnb)
@@ -93,6 +92,7 @@ polynomial-trade,Polynomial Trade
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 defx,Defx
 gtrade-polygon,gTrade (Polygon)
+navigator,Navigator
 merkle_trade,Merkle Trade
 demex_derivatives,Demex (Derivatives)
 levana-perps-osmosis,Levana Perps (Osmosis)
