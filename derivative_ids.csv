@@ -21,8 +21,8 @@ deribit,Deribit
 huobi_dm,HTX Futures
 phemex_futures,Phemex (Futures)
 coinup-futures,CoinUp.io (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 orangex_futures,OrangeX Futures
+deepcoin_derivatives,Deepcoin (Derivatives)
 aster,Aster (Futures)
 kumex,KuCoin Futures
 crypto_com_futures,Crypto.com Exchange (Futures)
@@ -30,18 +30,18 @@ bitfinex_futures,Bitfinex (Futures)
 bitunix_futures,Bitunix Futures
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
-btcex_futures,BTCEX (Futures)
 bitvenus,BVOX (Futures)
+btcex_futures,BTCEX (Futures)
 btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
+bitrue_futures,Bitrue (Futures)
 paradex,Paradex
 bitmex,BitMEX (Derivative)
-ourbit-futures,Ourbit (Futures)
 kcex-futures,KCEX (Futures)
+ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
 extended,Extended
-bitrue_futures,Bitrue (Futures)
 kraken_futures,Kraken (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 antarctic,Antarctic 
@@ -81,13 +81,13 @@ strike-finance,Strike Finance
 flash-trade,Flash Trade
 valr-futures,VALR Futures
 myx-bsc,MYX (BSC)
-kiloex-bsc,KiloEx (BSC)
 myx-linea,MYX (Linea)
+kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
 gtrade-base,gTrade (Base)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
-deriw,DeriW
 kiloex-opbnb,KiloEx (opBnb)
+deriw,DeriW
 defx,Defx
 polynomial-trade,Polynomial Trade 
 kiloex-manta-pacific,KiloEx (Manta Pacific)
@@ -95,9 +95,8 @@ gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 fwx-futures,FWX (Futures) (Avalanche)
-myx,MYX
-spacewhale,SpaceWhale
 merkle_trade,Merkle Trade
+spacewhale,SpaceWhale
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 synfutures,SynFutures
 apex_pro,ApeX Pro
@@ -107,6 +106,7 @@ gmx_arbitrum,GMX Derivatives (Arbitrum)
 gmx_avalanche,GMX Derivatives (Avalanche)
 opnx_derivatives,OPNX Derivatives
 vertex_protocol_derivatives,Vertex Edge (Arbitrum)
+myx,MYX
 bitmake_futures,BitMake Futures
 mufex,MUFEX
 rabbitx,RabbitX
