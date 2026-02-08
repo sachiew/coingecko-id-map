@@ -7,18 +7,18 @@ lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
 okex_swap,OKX (Futures)
 weex-futures,WEEX (Futures)
-bitget_futures,Bitget Futures
-prime_xbt,PrimeXBT
 coinw_futures,CoinW (Futures)
+bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
+prime_xbt,PrimeXBT
 hyperliquid,Hyperliquid (Futures)
-toobit_derivatives,Toobit Futures
 bitmart_futures,Bitmart Futures
+toobit_derivatives,Toobit Futures
 bydfi-futures,BYDFi (Futures)
 whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
-orangex_futures,OrangeX Futures
 deribit,Deribit
+orangex_futures,OrangeX Futures
 huobi_dm,HTX Futures
 phemex_futures,Phemex (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
@@ -27,8 +27,8 @@ aster,Aster (Futures)
 kumex,KuCoin Futures
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
-bitvenus,BVOX (Futures)
 bitunix_futures,Bitunix Futures
+bitvenus,BVOX (Futures)
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
 btcex_futures,BTCEX (Futures)
@@ -53,9 +53,9 @@ backpack-futures,Backpack (Futures)
 drift_protocol,Drift Protocol
 ln-exchange-futures,LN Exchange (Futures)
 apex-omni,ApeX Omni
-bitmax_futures,AscendEX  (BitMax) (Futures)
 levex-futures,LeveX (Futures)
 bitkan-futures,BitKan (Futures)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 dydx_chain,dYdX Chain
 globe_exchange_derivatives,Globe (Derivatives)
 pacifica,Pacifica
@@ -74,22 +74,22 @@ poloniex_futures,Poloniex Futures
 ostium,Ostium
 evedex,EVEDEX
 hitbtc_derivatives,HitBTC (Derivatives)
-gtrade-arbitrum,gTrade (Arbitrum)
 bigone_futures,BigONE Futures
+gtrade-arbitrum,gTrade (Arbitrum)
 arkham_futures,Arkham (Futures)
 strike-finance,Strike Finance
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 flash-trade,Flash Trade
 valr-futures,VALR Futures
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
 gtrade-base,gTrade (Base)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
-polynomial-trade,Polynomial Trade 
 defx,Defx
+polynomial-trade,Polynomial Trade 
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
