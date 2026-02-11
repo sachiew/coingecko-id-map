@@ -1,25 +1,25 @@
 id,name
 binance_futures,Binance (Futures)
-ftx,FTX (Derivatives)
 bybit,Bybit (Futures)
+ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 coinw_futures,CoinW (Futures)
-mxc_futures,MEXC (Futures)
 okex_swap,OKX (Futures)
+mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
+xt_derivatives,XT.COM (Derivatives)
 bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
-xt_derivatives,XT.COM (Derivatives)
 prime_xbt,PrimeXBT
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
-whitebit_futures,WhiteBIT Futures
-deribit,Deribit
 bingx_futures,BingX (Futures)
-huobi_dm,HTX Futures
+deribit,Deribit
+whitebit_futures,WhiteBIT Futures
 deepcoin_derivatives,Deepcoin (Derivatives)
+huobi_dm,HTX Futures
 orangex_futures,OrangeX Futures
 phemex_futures,Phemex (Futures)
 coinup-futures,CoinUp.io (Futures)
@@ -53,9 +53,9 @@ backpack-futures,Backpack (Futures)
 ostium,Ostium
 drift_protocol,Drift Protocol
 apex-omni,ApeX Omni
+bitmax_futures,AscendEX  (BitMax) (Futures)
 levex-futures,LeveX (Futures)
 bitkan-futures,BitKan (Futures)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 dydx_chain,dYdX Chain
 globe_exchange_derivatives,Globe (Derivatives)
 pacifica,Pacifica
@@ -69,8 +69,8 @@ orderly_network_derivatives_evm,Orderly (Derivatives)
 derive-futures,Derive (Futures)
 aqx_derivatives,Flipster
 aevo,Aevo
-evedex,EVEDEX
 gemini_derivatives,Gemini Derivatives
+evedex,EVEDEX
 injective_futures,Helix (Futures)
 zb_derivatives,ZB (Derivatives)
 poloniex_futures,Poloniex Futures
@@ -78,12 +78,12 @@ hitbtc_derivatives,HitBTC (Derivatives)
 arkham_futures,Arkham (Futures)
 bigone_futures,BigONE Futures
 strike-finance,Strike Finance
-myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 valr-futures,VALR Futures
+flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
-flash-trade,Flash Trade
+myx-bsc,MYX (BSC)
 kiloex-base,KiloEx (Base)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
@@ -95,8 +95,8 @@ navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 defx,Defx
 fwx-futures,FWX (Futures) (Avalanche)
-spacewhale,SpaceWhale
 merkle_trade,Merkle Trade
+spacewhale,SpaceWhale
 vertex-edge-abstract,Vertex Edge (Abstract)
 synfutures,SynFutures
 apex_pro,ApeX Pro
