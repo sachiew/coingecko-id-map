@@ -6,21 +6,21 @@ gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
 okex_swap,OKX (Futures)
+coinw_futures,CoinW (Futures)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
-xt_derivatives,XT.COM (Derivatives)
-coinw_futures,CoinW (Futures)
-bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
+bitmart_futures,Bitmart Futures
+xt_derivatives,XT.COM (Derivatives)
 prime_xbt,PrimeXBT
-toobit_derivatives,Toobit Futures
 bydfi-futures,BYDFi (Futures)
+toobit_derivatives,Toobit Futures
 bingx_futures,BingX (Futures)
 orangex_futures,OrangeX Futures
-deepcoin_derivatives,Deepcoin (Derivatives)
 whitebit_futures,WhiteBIT Futures
 deribit,Deribit
 huobi_dm,HTX Futures
+deepcoin_derivatives,Deepcoin (Derivatives)
 phemex_futures,Phemex (Futures)
 coinup-futures,CoinUp.io (Futures)
 aster,Aster (Futures)
@@ -61,7 +61,6 @@ globe_exchange_derivatives,Globe (Derivatives)
 pacifica,Pacifica
 ln-exchange-futures,LN Exchange (Futures)
 vest-exchange-futures,Vest Exchange
-powertrade_derivatives,Powertrade (Derivatives)
 woo_network_futures,WOO X (Futures)
 gtrade-arbitrum,gTrade (Arbitrum)
 hashkey-global-futures,HashKey Global (Futures)
@@ -88,13 +87,12 @@ kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 polynomial-trade,Polynomial Trade 
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 demex_derivatives,Demex (Derivatives)
-fwx-futures,FWX (Futures) (Avalanche)
 defx,Defx
 spacewhale,SpaceWhale
 jex_futures,Binance JEX (Futures)
@@ -140,6 +138,7 @@ fwx-futures-base,FWX (Futures) (Base)
 vertex-edge-sei,Vertex Edge (Sei)
 jojo-exchange-futures,JOJO Exchange
 spherex,SphereX
+fwx-futures,FWX (Futures) (Avalanche)
 vertex-edge-base,Vertex Edge (Base)
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 vertex-edge-abstract,Vertex Edge (Abstract)
@@ -183,5 +182,6 @@ equos_perpetual,EQONEX (Perpetual)
 dydx_perpetual,dYdX Perpetual (Ethereum)
 mcdex_bsc,MCDEX (BSC)
 fmex,FMex
+powertrade_derivatives,Powertrade (Derivatives)
 btcc_futures,BTCC Futures
 mango_markets_derivatives,Mango Markets (Derivatives)
