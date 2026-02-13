@@ -1,20 +1,20 @@
 id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
-ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
+ftx,FTX (Derivatives)
 lbank-futures,LBank (Futures)
-okex_swap,OKX (Futures)
 mxc_futures,MEXC (Futures)
+okex_swap,OKX (Futures)
 coinw_futures,CoinW (Futures)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
 bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
-prime_xbt,PrimeXBT
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
+prime_xbt,PrimeXBT
 orangex_futures,OrangeX Futures
 bingx_futures,BingX (Futures)
 deribit,Deribit
@@ -36,9 +36,9 @@ btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
 paradex,Paradex
-ourbit-futures,Ourbit (Futures)
 bitmex,BitMEX (Derivative)
 kcex-futures,KCEX (Futures)
+ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
 extended,Extended
@@ -69,30 +69,30 @@ derive-futures,Derive (Futures)
 hashkey-global-futures,HashKey Global (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 evedex,EVEDEX
+poloniex_futures,Poloniex Futures
 aevo,Aevo
 aqx_derivatives,Flipster
 gemini_derivatives,Gemini Derivatives
-injective_futures,Helix (Futures)
 zb_derivatives,ZB (Derivatives)
-poloniex_futures,Poloniex Futures
+injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 strike-finance,Strike Finance
 myx-bsc,MYX (BSC)
-gtrade-base,gTrade (Base)
 myx-linea,MYX (Linea)
+gtrade-base,gTrade (Base)
 arkham_futures,Arkham (Futures)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
-kiloex-base,KiloEx (Base)
 flash-trade,Flash Trade
+kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
-polynomial-trade,Polynomial Trade 
 deriw,DeriW
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
+polynomial-trade,Polynomial Trade 
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-gtrade-polygon,gTrade (Polygon)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 navigator,Navigator
+gtrade-polygon,gTrade (Polygon)
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 jex_futures,Binance JEX (Futures)
