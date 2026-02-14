@@ -12,16 +12,16 @@ bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
 bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
-bydfi-futures,BYDFi (Futures)
 prime_xbt,PrimeXBT
+bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
 orangex_futures,OrangeX Futures
 bingx_futures,BingX (Futures)
 whitebit_futures,WhiteBIT Futures
 huobi_dm,HTX Futures
 deribit,Deribit
-deepcoin_derivatives,Deepcoin (Derivatives)
 phemex_futures,Phemex (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 coinup-futures,CoinUp.io (Futures)
 aster,Aster (Futures)
 kumex,KuCoin Futures
@@ -37,9 +37,9 @@ blofin,BloFin (Futures)
 lighter,Lighter
 paradex,Paradex
 bitmex,BitMEX (Derivative)
-ourbit-futures,Ourbit (Futures)
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
+ourbit-futures,Ourbit (Futures)
 bitrue_futures,Bitrue (Futures)
 extended,Extended
 biconomy-futures,Biconomy (Futures)
@@ -69,29 +69,30 @@ orderly_network_derivatives_evm,Orderly (Derivatives)
 evedex,EVEDEX
 gtrade-arbitrum,gTrade (Arbitrum)
 aevo,Aevo
-aqx_derivatives,Flipster
 gemini_derivatives,Gemini Derivatives
+aqx_derivatives,Flipster
 zb_derivatives,ZB (Derivatives)
 injective_futures,Helix (Futures)
 poloniex_futures,Poloniex Futures
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
-gtrade-base,gTrade (Base)
 strike-finance,Strike Finance
 myx-bsc,MYX (BSC)
+gtrade-base,gTrade (Base)
 myx-linea,MYX (Linea)
 arkham_futures,Arkham (Futures)
 flash-trade,Flash Trade
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
-kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
+kiloex-opbnb,KiloEx (opBnb)
 gtrade-polygon,gTrade (Polygon)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 navigator,Navigator
 polynomial-trade,Polynomial Trade 
 demex_derivatives,Demex (Derivatives)
+fwx-futures-base,FWX (Futures) (Base)
 spacewhale,SpaceWhale
 jex_futures,Binance JEX (Futures)
 synfutures,SynFutures
@@ -132,7 +133,6 @@ kwenta_derivatives,Synthetix Exchange
 vertex-edge-mantle,Vertex Edge (Mantle)
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 gmx-perpetuals-v2-botanix,GMX Perpetuals V2 (Botanix)
-fwx-futures-base,FWX (Futures) (Base)
 vertex-edge-sei,Vertex Edge (Sei)
 jojo-exchange-futures,JOJO Exchange
 spherex,SphereX
