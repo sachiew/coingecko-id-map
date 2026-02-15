@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 gate_futures,Gate (Futures)
-bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
+bybit,Bybit (Futures)
 lbank-futures,LBank (Futures)
 coinw_futures,CoinW (Futures)
 okex_swap,OKX (Futures)
@@ -12,9 +12,9 @@ bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
 bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
-prime_xbt,PrimeXBT
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
+prime_xbt,PrimeXBT
 bingx_futures,BingX (Futures)
 orangex_futures,OrangeX Futures
 whitebit_futures,WhiteBIT Futures
@@ -37,8 +37,8 @@ blofin,BloFin (Futures)
 lighter,Lighter
 kcex-futures,KCEX (Futures)
 paradex,Paradex
-bitmex,BitMEX (Derivative)
 ourbit-futures,Ourbit (Futures)
+bitmex,BitMEX (Derivative)
 grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
 extended,Extended
@@ -47,8 +47,8 @@ kraken_futures,Kraken (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 antarctic,Antarctic 
 bullish-futures,Bullish (Futures)
-dmex,DMEX
 coinex_futures,CoinEx (Futures)
+dmex,DMEX
 backpack-futures,Backpack (Futures)
 drift_protocol,Drift Protocol
 apex-omni,ApeX Omni
@@ -60,12 +60,13 @@ pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
 ln-exchange-futures,LN Exchange (Futures)
 vest-exchange-futures,Vest Exchange
+powertrade_derivatives,Powertrade (Derivatives)
 woo_network_futures,WOO X (Futures)
 delta_futures,Delta Exchange (Futures)
 derive-futures,Derive (Futures)
 hashkey-global-futures,HashKey Global (Futures)
-orderly_network_derivatives_evm,Orderly (Derivatives)
 evedex,EVEDEX
+orderly_network_derivatives_evm,Orderly (Derivatives)
 aqx_derivatives,Flipster
 aevo,Aevo
 gemini_derivatives,Gemini Derivatives
@@ -89,7 +90,6 @@ gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 gtrade-polygon,gTrade (Polygon)
-powertrade_derivatives,Powertrade (Derivatives)
 demex_derivatives,Demex (Derivatives)
 navigator,Navigator
 fwx-futures,FWX (Futures) (Avalanche)
