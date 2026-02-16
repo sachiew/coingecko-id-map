@@ -1,7 +1,7 @@
 id,name
 binance_futures,Binance (Futures)
-gate_futures,Gate (Futures)
 ftx,FTX (Derivatives)
+gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
 lbank-futures,LBank (Futures)
 coinw_futures,CoinW (Futures)
@@ -16,10 +16,10 @@ bydfi-futures,BYDFi (Futures)
 prime_xbt,PrimeXBT
 toobit_derivatives,Toobit Futures
 orangex_futures,OrangeX Futures
+bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
 deribit,Deribit
-bingx_futures,BingX (Futures)
 phemex_futures,Phemex (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 coinup-futures,CoinUp.io (Futures)
@@ -47,8 +47,8 @@ kraken_futures,Kraken (Futures)
 bullish-futures,Bullish (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 antarctic,Antarctic 
-coinex_futures,CoinEx (Futures)
 backpack-futures,Backpack (Futures)
+coinex_futures,CoinEx (Futures)
 dmex,DMEX
 drift_protocol,Drift Protocol
 ostium,Ostium
@@ -60,8 +60,8 @@ bitmax_futures,AscendEX  (BitMax) (Futures)
 pacifica,Pacifica
 globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
-ln-exchange-futures,LN Exchange (Futures)
 woo_network_futures,WOO X (Futures)
+ln-exchange-futures,LN Exchange (Futures)
 delta_futures,Delta Exchange (Futures)
 derive-futures,Derive (Futures)
 hashkey-global-futures,HashKey Global (Futures)
