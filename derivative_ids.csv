@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 gate_futures,Gate (Futures)
-ftx,FTX (Derivatives)
 bybit,Bybit (Futures)
+ftx,FTX (Derivatives)
 lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
@@ -14,12 +14,12 @@ hyperliquid,Hyperliquid (Futures)
 bitmart_futures,Bitmart Futures
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
+prime_xbt,PrimeXBT
 whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
-prime_xbt,PrimeXBT
-deribit,Deribit
 orangex_futures,OrangeX Futures
+deribit,Deribit
 phemex_futures,Phemex (Futures)
 coinup-futures,CoinUp.io (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
@@ -62,8 +62,8 @@ globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
 ln-exchange-futures,LN Exchange (Futures)
 woo_network_futures,WOO X (Futures)
-delta_futures,Delta Exchange (Futures)
 gtrade-arbitrum,gTrade (Arbitrum)
+delta_futures,Delta Exchange (Futures)
 derive-futures,Derive (Futures)
 hashkey-global-futures,HashKey Global (Futures)
 aqx_derivatives,Flipster
@@ -87,11 +87,10 @@ gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
-navigator,Navigator
 kiloex-manta-pacific,KiloEx (Manta Pacific)
+navigator,Navigator
 gtrade-polygon,gTrade (Polygon)
 demex_derivatives,Demex (Derivatives)
-powertrade_derivatives,Powertrade (Derivatives)
 spacewhale,SpaceWhale
 jex_futures,Binance JEX (Futures)
 synfutures,SynFutures
@@ -183,5 +182,6 @@ equos_perpetual,EQONEX (Perpetual)
 dydx_perpetual,dYdX Perpetual (Ethereum)
 mcdex_bsc,MCDEX (BSC)
 fmex,FMex
+powertrade_derivatives,Powertrade (Derivatives)
 btcc_futures,BTCC Futures
 mango_markets_derivatives,Mango Markets (Derivatives)
