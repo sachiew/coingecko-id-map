@@ -48,8 +48,8 @@ chain-abstraction,Chain Abstraction,"Chain abstraction is the concept of creatin
 privacy-infrastructure,Privacy Infrastructure,"Protocols, networks, and developer tools designed to enable programmable privacy and confidential computation for decentralized applications. Unlike traditional 'Privacy Coins' which focus solely on transactional anonymity, these projects provide the infra"
 crypto-backed-stablecoin,Crypto-backed Stablecoin,A crypto-backed stablecoin is designed to maintain a stable value by being backed by a reserve of other cryptocurrencies.
 layer-2,Layer 2 (L2),"Layer 2s are off-chain vertical scaling solutions that run on top of Layer 1 blockchains like Ethereum to improve scalability, while maintaining the decentralization and security standards of the Layer 1."
-yield-farming,Yield Farming,"Yield farming involves putting cryptocurrency into a DeFi protocol to collect interest on trading fees. Liquidity providers can profit by providing liquidity in DeFi protocols like Uniswap, utilizing assets that would otherwise sit idle on an exchange or h"
 oracle,Oracle,"Oracles are used by protocols in their smart contracts in order to obtain external data. This allows the closed-off blockchain environment to communicate with data points on the outside world. For example, a protocol offering synthetic Nasdaq-listed stock "
+yield-farming,Yield Farming,"Yield farming involves putting cryptocurrency into a DeFi protocol to collect interest on trading fees. Liquidity providers can profit by providing liquidity in DeFi protocols like Uniswap, utilizing assets that would otherwise sit idle on an exchange or h"
 x402-ecosystem,x402 Ecosystem,"x402 is an open protocol that defines an internet-native micropayment rail using HTTP 402 and stablecoins. It allows automated clients and AI agents to pay directly for APIs, data, and compute on demand, enabling real-time, low-friction transactions withou"
 cybersecurity,Cybersecurity,"Cybersecurity projects enhance measures through services like smart contract auditing, security analysis, and bug bounty programs."
 non-fungible-tokens-nft,NFT,"Non-fungible tokens (NFTs) are collectible elements that represent something unique and therefore are not mutually interchangeable. In other words, no non-fungible token is the same. NFT creators can also encrypt details such as rich metadata or secure fil"
@@ -96,8 +96,8 @@ ai-meme-coins,AI Meme,"Meme coins related or inspired by AI. They either leverag
 masternodes,Masternodes,"Masternodes are needed to verify new blocks in certain cryptocurrencies. However, unlike other nodes, they do not add new blocks to the network. In order to maintain a masternode, one would need to hold a certain amount of the protocol’s cryptocurrency, an"
 ai-applications,AI Applications,
 gaming-blockchains,Gaming Blockchains,Gaming blockchains refer to blockchain platforms specialized in gaming.
-sidechain,SideChain,A sidechain is a separate blockchain that runs parallel to a main blockchain. It allows transactions and applications to operate independently to enhance scalability and functionality.
 binance-wallet-ido,Binance Wallet IDO,Tokens and coins launched on Binance Wallet IDO.
+sidechain,SideChain,A sidechain is a separate blockchain that runs parallel to a main blockchain. It allows transactions and applications to operate independently to enhance scalability and functionality.
 yield-bearing-tokens,Yield-Bearing Tokens,"Yield-bearing tokens generate passive income for holders by accruing rewards or interest over time, typically through staking, lending, or yield-generating protocols."
 bitcoin-layer-2,Bitcoin Sidechains,Bitcoin Sidechains are designed to enhance the Bitcoin blockchain's capacity by creating a new layer that improves transaction processing speed by handling transactions off the primary chain.
 gaming-utility-token,Gaming Utility Token,"Gaming Utility Tokens provide holders with benefits such as making in-game purchases, accessing special content, participating in events, or earning rewards."
@@ -134,8 +134,8 @@ telegram_apps,Telegram Apps,Applications built on the Telegram platform that int
 ondo-tokenized-assets,Ondo Tokenized Assets,"Ondo Tokenized Assets are on-chain tokens that represent economic exposure to traditional stocks and ETFs, with each token typically backed 1:1 by the underlying security held in custody."
 tokenized-stock,Tokenized Stock,Tokenized stock refers to digital representation of stock on a blockchain platform.
 account-abstraction,Account Abstraction,Account abstraction aims to simplify the way users interact with dApps by doing away with the complexities of gas fees and transaction management.
-rub-stablecoin,RUB Stablecoin,A RUB stablecoin is a type of cryptocurrency that is designed to maintain a stable value by being pegged to the Russian Ruble (RUB).
 murad-picks,Murad Picks,Tokens promoted by a memecoin KOL @MustStopMurad.
+rub-stablecoin,RUB Stablecoin,A RUB stablecoin is a type of cryptocurrency that is designed to maintain a stable value by being pegged to the Russian Ruble (RUB).
 cat-themed-coins,Cat-Themed,Meme coins which are inspired by cat.
 rpg,RPG,"Role-playing game (RPG) is a video game genre where players control a single or group of character in a fictional world. RPG games typically include elements of storytelling, character development, exploration, quests, and inventory management."
 asset-backed-tokens,Crypto-Backed Tokens,Crypto-backed tokens are digital assets backed or collateralized by other cryptocurrencies. Stablecoins are excluded from this category and are classified separately under the Crypto-Backed Stablecoin category.
@@ -150,9 +150,9 @@ synthetic,Synthetic,"This category includes both synthetic asset issuers and the
 bridge-governance-tokens,Bridge Governance Tokens,A bridge governance token is a type of cryptocurrency token that is used to manage and govern a blockchain bridge.
 yield-aggregator,Yield Aggregator,"Yield aggregators are protocols that collate multiple yield farms in a single place in order to ease the process of farming. With many new farms popping up on the market, it can be tedious for one to hop from farm to farm. However, with yield aggregators, "
 seigniorage,Seigniorage,"In the case of algorithmic stablecoins, seigniorage is generated when the stablecoin's value rises above its peg (e.g., $1). The protocol can then mint new tokens and sell them on the open market, generating revenue. This revenue is used to maintain the st"
+stock-market-themed,Stock market-themed,Meme coins related to the stock market.
 ether-fi-ecosystem,Ether.fi Ecosystem,Interconnected platforms and services built around Ether.fi.
 synthetic-issuer,Synthetic Issuer,Issuer of synthetic asset.
-stock-market-themed,Stock market-themed,Meme coins related to the stock market.
 communication,Communication,
 synths,Synthetic Asset,"Synthetic assets are financial instruments that mimic the value of assets, such as stocks, bonds, commodities, or cryptocurrencies."
 tokenfi-launchpad,TokenFi Launchpad,TokenFi Launchpad is a platform for crypto projects to hold Initial DEX Offerings (IDOs). Participants are able to gain early access to public and special token sales on the platform.
@@ -202,9 +202,9 @@ capital-launchpad,Capital Launchpad (Kaito),Capital Launchpad is a Web3 crowdfun
 zoo-themed,Zoo-Themed,Meme coins related to animals in the zoo.
 retail,Retail,"Retail involves the sale of goods and services to consumers for their personal use, rather than for resale on blockchain."
 layer-3-l3,Layer 3 (L3),"Layer 3 protocols are built on Layer 2, enabling hosting of application-specific decentralized applications while addressing issues such as scalability, interoperability and customization."
+hyperunit-ecosystem,Hyperunit Ecosystem,"The HyperUnit Ecosystem includes wrapped tokens like Unit Bitcoin, Unit Ethereum, and Unit Solana, which represent native assets such as BTC, ETH, and SOL bridged into the Hyperliquid platform. These tokens can be traded and used across Hyperliquid’s tradi"
 runes,Runes,Runes is a token standard on Bitcoin that improve the creation of fungible tokens on the blockchain.
 olympus-pro,Olympus Pro Ecosystem,"Olympus Pro designed to provide liquidity management solutions for DeFi protocols. They offers a service called ""bonds-as-a-service,"" which allows protocols to own their liquidity by offering discounted OHM tokens in exchange for liquidity provider (LP) to"
-hyperunit-ecosystem,Hyperunit Ecosystem,"The HyperUnit Ecosystem includes wrapped tokens like Unit Bitcoin, Unit Ethereum, and Unit Solana, which represent native assets such as BTC, ETH, and SOL bridged into the Hyperliquid platform. These tokens can be traded and used across Hyperliquid’s tradi"
 clanker-ecosystem,Clanker Ecosystem,"Clanker Ecosystem consists of tokens launched via Clanker, an autonomous memecoin launcher."
 action-games,Action Games,"Fast-paced games that emphasize combat, reflexes, and real-time challenges."
 defi-index,DeFi Index,A DeFi index is an indicator that tracks the performance of a group of DeFi cryptocurrencies.
@@ -216,21 +216,21 @@ eco-friendly,Regenerative Finance (ReFi),"Regenerative finance (ReFi) aims to cr
 wojak-themed,Wojak-Themed,Meme coins related to Wojak.
 inscriptions,Inscriptions,Inscriptions are metadata added to units of cryptocurrencies
 parody-meme-coins,Parody Meme,"Meme coins which are inspired by the names of well-known brands, individuals, or cultural icons."
-energy,Energy,"Projects focused on renewable energy, green technology, and sustainable practices within the cryptocurrency ecosystem."
 trading-bots,Trading Bots,"Trading bots are automated software programs that execute cryptocurrency trades based on predefined rules or algorithms. They analyze market data like price, volume, and order book activity to make buy or sell decisions without human intervention."
+energy,Energy,"Projects focused on renewable energy, green technology, and sustainable practices within the cryptocurrency ecosystem."
 healthcare,Healthcare,A coin or token that leverages blockchain technology to improve various aspects of the healthcare industry.
-game-studio,Game Studio,"A game studio develops video games using blockchain technologies, integrating NFTs, cryptocurrencies, and smart contracts to enable player ownership and the trading of in-game assets"
 brc-20,BRC-20,BRC-20 is a token standard on the Bitcoin blockchain that allows for the creation of tokens that represent ownership of assets. 
+game-studio,Game Studio,"A game studio develops video games using blockchain technologies, integrating NFTs, cryptocurrencies, and smart contracts to enable player ownership and the trading of in-game assets"
 massively-multiplayer-online-mmo,MMO,Online games that host large numbers of players.
 tiktok-meme,TikTok Meme,TikTok Meme Coins are tokens inspired by viral TikTok trends. 
 marketing,Marketing,It combines the existing Web2 and Web3 marketing channels to identify the most valuable audiences and reward them through on and off-chain rewards.
+timefi,TimeFi,"TimeFi is a blockchain-based approach to treating time as a monetizable asset through tokenized productivity, verifiable commitments, and AI-driven incentives."
 real-estate,Tokenized Real Estate,"Tokenized real estate in crypto refers to the integration of blockchain technology and cryptocurrencies into the real estate market. This can involve tokenizing real estate assets, which means dividing the ownership of a property into digital tokens that c"
 tap-to-earn,Tap to Earn,"Tap-to-earn (T2E) combines simple and addictive gameplay with the potential to earn cryptocurrency. These games, often hosted on platforms like Telegram, allow users to earn digital assets by performing actions such as repeatedly tapping on a screen. "
-timefi,TimeFi,"TimeFi is a blockchain-based approach to treating time as a monetizable asset through tokenized productivity, verifiable commitments, and AI-driven incentives."
 ton-meme-coins,TON Meme,Meme coins native to the TON network.
 move-to-earn,Move To Earn,The move-to-earn model is often implemented through mobile applications that use technologies such as GPS tracking to monitor users' physical activity. These apps then reward users with tradable tokens or NFTs based on the distance they cover or the number
-arcade-games,Arcade Games,"Classic-style games with simple mechanics, high replayability, and score-based progression."
 adventure-games,Adventure Games,"Adventure game is a video game genre where players embark on a journey in a narrative-driven world, solving puzzles, interacting with characters, and making decisions that can influence the outcome of the story. "
+arcade-games,Arcade Games,"Classic-style games with simple mechanics, high replayability, and score-based progression."
 prediction-market-tools,Prediction Market Tools,"Cryptocurrencies representing projects that function as an application or tooling layer on top of decentralized prediction markets (like Polymarket, Kalshi etc.) to offer enhanced utilities. These platforms do not offer their own prediction bets and market"
 hybrid-token-standards,Hybrid Token Standards,Hybrid Token Standards allow tokens to have characteristics of both fungible assets and non-fungible tokens.
 augmented-reality,Augmented Reality,"Augmented Reality (AR) offers interactive experiences without disconnecting users from the real world, allowing them to interact with digital elements in a real-world context."
@@ -263,8 +263,8 @@ jpy-stablecoin,JPY Stablecoin,A JPY stablecoin is a type of cryptocurrency that 
 nft-strategy-flywheel,NFT Strategy Flywheel,The NFT Strategy Flywheel is a DeFi-NFT hybrid model that automates NFT accumulation and token burning using trading fees to drive continuous buy pressure and value accrual for token holders.
 chaingpt-pad,ChainGPT Launchpad,ChainGPT Lauchpad is a platform for crypto projects to hold Initial DEX Offerings (IDOs). Participants are able to gain early access to public and special token sales on the platform.
 nftstrategy-ecosystem,NFTStrategy Ecosystem,"NFTStrategy is an automated protocol that converts crypto trading fees into buying and selling floor NFTs, creating a self-sustaining value loop for NFT collections."
-bridged-stablecoins,Bridged Stablecoin,"Bridged stablecoin refers to a stablecoin that has been transferred, or “bridged,” from one blockchain to another, typically through the use of a blockchain bridge."
 moltbook-and-openclaw-themed,Moltbook and Openclaw-Themed,The Moltbook and Openclaw-Themed category features community-driven assets representing specific agent personas or viral narratives (memes) within the Moltbook platform.
+bridged-stablecoins,Bridged Stablecoin,"Bridged stablecoin refers to a stablecoin that has been transferred, or “bridged,” from one blockchain to another, typically through the use of a blockchain bridge."
 virtual-reality,Virtual Reality,Virtual reality (VR) uses computer-generated environments to create a simulated experience for users.
 sui-meme,Sui Meme,Meme coins native to the Sui network.
 wall-street-bets-themed-coins,Wall Street Bets Themed,Meme coins which are inspired by the popular subreddit r/WallStreetBets.
@@ -278,8 +278,8 @@ bridged-weth,Bridged WETH,"Bridged WETH refers to WETH that have been transferre
 nft-lending-borrowing,NFT Lending/Borrowing,"Individuals can use their NFTs as collateral to secure loans, or lend out their NFTs to others in exchange for interest, creating liquidity without the need to sell the NFTs themselves."
 sgd-stablcoin,SGD Stablcoin,A SGD stablecoin is a type of cryptocurrency that is designed to maintain a stable value by being pegged to the Singapore dollar.
 mascot-themed,Mascot-Themed,Meme coins related to Mascot.
-idr-stablecoin,IDR Stablecoin,A IDR stablecoin is a type of cryptocurrency that is designed to maintain a stable value by being pegged to the Indonesian rupiah.
 commodities-meme,Commodities Meme,Meme projects tied to commodities in traditional finance.
+idr-stablecoin,IDR Stablecoin,A IDR stablecoin is a type of cryptocurrency that is designed to maintain a stable value by being pegged to the Indonesian rupiah.
 sun-pump-ecosystem,Sun Pump Ecosystem,Sun Pump Ecosystem consists of tokens launched via sunpump.meme.
 moonshot-ecosystem,Moonshot Ecosystem,Moonshot Ecosystem consists of tokens launched via https://moonshot.money/.
 sticker-themed-coin,Sticker-Themed Coins,Meme coins inspired by Telegram Sticker Packs
@@ -294,8 +294,8 @@ cookie-launchpad,Cookie Launchpad,"Cookie Launchpad is a token sale platform ope
 pump-fund-portfolio,Pump Fund Portfolio,"Projects and tokens officially backed by Pump Fund, the venture arm of Pump.fun. These projects are selected for their adherence to ""build in public"" principles, transparent development, and verified founder commitment."
 cny-stablecoin,CNY Stablecoin,A CNY stablecoin is a type of cryptocurrency that is designed to maintain a stable value by being pegged to the Chinese Yuan Renminbi.
 gotchiverse,Gotchiverse,"Assets and tokens that are used in Gotchiverse, a metaverse game based on the Aavegotchi project."
-country-themed-meme-coins,Country-Themed Meme,Meme Coins which are inspired by countries but are not affiliated with any specific nation.
 gbp-stablecoin,GBP Stablecoin,A GBP stablecoin is a type of cryptocurrency that is designed to maintain a stable value by being pegged to the British pound sterling.
+country-themed-meme-coins,Country-Themed Meme,Meme Coins which are inspired by countries but are not affiliated with any specific nation.
 remora-markets-tokenized-rstocks,Remora Markets Tokenized rStocks,"Remora Markets Tokenized rStocks are on-chain tokens that represent economic exposure to traditional stocks, with each token typically backed 1:1 by the underlying security held through a regulated custodian"
 spl22,SPL22,SPL22 is a hybrid token extension of the Solana blockchain that combines the features of both fungible and non-fungible tokens. 
 creatorbid-ecosystem,CreatorBid Ecosystem,CreatorBid Ecosystem consists of tokens launched via creator.bid.
@@ -306,15 +306,15 @@ realt-tokens,RealT Tokens,
 fighting-games,Fighting Games,Fighting game centered around combat between two or more number of characters.
 farming-as-a-service-faas,Farming-as-a-Service (FaaS),"Farming-as-a Service simplifies the process of yield farming by handling the technical aspects, such as choosing the right liquidity pools, managing the staking or lending process, and optimizing the yield."
 privacy-focused-browser,Privacy Browser,"A privacy browser is a browser built or hardened to block trackers, ads, fingerprinting, and data leaks by default, keeping your activity more private from websites and advertisers."
-bagsapp-ecosystem,BagsApp Ecosystem,BagsApp Ecosystem consists of tokens launched via bags.fm.
 leveraged-token,Leveraged Token,Leveraged crypto token is a type of financial instrument hat allows traders to amplify their exposure to the price movements of an underlying cryptocurrency.
+bagsapp-ecosystem,BagsApp Ecosystem,BagsApp Ecosystem consists of tokens launched via bags.fm.
 reddit-points,Reddit Points,"Reddit Community Points are blockchain tokens that are owned and controlled by a specific Reddit community. With these point tokens, a community member can own a piece of their favorite subreddit. The points can be earned through contributions in the commu"
 etf,ETF,"Exchange Traded Fund (ETF) is product that holds a basket of assets such as stocks, bonds, commodities, or crypto."
 pump-fun-creator,Pump.fun Creator,"Pump.fun creator tokens are Solana-based memecoins tied to influencers, blending streaming culture with DeFi."
-erc-404,ERC 404,ERC-404 is an experimental token standard that aims to bridge fungible tokens and NFTs to enable liquidity and fractionalization.
 tokenized-btc,Tokenized BTC,
 christmas-themed,Christmas Themed,"Meme coins themed around Christmas, inspired by holiday traditions, symbols, and celebrations."
 krw-stablecoin,KRW Stablecoin,A KRW stablecoin is a type of cryptocurrency that is designed to maintain a stable value by being pegged to the Korean won.
+erc-404,ERC 404,ERC-404 is an experimental token standard that aims to bridge fungible tokens and NFTs to enable liquidity and fractionalization.
 zodiac-themed,Zodiac-Themed,Meme coins related to zodiac signs.
 aave-tokens,Aave Tokens,Aave Tokens are balance tokens on the Aave Protocol which represents a lending balance on the Aave money market.
 drc-20,DRC-20,DRC-20 is a token standard on the Dogecoin blockchain that allows for the creation of tokens that represent ownership of assets. 
@@ -336,42 +336,42 @@ farming-games,Farming Games,"Farming game allows players to simulate farming lif
 erc20i,ERC20i,ERC20i is a token standard on Base blockchain that extends the capabilities of ERC-20 tokens by adding native inscriptions.
 dn-404, DN-404,"The ""Divisible NFT"" standard (DN-404) aims to be a hybrid of ERC20 and ERC721 that could act as an NFT with native fractionalization built in."
 hyperxpad-launchpad,HyperXpad Launchpad,HyperXpad Launchpad is a platform for crypto projects to hold Initial DEX Offerings (IDOs). Participants are able to gain early access to public and special token sales on the platform.
-liquid-staked-eth,Liquid Staked ETH,Liquid staked ETH is a tokenized representation of staked Ethereum that can be traded or used in various DeFi applications.
 gate-fun-ecosystem,Gate Fun Ecosystem,Gate Fun Ecosystem consists of tokens launched via Gate Fun.
-atomicals-arc-20,Atomicals (ARC-20),"ARC-20 is a token standard on the Bitcoin blockchain that allows for the creation of fungible tokens, also known as colored coins."
-liquid-staked-btc,Liquid Staked BTC,Liquid staked BTC is a tokenized representation of staked Bitcoin that can be traded or used in various DeFi applications.
-liquid-staked-sui,Liquid Staked SUI,Liquid staked SUI is a tokenized representation of staked Sui that can be traded or used in various DeFi applications.
 dinari-ecosystem,Dinari Ecosystem,The Dinari Ecosystem comprises tokens tokenized by Dinari.
-liquid-staked-apt,Liquid Staked APT	,Liquid staked APT is a tokenized representation of staked Aptos that can be traded or used in various DeFi applications.
+liquid-staked-btc,Liquid Staked BTC,Liquid staked BTC is a tokenized representation of staked Bitcoin that can be traded or used in various DeFi applications.
 puzzle-games, Puzzle Games,"A puzzle game challenges players to solve problems and use logic or creativity to progress. These games often involve tasks like pattern recognition, spatial reasoning, wordplay, or strategic planning."
-liquid-restaked-sol,Liquid Restaked SOL,Liquid Restaked SOL is a tokenized representation of restaked Ethereum that can be traded or used in various DeFi applications.
-compound-tokens,Compound Tokens,Compound Tokens are balance tokens on the Compound Finance Protocol which represents a lending balance on the Compound money market.
+liquid-staked-apt,Liquid Staked APT	,Liquid staked APT is a tokenized representation of staked Aptos that can be traded or used in various DeFi applications.
+atomicals-arc-20,Atomicals (ARC-20),"ARC-20 is a token standard on the Bitcoin blockchain that allows for the creation of fungible tokens, also known as colored coins."
+bridged-wavax,Bridged WAVAX,"Bridged WAVAX refers to Wrapped AVAX that has been transferred from its native blockchain to a different blockchain through ""bridging""."
 bridged-frax,Bridged FRAX,"Bridged FRAX refers to Wrapped FRAX that has been transferred from its native blockchain to a different blockchain through ""bridging""."
 bridged-wbnb,Bridged WBNB,"Bridged WBNB refers to Wrapped BNB that has been transferred from its native blockchain to a different blockchain through ""bridging""."
-bridged-wavax,Bridged WAVAX,"Bridged WAVAX refers to Wrapped AVAX that has been transferred from its native blockchain to a different blockchain through ""bridging""."
 yield-tokenization-product,Yield Tokenization Product,"Yield tokenization product refers to converting the expected future yield or returns from an asset into tradable tokens on a blockchain, allowing for the trading, management, and optimization of yield independently from the underlying asset."
+liquid-restaked-sol,Liquid Restaked SOL,Liquid Restaked SOL is a tokenized representation of restaked Ethereum that can be traded or used in various DeFi applications.
+compound-tokens,Compound Tokens,Compound Tokens are balance tokens on the Compound Finance Protocol which represents a lending balance on the Compound money market.
 bridged-wsteth,Bridged wstETH,"Bridged wstETH refers to Wrapped Staked ETH (wstETH) that has been transferred from its native blockchain to a different blockchain through ""bridging""."
-liquid-restaked-eth,Liquid Restaked ETH,Liquid Restaked ETH is a tokenized representation of restaked Ethereum that can be traded or used in various DeFi applications.
-liquid-staked-sol,Liquid Staked SOL,Liquid staked SOL is a tokenized representation of staked SOL that can be traded or used in various DeFi applications.
-bridged-dai,Bridged DAI,"Bridged DAI refers to DAI that has been transferred from its native blockchain to a different blockchain through ""bridging'."
-liquid-staked-hype,Liquid Staked HYPE	,Liquid staked HYPE is a tokenized representation of staked HYPE that can be traded or used in various DeFi applications.
 binance-peg-tokens,Binance-Peg Tokens,Binance-Peg Tokens are wrapped versions of cryptocurrencies pegged by Binance on a 1:1 ratio. 
 yearn-vault-tokens,Yearn Vault Tokens,"Yearn Vault Tokens (yVault Token), is a type of token that represents a user's share in a Yearn Vault."
+liquid-staked-sol,Liquid Staked SOL,Liquid staked SOL is a tokenized representation of staked SOL that can be traded or used in various DeFi applications.
+liquid-restaked-eth,Liquid Restaked ETH,Liquid Restaked ETH is a tokenized representation of restaked Ethereum that can be traded or used in various DeFi applications.
+bridged-dai,Bridged DAI,"Bridged DAI refers to DAI that has been transferred from its native blockchain to a different blockchain through ""bridging'."
 wormhole-assets,Wormhole Assets,"The Wormhole project is a bidirectional, decentralized SPL token bridge between Solana and EVM chains."
-asc-20,ASC-20,ASC-20 is a token standard on the Avalanche blockchain that allows for the creation of tokens that represent ownership of assets.
+liquid-staked-hype,Liquid Staked HYPE	,Liquid staked HYPE is a tokenized representation of staked HYPE that can be traded or used in various DeFi applications.
 src-20,SRC-20,"The SRC-20 standard issues fungible tokens on the Bitcoin blockchain, attaching data via UTXOs for immutable and non-prunable storage."
+asc-20,ASC-20,ASC-20 is a token standard on the Avalanche blockchain that allows for the creation of tokens that represent ownership of assets.
 nft-amm,NFT AMM,"A Decentralized exchange model adapted for NFTs, which leverages liquidity pools to facilitate the trading of NFTs without the need for a traditional order book."
 nft-aggregator,NFT Aggregator,"NFT aggregators work by pulling together listings, sales data, and other relevant information from multiple NFT marketplaces into one unified interface."
-flooring-protocol,Floor Protocol Tokens,"Floor Protocol is a fractionalized NFT platform. It allows the fragmentation of NFTs from prominent collections into μTokens, which can then be traded like any other cryptocurrency."
 learn-to-earn,Learn to Earn,"Learn to Earn project allows users to earn cryptocurrency rewards by completing lessons, watching videos, and passing quizzes about blockchain, specific tokens, or Web3 concepts."
-friend-tech,Friend.tech Ecosystem,Interconnected platforms and services built around Friend.tech.
+flooring-protocol,Floor Protocol Tokens,"Floor Protocol is a fractionalized NFT platform. It allows the fragmentation of NFTs from prominent collections into μTokens, which can then be traded like any other cryptocurrency."
 opinions-fun-ecosystem,Opinions.fun Ecosystem,The Opinions.fun Ecosystem consists of tokens launched through Opinions.fun.
+friend-tech,Friend.tech Ecosystem,Interconnected platforms and services built around Friend.tech.
 multiplier-denominated-tokens,Multiplier Denominated Tokens,"Multiplier Denominated Tokens are crypto assets whose unit representation is scaled by a fixed multiplier (e.g. 1,000×) relative to an underlying base token. The multiplier adjusts the nominal unit size for pricing and trading purposes, without introducing"
-bitstarters-launchpad,BitStarters Launchpad,BitStarters Launchpad is a platform for crypto projects to hold Initial DEX Offerings (IDOs). Participants are able to gain early access to public and special token sales on the platform.
-liquid-restaking-tokens,Liquid Restaking Tokens,Liquid Restaking Tokens are a liquid representation of restaking positions. Restaking enable users who have staked their tokens to extend the security of the base network to other protocols and networks.
 index-coop-metaverse-index,Index Coop Metaverse Index,"The Metaverse Index (MVI) is designed to capture the trend of entertainment, social activity and business moving to take place in virtual economies, powered by NFTs and blockchain technology."
+liquid-staked-eth,Liquid Staked ETH,Liquid staked ETH is a tokenized representation of staked Ethereum that can be traded or used in various DeFi applications.
+bitstarters-launchpad,BitStarters Launchpad,BitStarters Launchpad is a platform for crypto projects to hold Initial DEX Offerings (IDOs). Participants are able to gain early access to public and special token sales on the platform.
 bridged-usdt,Bridged USDT,"Bridged USDT refers to Tether tokens that have been transferred from their native blockchain to a different blockchain through ""bridging""."
+liquid-restaking-tokens,Liquid Restaking Tokens,Liquid Restaking Tokens are a liquid representation of restaking positions. Restaking enable users who have staked their tokens to extend the security of the base network to other protocols and networks.
 bridged-usdc,Bridged USDC,"Bridged USDC refers to USDC that have been transferred from their native blockchain to a different blockchain through ""bridging""."
+liquid-staked-sui,Liquid Staked SUI,Liquid staked SUI is a tokenized representation of staked Sui that can be traded or used in various DeFi applications.
 ethereum-ecosystem,Ethereum Ecosystem,
 binance-smart-chain,BNB Chain Ecosystem,"BNB Chain is an alternative blockchain that is similar to Ethereum, capable of hosting smart contracts and decentralized applications. It was launched by Binance in September 2020 as the Binance Smart Chain, and relaunched in Feburary 2022 as BNB Chain. BN"
 solana-ecosystem,Solana Ecosystem,"Solana is a general purpose blockchain similar to Ethereum. The underlying architecture is different, such that developers have to write applications using Rust instead of Solidity or Vyper. However, this may soon change with the introduction of the Neon E"
