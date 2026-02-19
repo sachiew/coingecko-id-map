@@ -4,8 +4,8 @@ gate_futures,Gate (Futures)
 ftx,FTX (Derivatives)
 bybit,Bybit (Futures)
 lbank-futures,LBank (Futures)
-coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
+coinw_futures,CoinW (Futures)
 okex_swap,OKX (Futures)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
@@ -14,8 +14,8 @@ bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
-deribit,Deribit
 prime_xbt,PrimeXBT
+deribit,Deribit
 bingx_futures,BingX (Futures)
 whitebit_futures,WhiteBIT Futures
 huobi_dm,HTX Futures
@@ -81,13 +81,13 @@ gtrade-base,gTrade (Base)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
+kiloex-base,KiloEx (Base)
 kiloex-bsc,KiloEx (BSC)
 valr-futures,VALR Futures
-kiloex-base,KiloEx (Base)
-deriw,DeriW
 kiloex-opbnb,KiloEx (opBnb)
-kiloex-manta-pacific,KiloEx (Manta Pacific)
+deriw,DeriW
 gtrade-polygon,gTrade (Polygon)
+kiloex-manta-pacific,KiloEx (Manta Pacific)
 navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
