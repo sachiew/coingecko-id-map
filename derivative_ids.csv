@@ -1,26 +1,26 @@
 id,name
 binance_futures,Binance (Futures)
-gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
+gate_futures,Gate (Futures)
 ftx,FTX (Derivatives)
 lbank-futures,LBank (Futures)
-coinw_futures,CoinW (Futures)
 okex_swap,OKX (Futures)
+coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
-xt_derivatives,XT.COM (Derivatives)
 bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
+xt_derivatives,XT.COM (Derivatives)
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
 orangex_futures,OrangeX Futures
 bingx_futures,BingX (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 prime_xbt,PrimeXBT
-deribit,Deribit
 huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
-deepcoin_derivatives,Deepcoin (Derivatives)
+deribit,Deribit
 phemex_futures,Phemex (Futures)
 coinup-futures,CoinUp.io (Futures)
 aster,Aster (Futures)
@@ -36,17 +36,17 @@ btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
 paradex,Paradex
-kcex-futures,KCEX (Futures)
 bitmex,BitMEX (Derivative)
+kcex-futures,KCEX (Futures)
 ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
 extended,Extended
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 bitrue_futures,Bitrue (Futures)
-biconomy-futures,Biconomy (Futures)
 kraken_futures,Kraken (Futures)
-backpack-futures,Backpack (Futures)
+biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
+backpack-futures,Backpack (Futures)
 dmex,DMEX
 bullish-futures,Bullish (Futures)
 ostium,Ostium
@@ -54,9 +54,9 @@ drift_protocol,Drift Protocol
 apex-omni,ApeX Omni
 bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
-dydx_chain,dYdX Chain
-pacifica,Pacifica
 bitmax_futures,AscendEX  (BitMax) (Futures)
+pacifica,Pacifica
+dydx_chain,dYdX Chain
 vest-exchange-futures,Vest Exchange
 globe_exchange_derivatives,Globe (Derivatives)
 gate-perp-dex,Gate Perp Dex
@@ -71,8 +71,8 @@ aqx_derivatives,Flipster
 aevo,Aevo
 gemini_derivatives,Gemini Derivatives
 sodex-futures,SoDEX (Futures)
-coinex_futures,CoinEx (Futures)
 poloniex_futures,Poloniex Futures
+coinex_futures,CoinEx (Futures)
 zb_derivatives,ZB (Derivatives)
 sunperp,Sunperp
 injective_futures,Helix (Futures)
