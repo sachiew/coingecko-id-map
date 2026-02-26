@@ -9,18 +9,18 @@ coinw_futures,CoinW (Futures)
 okex_swap,OKX (Futures)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
-bitmart_futures,Bitmart Futures
 xt_derivatives,XT.COM (Derivatives)
+bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
 bydfi-futures,BYDFi (Futures)
+prime_xbt,PrimeXBT
 orangex_futures,OrangeX Futures
 toobit_derivatives,Toobit Futures
-prime_xbt,PrimeXBT
 bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
-deribit,Deribit
 deepcoin_derivatives,Deepcoin (Derivatives)
+deribit,Deribit
 phemex_futures,Phemex (Futures)
 coinup-futures,CoinUp.io (Futures)
 aster,Aster (Futures)
@@ -35,16 +35,16 @@ btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
 btse_futures,BTSE (Futures)
-paradex,Paradex
-kcex-futures,KCEX (Futures)
 ourbit-futures,Ourbit (Futures)
+kcex-futures,KCEX (Futures)
+paradex,Paradex
 bitmex,BitMEX (Derivative)
 grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
 extended,Extended
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-biconomy-futures,Biconomy (Futures)
 kraken_futures,Kraken (Futures)
+biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
 backpack-futures,Backpack (Futures)
 dmex,DMEX
@@ -56,10 +56,10 @@ bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
-globe_exchange_derivatives,Globe (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
-ln-exchange-futures,LN Exchange (Futures)
+globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
+ln-exchange-futures,LN Exchange (Futures)
 gate-perp-dex,Gate DEX
 woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
@@ -90,9 +90,9 @@ deriw,DeriW
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
+navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 gtrade-polygon,gTrade (Polygon)
-navigator,Navigator
 fwx-futures,FWX (Futures) (Avalanche)
 myx,MYX
 spacewhale,SpaceWhale
