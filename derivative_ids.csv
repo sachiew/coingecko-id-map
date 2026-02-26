@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
-gate_futures,Gate (Futures)
 ftx,FTX (Derivatives)
+gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
@@ -10,12 +10,12 @@ okex_swap,OKX (Futures)
 weex-futures,WEEX (Futures)
 bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
-bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
+bitmart_futures,Bitmart Futures
 bydfi-futures,BYDFi (Futures)
 orangex_futures,OrangeX Futures
-prime_xbt,PrimeXBT
 toobit_derivatives,Toobit Futures
+prime_xbt,PrimeXBT
 bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
@@ -35,8 +35,8 @@ btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
 btse_futures,BTSE (Futures)
-paradex,Paradex
 ourbit-futures,Ourbit (Futures)
+paradex,Paradex
 kcex-futures,KCEX (Futures)
 bitmex,BitMEX (Derivative)
 grvt_futures,GRVT
@@ -56,10 +56,10 @@ bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
-bitmax_futures,AscendEX  (BitMax) (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-vest-exchange-futures,Vest Exchange
+bitmax_futures,AscendEX  (BitMax) (Futures)
 ln-exchange-futures,LN Exchange (Futures)
+vest-exchange-futures,Vest Exchange
 gate-perp-dex,Gate DEX
 woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
@@ -78,9 +78,9 @@ sodex-futures,SoDEX (Futures)
 injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
+flash-trade,Flash Trade
 strike-finance,Strike Finance
 myx-bsc,MYX (BSC)
-flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
@@ -91,8 +91,8 @@ gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 demex_derivatives,Demex (Derivatives)
-navigator,Navigator
 gtrade-polygon,gTrade (Polygon)
+navigator,Navigator
 fwx-futures,FWX (Futures) (Avalanche)
 myx,MYX
 spacewhale,SpaceWhale
