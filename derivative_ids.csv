@@ -4,22 +4,22 @@ bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
-mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
+mxc_futures,MEXC (Futures)
 okex_swap,OKX (Futures)
 weex-futures,WEEX (Futures)
+bitmart_futures,Bitmart Futures
 bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
-bitmart_futures,Bitmart Futures
 hyperliquid,Hyperliquid (Futures)
 bydfi-futures,BYDFi (Futures)
 prime_xbt,PrimeXBT
 orangex_futures,OrangeX Futures
 huobi_dm,HTX Futures
 toobit_derivatives,Toobit Futures
-bingx_futures,BingX (Futures)
 whitebit_futures,WhiteBIT Futures
 deribit,Deribit
+bingx_futures,BingX (Futures)
 phemex_futures,Phemex (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 coinup-futures,CoinUp.io (Futures)
@@ -35,9 +35,9 @@ btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
 btse_futures,BTSE (Futures)
-ourbit-futures,Ourbit (Futures)
-paradex,Paradex
 kcex-futures,KCEX (Futures)
+paradex,Paradex
+ourbit-futures,Ourbit (Futures)
 bitmex,BitMEX (Derivative)
 grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
@@ -55,8 +55,8 @@ apex-omni,ApeX Omni
 bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
-bitmax_futures,AscendEX  (BitMax) (Futures)
 pacifica,Pacifica
+bitmax_futures,AscendEX  (BitMax) (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
 ln-exchange-futures,LN Exchange (Futures)
@@ -81,17 +81,16 @@ bigone_futures,BigONE Futures
 strike-finance,Strike Finance
 myx-bsc,MYX (BSC)
 flash-trade,Flash Trade
-kiloex-base,KiloEx (Base)
 gtrade-base,gTrade (Base)
+kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
 myx-linea,MYX (Linea)
 deriw,DeriW
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-demex_derivatives,Demex (Derivatives)
 navigator,Navigator
+demex_derivatives,Demex (Derivatives)
 gtrade-polygon,gTrade (Polygon)
 fwx-futures,FWX (Futures) (Avalanche)
 spacewhale,SpaceWhale
@@ -143,6 +142,7 @@ spherex,SphereX
 vertex-edge-base,Vertex Edge (Base)
 defx,Defx
 derive-futures,Derive (Futures)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 vertex-edge-abstract,Vertex Edge (Abstract)
 bluefin_futures,Bluefin (Futures)
