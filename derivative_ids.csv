@@ -1,7 +1,7 @@
 id,name
 binance_futures,Binance (Futures)
-ftx,FTX (Derivatives)
 bybit,Bybit (Futures)
+ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 coinw_futures,CoinW (Futures)
@@ -13,10 +13,10 @@ hyperliquid,Hyperliquid (Futures)
 xt_derivatives,XT.COM (Derivatives)
 bitmart_futures,Bitmart Futures
 bydfi-futures,BYDFi (Futures)
-prime_xbt,PrimeXBT
 toobit_derivatives,Toobit Futures
-bingx_futures,BingX (Futures)
+prime_xbt,PrimeXBT
 huobi_dm,HTX Futures
+bingx_futures,BingX (Futures)
 orangex_futures,OrangeX Futures
 whitebit_futures,WhiteBIT Futures
 deribit,Deribit
@@ -35,8 +35,8 @@ btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
 btse_futures,BTSE (Futures)
-paradex,Paradex
 kcex-futures,KCEX (Futures)
+paradex,Paradex
 ourbit-futures,Ourbit (Futures)
 bitmex,BitMEX (Derivative)
 grvt_futures,GRVT
@@ -57,8 +57,8 @@ levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
 vest-exchange-futures,Vest Exchange
-bitmax_futures,AscendEX  (BitMax) (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 gate-perp-dex,Gate DEX
 ln-exchange-futures,LN Exchange (Futures)
 woo_network_futures,WOO X (Futures)
@@ -82,19 +82,18 @@ bigone_futures,BigONE Futures
 strike-finance,Strike Finance
 myx-bsc,MYX (BSC)
 gtrade-base,gTrade (Base)
-flash-trade,Flash Trade
 deriw,DeriW
 kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
+flash-trade,Flash Trade
 myx-linea,MYX (Linea)
 kiloex-opbnb,KiloEx (opBnb)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
-powertrade_derivatives,Powertrade (Derivatives)
-fwx-futures,FWX (Futures) (Avalanche)
 demex_derivatives,Demex (Derivatives)
+fwx-futures,FWX (Futures) (Avalanche)
 spacewhale,SpaceWhale
 jex_futures,Binance JEX (Futures)
 synfutures,SynFutures
@@ -186,5 +185,6 @@ equos_perpetual,EQONEX (Perpetual)
 dydx_perpetual,dYdX Perpetual (Ethereum)
 mcdex_bsc,MCDEX (BSC)
 fmex,FMex
+powertrade_derivatives,Powertrade (Derivatives)
 btcc_futures,BTCC Futures
 mango_markets_derivatives,Mango Markets (Derivatives)
