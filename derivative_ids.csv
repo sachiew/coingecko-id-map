@@ -8,14 +8,14 @@ mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
 okex_swap,OKX (Futures)
 coinw_futures,CoinW (Futures)
-bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
+bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
-orangex_futures,OrangeX Futures
 bydfi-futures,BYDFi (Futures)
+orangex_futures,OrangeX Futures
+deepcoin_derivatives,Deepcoin (Derivatives)
 toobit_derivatives,Toobit Futures
 prime_xbt,PrimeXBT
-deepcoin_derivatives,Deepcoin (Derivatives)
 bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
@@ -36,18 +36,18 @@ btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
 bitmex,BitMEX (Derivative)
-ourbit-futures,Ourbit (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
-hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
+ourbit-futures,Ourbit (Futures)
+hotcoin-futures,Hotcoin (Futures)
 paradex,Paradex
 grvt_futures,GRVT
 extended,Extended
 bitrue_futures,Bitrue (Futures)
-kraken_futures,Kraken (Futures)
-antarctic,Antarctic 
-backpack-futures,Backpack (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
+kraken_futures,Kraken (Futures)
+backpack-futures,Backpack (Futures)
+antarctic,Antarctic 
 biconomy-futures,Biconomy (Futures)
 dmex,DMEX
 bullish-futures,Bullish (Futures)
@@ -58,9 +58,9 @@ bitkan-futures,BitKan (Futures)
 levex-futures,LeveX (Futures)
 dydx_chain,dYdX Chain
 pacifica,Pacifica
+bitmax_futures,AscendEX  (BitMax) (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
-bitmax_futures,AscendEX  (BitMax) (Futures)
 ln-exchange-futures,LN Exchange (Futures)
 gate-perp-dex,Gate DEX
 woo_network_futures,WOO X (Futures)
@@ -93,8 +93,8 @@ kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 gtrade-polygon,gTrade (Polygon)
-demex_derivatives,Demex (Derivatives)
 navigator,Navigator
+demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 ktx_finance_arbitrum_derivatives,KTX.Finance (Arbitrum)
 vertex-edge-sonic,Vertex Edge (Sonic)
