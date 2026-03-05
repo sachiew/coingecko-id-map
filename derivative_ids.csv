@@ -1,7 +1,7 @@
 id,name
 binance_futures,Binance (Futures)
-bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
+bybit,Bybit (Futures)
 gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 coinw_futures,CoinW (Futures)
@@ -12,13 +12,13 @@ xt_derivatives,XT.COM (Derivatives)
 bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
 bydfi-futures,BYDFi (Futures)
-prime_xbt,PrimeXBT
-deepcoin_derivatives,Deepcoin (Derivatives)
 huobi_dm,HTX Futures
+prime_xbt,PrimeXBT
 whitebit_futures,WhiteBIT Futures
+bingx_futures,BingX (Futures)
 orangex_futures,OrangeX Futures
 toobit_derivatives,Toobit Futures
-bingx_futures,BingX (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 deribit,Deribit
 phemex_futures,Phemex (Futures)
 coinup-futures,CoinUp.io (Futures)
@@ -30,18 +30,18 @@ bitunix_futures,Bitunix Futures
 bitvenus,BVOX (Futures)
 bitfinex_futures,Bitfinex (Futures)
 edgex,edgeX
-bitmex,BitMEX (Derivative)
 btse_futures,BTSE (Futures)
+bitmex,BitMEX (Derivative)
 zoomex-futures,Zoomex (Futures)
 btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
 aivora-exchange-futures,Aivora Exchange (Futures)
 kcex-futures,KCEX (Futures)
+ourbit-futures,Ourbit (Futures)
 hotcoin-futures,Hotcoin (Futures)
 grvt_futures,GRVT
 paradex,Paradex
-ourbit-futures,Ourbit (Futures)
 extended,Extended
 bitrue_futures,Bitrue (Futures)
 kraken_futures,Kraken (Futures)
@@ -59,8 +59,8 @@ levex-futures,LeveX (Futures)
 pacifica,Pacifica
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-vest-exchange-futures,Vest Exchange
 bitmax_futures,AscendEX  (BitMax) (Futures)
+vest-exchange-futures,Vest Exchange
 ln-exchange-futures,LN Exchange (Futures)
 gate-perp-dex,Gate DEX
 woo_network_futures,WOO X (Futures)
@@ -93,8 +93,8 @@ strike-finance,Strike Finance
 kiloex-opbnb,KiloEx (opBnb)
 demex_derivatives,Demex (Derivatives)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-navigator,Navigator
 gtrade-polygon,gTrade (Polygon)
+navigator,Navigator
 fwx-futures,FWX (Futures) (Avalanche)
 spacewhale,SpaceWhale
 cme_futures,CME Group
