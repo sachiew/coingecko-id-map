@@ -1,28 +1,28 @@
 id,name
 binance_futures,Binance (Futures)
-gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
+gate_futures,Gate (Futures)
 ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
 lbank-futures,LBank (Futures)
-weex-futures,WEEX (Futures)
 okex_swap,OKX (Futures)
+weex-futures,WEEX (Futures)
 mxc_futures,MEXC (Futures)
 bitget_futures,Bitget Futures
 hyperliquid,Hyperliquid (Futures)
 xt_derivatives,XT.COM (Derivatives)
 bydfi-futures,BYDFi (Futures)
+prime_xbt,PrimeXBT
 huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
 toobit_derivatives,Toobit Futures
-prime_xbt,PrimeXBT
-phemex_futures,Phemex (Futures)
 bingx_futures,BingX (Futures)
+phemex_futures,Phemex (Futures)
 deribit,Deribit
 coinup-futures,CoinUp.io (Futures)
 bitmart_futures,Bitmart Futures
-orangex_futures,OrangeX Futures
 aster,Aster (Futures)
+orangex_futures,OrangeX Futures
 deepcoin_derivatives,Deepcoin (Derivatives)
 kumex,KuCoin Futures
 bitunix_futures,Bitunix Futures
@@ -47,8 +47,8 @@ coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
 biconomy-futures,Biconomy (Futures)
-backpack-futures,Backpack (Futures)
 antarctic,Antarctic 
+backpack-futures,Backpack (Futures)
 dmex,DMEX
 drift_protocol,Drift Protocol
 apex-omni,ApeX Omni
@@ -57,8 +57,8 @@ levex-futures,LeveX (Futures)
 pacifica,Pacifica
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-dydx_chain,dYdX Chain
 bitmax_futures,AscendEX  (BitMax) (Futures)
+dydx_chain,dYdX Chain
 vest-exchange-futures,Vest Exchange
 gate-perp-dex,Gate DEX
 woo_network_futures,WOO X (Futures)
