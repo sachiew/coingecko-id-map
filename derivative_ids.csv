@@ -13,12 +13,12 @@ hyperliquid,Hyperliquid (Futures)
 xt_derivatives,XT.COM (Derivatives)
 bydfi-futures,BYDFi (Futures)
 huobi_dm,HTX Futures
-whitebit_futures,WhiteBIT Futures
 toobit_derivatives,Toobit Futures
+whitebit_futures,WhiteBIT Futures
 prime_xbt,PrimeXBT
 phemex_futures,Phemex (Futures)
-bingx_futures,BingX (Futures)
 deribit,Deribit
+bingx_futures,BingX (Futures)
 coinup-futures,CoinUp.io (Futures)
 bitmart_futures,Bitmart Futures
 aster,Aster (Futures)
@@ -63,8 +63,8 @@ vest-exchange-futures,Vest Exchange
 gate-perp-dex,Gate DEX
 woo_network_futures,WOO X (Futures)
 poloniex_futures,Poloniex Futures
-ln-exchange-futures,LN Exchange (Futures)
 delta_futures,Delta Exchange (Futures)
+ln-exchange-futures,LN Exchange (Futures)
 hashkey-global-futures,HashKey Global (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 aqx_derivatives,Flipster
@@ -98,7 +98,6 @@ gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 fwx-futures,FWX (Futures) (Avalanche)
 spacewhale,SpaceWhale
-levana-perps-osmosis,Levana Perps (Osmosis)
 jex_futures,Binance JEX (Futures)
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
 bitz_futures,BitZ (Futures)
@@ -110,7 +109,7 @@ basefex,BaseFEX
 ktx_finance_mantle_derivatives,KTX.Finance (Mantle)
 gmo_japan_futures,GMO Coin Japan (Futures)
 hbtc_futures,BHEX (Futures)
-gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
+vertex-edge-mantle,Vertex Edge (Mantle)
 dydx_perpetual_l1,dYdX Perpetual (L1)
 cointiger_futures,CoinTiger (Futures)
 hopex,Hopex
@@ -158,10 +157,10 @@ fairdesk_derivatives,Fairdesk Derivatives
 apex_pro,ApeX Pro
 synfutures,SynFutures
 holdstation-defutures,Holdstation DeFutures
+gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 gmx-perpetuals-v2-botanix,GMX Perpetuals V2 (Botanix)
 vertex-edge-sei,Vertex Edge (Sei)
 jojo-exchange-futures,JOJO Exchange
-vertex-edge-mantle,Vertex Edge (Mantle)
 spherex,SphereX
 kwenta_derivatives,Synthetix Exchange
 zkera-finance-metis,zkEra Finance (Metis)
@@ -190,3 +189,4 @@ enclave-markets,EnclaveX
 surf-protocol,Surf Protocol
 polynomial-trade,Polynomial Trade 
 dextoro,DexToro Pro
+levana-perps-osmosis,Levana Perps (Osmosis)
