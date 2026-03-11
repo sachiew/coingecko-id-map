@@ -1,24 +1,24 @@
 id,name
 binance_futures,Binance (Futures)
-bybit,Bybit (Futures)
-ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
+ftx,FTX (Derivatives)
+bybit,Bybit (Futures)
 coinw_futures,CoinW (Futures)
 lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 mxc_futures,MEXC (Futures)
 okex_swap,OKX (Futures)
 hyperliquid,Hyperliquid (Futures)
-bitget_futures,Bitget Futures
 bitmart_futures,Bitmart Futures
+bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
 bydfi-futures,BYDFi (Futures)
 toobit_derivatives,Toobit Futures
-bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
+deepcoin_derivatives,Deepcoin (Derivatives)
+bingx_futures,BingX (Futures)
 whitebit_futures,WhiteBIT Futures
 orangex_futures,OrangeX Futures
-deepcoin_derivatives,Deepcoin (Derivatives)
 prime_xbt,PrimeXBT
 phemex_futures,Phemex (Futures)
 deribit,Deribit
@@ -38,15 +38,15 @@ bitmex,BitMEX (Derivative)
 lighter,Lighter
 aivora-exchange-futures,Aivora Exchange (Futures)
 kcex-futures,KCEX (Futures)
-hotcoin-futures,Hotcoin (Futures)
 grvt_futures,GRVT
+hotcoin-futures,Hotcoin (Futures)
 ourbit-futures,Ourbit (Futures)
 extended,Extended
 paradex,Paradex
 kraken_futures,Kraken (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-bitrue_futures,Bitrue (Futures)
 biconomy-futures,Biconomy (Futures)
+bitrue_futures,Bitrue (Futures)
 backpack-futures,Backpack (Futures)
 antarctic,Antarctic 
 dmex,DMEX
@@ -73,22 +73,22 @@ aqx_derivatives,Flipster
 gemini_derivatives,Gemini Derivatives
 aevo,Aevo
 delta_futures,Delta Exchange (Futures)
-coinex_futures,CoinEx (Futures)
 zb_derivatives,ZB (Derivatives)
+coinex_futures,CoinEx (Futures)
 sunperp,Sunperp
 evedex,EVEDEX
 sodex-futures,SoDEX (Futures)
 injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
-flash-trade,Flash Trade
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 valr-futures,VALR Futures
-kiloex-base,KiloEx (Base)
+flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
-kiloex-bsc,KiloEx (BSC)
+kiloex-base,KiloEx (Base)
 deriw,DeriW
+kiloex-bsc,KiloEx (BSC)
 strike-finance,Strike Finance
 kiloex-opbnb,KiloEx (opBnb)
 gtrade-polygon,gTrade (Polygon)
