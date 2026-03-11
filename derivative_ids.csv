@@ -2,22 +2,22 @@ id,name
 binance_futures,Binance (Futures)
 bitmart_futures,Bitmart Futures
 gate_futures,Gate (Futures)
-bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
+bybit,Bybit (Futures)
 bydfi-futures,BYDFi (Futures)
 coinw_futures,CoinW (Futures)
 lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
-mxc_futures,MEXC (Futures)
 okex_swap,OKX (Futures)
+mxc_futures,MEXC (Futures)
 hyperliquid,Hyperliquid (Futures)
 bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
 huobi_dm,HTX Futures
 toobit_derivatives,Toobit Futures
 whitebit_futures,WhiteBIT Futures
-bingx_futures,BingX (Futures)
 orangex_futures,OrangeX Futures
+bingx_futures,BingX (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 prime_xbt,PrimeXBT
 phemex_futures,Phemex (Futures)
@@ -38,8 +38,8 @@ bitmex,BitMEX (Derivative)
 lighter,Lighter
 kcex-futures,KCEX (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
-hotcoin-futures,Hotcoin (Futures)
 grvt_futures,GRVT
+hotcoin-futures,Hotcoin (Futures)
 ourbit-futures,Ourbit (Futures)
 extended,Extended
 kraken_futures,Kraken (Futures)
@@ -85,8 +85,8 @@ myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 gtrade-base,gTrade (Base)
 valr-futures,VALR Futures
-flash-trade,Flash Trade
 deriw,DeriW
+flash-trade,Flash Trade
 kiloex-base,KiloEx (Base)
 kiloex-bsc,KiloEx (BSC)
 strike-finance,Strike Finance
