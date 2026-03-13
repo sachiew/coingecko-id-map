@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
+bitmart_futures,Bitmart Futures
 bybit,Bybit (Futures)
 gate_futures,Gate (Futures)
-bitmart_futures,Bitmart Futures
 ftx,FTX (Derivatives)
 bydfi-futures,BYDFi (Futures)
 lbank-futures,LBank (Futures)
@@ -17,11 +17,11 @@ toobit_derivatives,Toobit Futures
 huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
-orangex_futures,OrangeX Futures
 deepcoin_derivatives,Deepcoin (Derivatives)
+orangex_futures,OrangeX Futures
 phemex_futures,Phemex (Futures)
-deribit,Deribit
 prime_xbt,PrimeXBT
+deribit,Deribit
 coinup-futures,CoinUp.io (Futures)
 aster,Aster (Futures)
 bitunix_futures,Bitunix Futures
@@ -44,9 +44,9 @@ ourbit-futures,Ourbit (Futures)
 extended,Extended
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 kraken_futures,Kraken (Futures)
+antarctic,Antarctic 
 biconomy-futures,Biconomy (Futures)
 bitrue_futures,Bitrue (Futures)
-antarctic,Antarctic 
 dmex,DMEX
 paradex,Paradex
 coinex_futures,CoinEx (Futures)
@@ -58,18 +58,18 @@ apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 pacifica,Pacifica
 dydx_chain,dYdX Chain
-bitmax_futures,AscendEX  (BitMax) (Futures)
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
+bitmax_futures,AscendEX  (BitMax) (Futures)
 woo_network_futures,WOO X (Futures)
 gate-perp-dex,Gate DEX
 ln-exchange-futures,LN Exchange (Futures)
 poloniex_futures,Poloniex Futures
 aqx_derivatives,Flipster
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
-gtrade-arbitrum,gTrade (Arbitrum)
 hashkey-global-futures,HashKey Global (Futures)
+gtrade-arbitrum,gTrade (Arbitrum)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 gemini_derivatives,Gemini Derivatives
 delta_futures,Delta Exchange (Futures)
@@ -80,8 +80,8 @@ sunperp,Sunperp
 sodex-futures,SoDEX (Futures)
 injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
-myx-bsc,MYX (BSC)
 bigone_futures,BigONE Futures
+myx-bsc,MYX (BSC)
 flash-trade,Flash Trade
 valr-futures,VALR Futures
 gtrade-base,gTrade (Base)
