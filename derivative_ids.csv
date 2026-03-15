@@ -7,8 +7,8 @@ coinw_futures,CoinW (Futures)
 bydfi-futures,BYDFi (Futures)
 mxc_futures,MEXC (Futures)
 lbank-futures,LBank (Futures)
-weex-futures,WEEX (Futures)
 hyperliquid,Hyperliquid (Futures)
+weex-futures,WEEX (Futures)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
 bitmart_futures,Bitmart Futures
@@ -16,8 +16,8 @@ xt_derivatives,XT.COM (Derivatives)
 huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
 toobit_derivatives,Toobit Futures
-prime_xbt,PrimeXBT
 phemex_futures,Phemex (Futures)
+prime_xbt,PrimeXBT
 deribit,Deribit
 bingx_futures,BingX (Futures)
 coinup-futures,CoinUp.io (Futures)
@@ -35,15 +35,15 @@ btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 bitmex,BitMEX (Derivative)
 lighter,Lighter
-aivora-exchange-futures,Aivora Exchange (Futures)
 bitvenus,BVOX (Futures)
+aivora-exchange-futures,Aivora Exchange (Futures)
 kcex-futures,KCEX (Futures)
-grvt_futures,GRVT
 hotcoin-futures,Hotcoin (Futures)
-extended,Extended
+grvt_futures,GRVT
 ourbit-futures,Ourbit (Futures)
-kraken_futures,Kraken (Futures)
+extended,Extended
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
+kraken_futures,Kraken (Futures)
 biconomy-futures,Biconomy (Futures)
 bitrue_futures,Bitrue (Futures)
 antarctic,Antarctic 
@@ -66,8 +66,8 @@ gate-perp-dex,Gate DEX
 aqx_derivatives,Flipster
 delta_futures,Delta Exchange (Futures)
 poloniex_futures,Poloniex Futures
-hashkey-global-futures,HashKey Global (Futures)
 ln-exchange-futures,LN Exchange (Futures)
+hashkey-global-futures,HashKey Global (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 sodex-futures,SoDEX (Futures)
 aevo,Aevo
@@ -76,8 +76,8 @@ gtrade-arbitrum,gTrade (Arbitrum)
 evedex,EVEDEX
 sunperp,Sunperp
 gemini_derivatives,Gemini Derivatives
-injective_futures,Helix (Futures)
 ostium,Ostium
+injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 myx-bsc,MYX (BSC)
@@ -85,10 +85,10 @@ flash-trade,Flash Trade
 valr-futures,VALR Futures
 kiloex-base,KiloEx (Base)
 gtrade-base,gTrade (Base)
+strike-finance,Strike Finance
 deriw,DeriW
 kiloex-bsc,KiloEx (BSC)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
-strike-finance,Strike Finance
 kiloex-opbnb,KiloEx (opBnb)
 demex_derivatives,Demex (Derivatives)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
