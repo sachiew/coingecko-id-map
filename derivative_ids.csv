@@ -13,13 +13,13 @@ okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
 hyperliquid,Hyperliquid (Futures)
-bitmart_futures,Bitmart Futures
 toobit_derivatives,Toobit Futures
+bitmart_futures,Bitmart Futures
 bingx_futures,BingX (Futures)
-whitebit_futures,WhiteBIT Futures
-orangex_futures,OrangeX Futures
-huobi_dm,HTX Futures
 deepcoin_derivatives,Deepcoin (Derivatives)
+whitebit_futures,WhiteBIT Futures
+huobi_dm,HTX Futures
+orangex_futures,OrangeX Futures
 phemex_futures,Phemex (Futures)
 prime_xbt,PrimeXBT
 deribit,Deribit
@@ -30,16 +30,16 @@ crypto_com_futures,Crypto.com Exchange (Futures)
 bitvenus,BVOX (Futures)
 bitfinex_futures,Bitfinex (Futures)
 edgex,edgeX
-btse_futures,BTSE (Futures)
 zoomex-futures,Zoomex (Futures)
+btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 variational-omni,Variational Omni
 bitmex,BitMEX (Derivative)
 lighter,Lighter
 aivora-exchange-futures,Aivora Exchange (Futures)
-hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
+hotcoin-futures,Hotcoin (Futures)
 ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
 extended,Extended
@@ -61,17 +61,18 @@ pacifica,Pacifica
 ln-exchange-futures,LN Exchange (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 dydx_chain,dYdX Chain
-bullish-futures,Bullish (Futures)
 vest-exchange-futures,Vest Exchange
+bullish-futures,Bullish (Futures)
 bitmax_futures,AscendEX  (BitMax) (Futures)
 woo_network_futures,WOO X (Futures)
 gate-perp-dex,Gate DEX
 aqx_derivatives,Flipster
 poloniex_futures,Poloniex Futures
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 hashkey-global-futures,HashKey Global (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
-delta_futures,Delta Exchange (Futures)
 sodex-futures,SoDEX (Futures)
+delta_futures,Delta Exchange (Futures)
 aevo,Aevo
 gtrade-arbitrum,gTrade (Arbitrum)
 zb_derivatives,ZB (Derivatives)
@@ -82,7 +83,6 @@ injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 myx-bsc,MYX (BSC)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 myx-linea,MYX (Linea)
 flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
