@@ -1,10 +1,10 @@
 id,name
 coinup-futures,CoinUp.io (Futures)
 binance_futures,Binance (Futures)
-bitmart_futures,Bitmart Futures
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
+bitmart_futures,Bitmart Futures
 coinw_futures,CoinW (Futures)
 bydfi-futures,BYDFi (Futures)
 mxc_futures,MEXC (Futures)
@@ -16,9 +16,9 @@ hyperliquid,Hyperliquid (Futures)
 xt_derivatives,XT.COM (Derivatives)
 whitebit_futures,WhiteBIT Futures
 huobi_dm,HTX Futures
-bingx_futures,BingX (Futures)
-phemex_futures,Phemex (Futures)
 orangex_futures,OrangeX Futures
+phemex_futures,Phemex (Futures)
+bingx_futures,BingX (Futures)
 toobit_derivatives,Toobit Futures
 deribit,Deribit
 prime_xbt,PrimeXBT
@@ -38,8 +38,8 @@ variational-omni,Variational Omni
 lighter,Lighter
 bitmex,BitMEX (Derivative)
 aivora-exchange-futures,Aivora Exchange (Futures)
-kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
+kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
 ourbit-futures,Ourbit (Futures)
 extended,Extended
