@@ -14,8 +14,8 @@ okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
 toobit_derivatives,Toobit Futures
-bingx_futures,BingX (Futures)
 orangex_futures,OrangeX Futures
+bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
 whitebit_futures,WhiteBIT Futures
@@ -38,14 +38,14 @@ variational-omni,Variational Omni
 lighter,Lighter
 btse_futures,BTSE (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
-kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
-grvt_futures,GRVT
+kcex-futures,KCEX (Futures)
 ourbit-futures,Ourbit (Futures)
+grvt_futures,GRVT
 extended,Extended
 bitrue_futures,Bitrue (Futures)
-coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 kraken_futures,Kraken (Futures)
+coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
 dmex,DMEX
@@ -65,9 +65,9 @@ globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
 bitmax_futures,AscendEX  (BitMax) (Futures)
 woo_network_futures,WOO X (Futures)
-gate-perp-dex,Gate DEX
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 ln-exchange-futures,LN Exchange (Futures)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
+gate-perp-dex,Gate DEX
 aqx_derivatives,Flipster
 hashkey-global-futures,HashKey Global (Futures)
 poloniex_futures,Poloniex Futures
@@ -75,8 +75,8 @@ orderly_network_derivatives_evm,Orderly (Derivatives)
 sodex-futures,SoDEX (Futures)
 aevo,Aevo
 delta_futures,Delta Exchange (Futures)
-zb_derivatives,ZB (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
+zb_derivatives,ZB (Derivatives)
 evedex,EVEDEX
 sunperp,Sunperp
 injective_futures,Helix (Futures)
@@ -85,13 +85,13 @@ gemini_derivatives,Gemini Derivatives
 bigone_futures,BigONE Futures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 flash-trade,Flash Trade
-gtrade-base,gTrade (Base)
 valr-futures,VALR Futures
 kiloex-base,KiloEx (Base)
-deriw,DeriW
-io-trader,IO Trader
-kiloex-bsc,KiloEx (BSC)
 strike-finance,Strike Finance
+gtrade-base,gTrade (Base)
+io-trader,IO Trader
+deriw,DeriW
+kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
 demex_derivatives,Demex (Derivatives)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
