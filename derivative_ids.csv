@@ -9,9 +9,9 @@ lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
 hyperliquid,Hyperliquid (Futures)
-bitmart_futures,Bitmart Futures
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
+bitmart_futures,Bitmart Futures
 xt_derivatives,XT.COM (Derivatives)
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
@@ -21,25 +21,25 @@ orangex_futures,OrangeX Futures
 bingx_futures,BingX (Futures)
 deribit,Deribit
 phemex_futures,Phemex (Futures)
+prime_xbt,PrimeXBT
 bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
-prime_xbt,PrimeXBT
 kumex,KuCoin Futures
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
 edgex,edgeX
 zoomex-futures,Zoomex (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 bitvenus,BVOX (Futures)
 bitmex,BitMEX (Derivative)
+deepcoin_derivatives,Deepcoin (Derivatives)
 variational-omni,Variational Omni
 lighter,Lighter
 aivora-exchange-futures,Aivora Exchange (Futures)
 btse_futures,BTSE (Futures)
-hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
+hotcoin-futures,Hotcoin (Futures)
 grvt_futures,GRVT
 ourbit-futures,Ourbit (Futures)
 extended,Extended
@@ -59,10 +59,10 @@ apex-omni,ApeX Omni
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
 levex-futures,LeveX (Futures)
 pacifica,Pacifica
+bitmax_futures,AscendEX  (BitMax) (Futures)
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
-bitmax_futures,AscendEX  (BitMax) (Futures)
 dydx_chain,dYdX Chain
 woo_network_futures,WOO X (Futures)
 gate-perp-dex,Gate DEX
@@ -85,10 +85,10 @@ hitbtc_derivatives,HitBTC (Derivatives)
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 bigone_futures,BigONE Futures
 flash-trade,Flash Trade
-valr-futures,VALR Futures
-io-trader,IO Trader
-kiloex-base,KiloEx (Base)
 gtrade-base,gTrade (Base)
+valr-futures,VALR Futures
+kiloex-base,KiloEx (Base)
+io-trader,IO Trader
 kiloex-bsc,KiloEx (BSC)
 deriw,DeriW
 strike-finance,Strike Finance
