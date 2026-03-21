@@ -5,13 +5,13 @@ bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 bydfi-futures,BYDFi (Futures)
-lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
+lbank-futures,LBank (Futures)
 weex-futures,WEEX (Futures)
 hyperliquid,Hyperliquid (Futures)
-bitmart_futures,Bitmart Futures
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
+bitmart_futures,Bitmart Futures
 xt_derivatives,XT.COM (Derivatives)
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
@@ -24,13 +24,13 @@ orangex_futures,OrangeX Futures
 bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 prime_xbt,PrimeXBT
-kumex,KuCoin Futures
 crypto_com_futures,Crypto.com Exchange (Futures)
+kumex,KuCoin Futures
 bitfinex_futures,Bitfinex (Futures)
 edgex,edgeX
 zoomex-futures,Zoomex (Futures)
-blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
+blofin,BloFin (Futures)
 bitmex,BitMEX (Derivative)
 variational-omni,Variational Omni
 aivora-exchange-futures,Aivora Exchange (Futures)
@@ -61,8 +61,8 @@ pacifica,Pacifica
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-vest-exchange-futures,Vest Exchange
 bitmax_futures,AscendEX  (BitMax) (Futures)
+vest-exchange-futures,Vest Exchange
 dydx_chain,dYdX Chain
 woo_network_futures,WOO X (Futures)
 gate-perp-dex,Gate DEX
@@ -70,9 +70,9 @@ gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 aqx_derivatives,Flipster
 delta_futures,Delta Exchange (Futures)
 hashkey-global-futures,HashKey Global (Futures)
-ln-exchange-futures,LN Exchange (Futures)
-poloniex_futures,Poloniex Futures
 orderly_network_derivatives_evm,Orderly (Derivatives)
+poloniex_futures,Poloniex Futures
+ln-exchange-futures,LN Exchange (Futures)
 aevo,Aevo
 gtrade-arbitrum,gTrade (Arbitrum)
 sodex-futures,SoDEX (Futures)
@@ -82,8 +82,8 @@ gemini_derivatives,Gemini Derivatives
 sunperp,Sunperp
 injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
-gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 bigone_futures,BigONE Futures
+gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 gtrade-base,gTrade (Base)
 flash-trade,Flash Trade
 io-trader,IO Trader
