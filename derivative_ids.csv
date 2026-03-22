@@ -1,10 +1,10 @@
 id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
-bitmart_futures,Bitmart Futures
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 coinw_futures,CoinW (Futures)
+bitmart_futures,Bitmart Futures
 lbank-futures,LBank (Futures)
 bydfi-futures,BYDFi (Futures)
 mxc_futures,MEXC (Futures)
@@ -22,23 +22,23 @@ phemex_futures,Phemex (Futures)
 deribit,Deribit
 orangex_futures,OrangeX Futures
 aster,Aster (Futures)
-prime_xbt,PrimeXBT
 bitunix_futures,Bitunix Futures
+prime_xbt,PrimeXBT
 kumex,KuCoin Futures
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
 edgex,edgeX
 zoomex-futures,Zoomex (Futures)
-btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
+btcex_futures,BTCEX (Futures)
 bitmex,BitMEX (Derivative)
-variational-omni,Variational Omni
 bitvenus,BVOX (Futures)
+variational-omni,Variational Omni
 btse_futures,BTSE (Futures)
 lighter,Lighter
 aivora-exchange-futures,Aivora Exchange (Futures)
-hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
+hotcoin-futures,Hotcoin (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 grvt_futures,GRVT
 ourbit-futures,Ourbit (Futures)
@@ -80,10 +80,10 @@ gemini_derivatives,Gemini Derivatives
 injective_futures,Helix (Futures)
 ostium,Ostium
 hitbtc_derivatives,HitBTC (Derivatives)
-bigone_futures,BigONE Futures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
-flash-trade,Flash Trade
+bigone_futures,BigONE Futures
 gtrade-arbitrum,gTrade (Arbitrum)
+flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
 io-trader,IO Trader
 valr-futures,VALR Futures
@@ -92,13 +92,13 @@ deriw,DeriW
 kiloex-bsc,KiloEx (BSC)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
-kiloex-manta-pacific,KiloEx (Manta Pacific)
 navigator,Navigator
+kiloex-manta-pacific,KiloEx (Manta Pacific)
 gtrade-polygon,gTrade (Polygon)
 myx-bsc,MYX (BSC)
+demex_derivatives,Demex (Derivatives)
 fwx-futures,FWX (Futures) (Avalanche)
 myx-linea,MYX (Linea)
-demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 bitflyer_futures,Bitflyer (Futures)
 coincall,Coincall
