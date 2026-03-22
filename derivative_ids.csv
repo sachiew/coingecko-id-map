@@ -16,8 +16,8 @@ xt_derivatives,XT.COM (Derivatives)
 toobit_derivatives,Toobit Futures
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
-whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
+whitebit_futures,WhiteBIT Futures
 phemex_futures,Phemex (Futures)
 deribit,Deribit
 orangex_futures,OrangeX Futures
@@ -37,10 +37,10 @@ variational-omni,Variational Omni
 lighter,Lighter
 btse_futures,BTSE (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
-hotcoin-futures,Hotcoin (Futures)
-kcex-futures,KCEX (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
+kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
+hotcoin-futures,Hotcoin (Futures)
 ourbit-futures,Ourbit (Futures)
 extended,Extended
 bitrue_futures,Bitrue (Futures)
@@ -54,19 +54,19 @@ drift_protocol,Drift Protocol
 backpack-futures,Backpack (Futures)
 bitkan-futures,BitKan (Futures)
 paradex,Paradex
+ostium,Ostium
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
 pacifica,Pacifica
 bullish-futures,Bullish (Futures)
-globe_exchange_derivatives,Globe (Derivatives)
 bitmax_futures,AscendEX  (BitMax) (Futures)
+globe_exchange_derivatives,Globe (Derivatives)
 dydx_chain,dYdX Chain
 vest-exchange-futures,Vest Exchange
 woo_network_futures,WOO X (Futures)
 gate-perp-dex,Gate DEX
 ln-exchange-futures,LN Exchange (Futures)
-ostium,Ostium
 aqx_derivatives,Flipster
 delta_futures,Delta Exchange (Futures)
 hashkey-global-futures,HashKey Global (Futures)
@@ -83,8 +83,8 @@ injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
-flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
+flash-trade,Flash Trade
 io-trader,IO Trader
 valr-futures,VALR Futures
 kiloex-base,KiloEx (Base)
@@ -93,27 +93,13 @@ kiloex-bsc,KiloEx (BSC)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 kiloex-opbnb,KiloEx (opBnb)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-myx-bsc,MYX (BSC)
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
+myx-bsc,MYX (BSC)
 demex_derivatives,Demex (Derivatives)
 fwx-futures,FWX (Futures) (Avalanche)
 myx-linea,MYX (Linea)
 spacewhale,SpaceWhale
-bitflyer_futures,Bitflyer (Futures)
-coincall,Coincall
-coinflex_futures,CoinFLEX (Futures)
-cme_futures,CME Group
-enclave-markets,EnclaveX
-vertex-edge-sonic,Vertex Edge (Sonic)
-bitforex_futures,Bitforex (Futures)
-surf-protocol,Surf Protocol
-polynomial-trade,Polynomial Trade 
-dextoro,DexToro Pro
-levana-perps-osmosis,Levana Perps (Osmosis)
-kine-protocol-derivatives,Kine Protocol (Derivatives)
-jex_futures,Binance JEX (Futures)
-bitz_futures,BitZ (Futures)
 zkera_finance,zkEra Finance
 ktx_finance_mantle_derivatives,KTX.Finance (Mantle)
 bibox_futures,Bibox (Futures)
@@ -137,12 +123,10 @@ duedex,DueDEX
 standx,StandX
 mcdex,MCDEX (Arbitrum)
 fameex_futures,FameEX Futures
-rabbitx,RabbitX
-ebi-xyz,EBI.XYZ
+vertex-edge-mantle,Vertex Edge (Mantle)
 mycoinstory,MCS
 aax_futures,AAX Futures
 mufex,MUFEX
-derive-futures,Derive (Futures)
 acdx_futures,ACDX Futures
 stormgain_futures,Stormgain Futures
 c_trade,C-Trade
@@ -153,36 +137,38 @@ alpha_five,Alpha5
 perpetual_protocol,Perpetual Protocol
 leverj,Leverj
 bullish_futures,Bullish Futures (OLD)
-defx,Defx
 strike-finance,Strike Finance
 equos_perpetual,EQONEX (Perpetual)
 dydx_perpetual,dYdX Perpetual (Ethereum)
-vertex-edge-base,Vertex Edge (Base)
-blitz,Blitz
-aboard-exchange,Aboard Exchange
 arkham_futures,Arkham (Futures)
 mcdex_bsc,MCDEX (BSC)
 myx,MYX
 fmex,FMex
-zkera-finance-metis,zkEra Finance (Metis)
 powertrade_derivatives,Powertrade (Derivatives)
-spherex,SphereX
 btcc_futures,BTCC Futures
-kwenta_derivatives,Synthetix Exchange
-jojo-exchange-futures,JOJO Exchange
-vertex-edge-sei,Vertex Edge (Sei)
 vertex_protocol_derivatives,Vertex Edge (Arbitrum)
 opnx_derivatives,OPNX Derivatives
-fwx-futures-base,FWX (Futures) (Base)
 gmx_avalanche,GMX Derivatives (Avalanche)
 gmx_arbitrum,GMX Derivatives (Arbitrum)
 mango_markets_derivatives,Mango Markets (Derivatives)
 cointr_derivatives,CoinTR Pro (Derivatives)
-gmx-perpetuals-v2-botanix,GMX Perpetuals V2 (Botanix)
 fairdesk_derivatives,Fairdesk Derivatives
 apex_pro,ApeX Pro
 synfutures,SynFutures
-vertex-edge-mantle,Vertex Edge (Mantle)
+rabbitx,RabbitX
+gmx-perpetuals-v2-botanix,GMX Perpetuals V2 (Botanix)
+fwx-futures-base,FWX (Futures) (Base)
+vertex-edge-sei,Vertex Edge (Sei)
+jojo-exchange-futures,JOJO Exchange
+spherex,SphereX
+kwenta_derivatives,Synthetix Exchange
+zkera-finance-metis,zkEra Finance (Metis)
+aboard-exchange,Aboard Exchange
+vertex-edge-base,Vertex Edge (Base)
+defx,Defx
+derive-futures,Derive (Futures)
+blitz,Blitz
+ebi-xyz,EBI.XYZ
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 vertex-edge-abstract,Vertex Edge (Abstract)
 bluefin_futures,Bluefin (Futures)
@@ -192,3 +178,17 @@ d8x-futures,D8X (Berachain)
 ox-fun,Quanto
 ktx_finance_arbitrum_derivatives,KTX.Finance (Arbitrum)
 vertex-protocol,Vertex Protocol
+bitflyer_futures,Bitflyer (Futures)
+coincall,Coincall
+coinflex_futures,CoinFLEX (Futures)
+cme_futures,CME Group
+enclave-markets,EnclaveX
+vertex-edge-sonic,Vertex Edge (Sonic)
+bitforex_futures,Bitforex (Futures)
+surf-protocol,Surf Protocol
+polynomial-trade,Polynomial Trade 
+dextoro,DexToro Pro
+levana-perps-osmosis,Levana Perps (Osmosis)
+kine-protocol-derivatives,Kine Protocol (Derivatives)
+jex_futures,Binance JEX (Futures)
+bitz_futures,BitZ (Futures)
