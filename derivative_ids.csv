@@ -1,15 +1,15 @@
 id,name
 binance_futures,Binance (Futures)
 bitmart_futures,Bitmart Futures
-ftx,FTX (Derivatives)
 bybit,Bybit (Futures)
+ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
 mxc_futures,MEXC (Futures)
 bydfi-futures,BYDFi (Futures)
-weex-futures,WEEX (Futures)
 hyperliquid,Hyperliquid (Futures)
+weex-futures,WEEX (Futures)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
@@ -18,9 +18,9 @@ bitunix_futures,Bitunix Futures
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
 orangex_futures,OrangeX Futures
-bingx_futures,BingX (Futures)
-toobit_derivatives,Toobit Futures
 whitebit_futures,WhiteBIT Futures
+toobit_derivatives,Toobit Futures
+bingx_futures,BingX (Futures)
 phemex_futures,Phemex (Futures)
 deribit,Deribit
 aster,Aster (Futures)
@@ -38,13 +38,13 @@ variational-omni,Variational Omni
 btse_futures,BTSE (Futures)
 lighter,Lighter
 aivora-exchange-futures,Aivora Exchange (Futures)
-hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
+hotcoin-futures,Hotcoin (Futures)
 ourbit-futures,Ourbit (Futures)
 extended,Extended
-bitrue_futures,Bitrue (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
+bitrue_futures,Bitrue (Futures)
 kraken_futures,Kraken (Futures)
 biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
@@ -55,13 +55,13 @@ ostium,Ostium
 apex-omni,ApeX Omni
 backpack-futures,Backpack (Futures)
 levex-futures,LeveX (Futures)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 pacifica,Pacifica
 paradex,Paradex
 bullish-futures,Bullish (Futures)
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
 globe_exchange_derivatives,Globe (Derivatives)
 dydx_chain,dYdX Chain
+bitmax_futures,AscendEX  (BitMax) (Futures)
 vest-exchange-futures,Vest Exchange
 woo_network_futures,WOO X (Futures)
 gate-perp-dex,Gate DEX
@@ -93,9 +93,9 @@ deriw,DeriW
 gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
-kiloex-manta-pacific,KiloEx (Manta Pacific)
-gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
+gtrade-polygon,gTrade (Polygon)
+kiloex-manta-pacific,KiloEx (Manta Pacific)
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 mufex,MUFEX
