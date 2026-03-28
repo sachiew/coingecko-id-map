@@ -7,8 +7,8 @@ gate_futures,Gate (Futures)
 mxc_futures,MEXC (Futures)
 bydfi-futures,BYDFi (Futures)
 lbank-futures,LBank (Futures)
-hyperliquid,Hyperliquid (Futures)
 weex-futures,WEEX (Futures)
+hyperliquid,Hyperliquid (Futures)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
 kumex,KuCoin Futures
@@ -40,10 +40,10 @@ hotcoin-futures,Hotcoin (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
-bitrue_futures,Bitrue (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
-extended,Extended
+bitrue_futures,Bitrue (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
+extended,Extended
 ourbit-futures,Ourbit (Futures)
 kraken_futures,Kraken (Futures)
 antarctic,Antarctic 
@@ -90,9 +90,9 @@ myx-bsc,MYX (BSC)
 kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
 kiloex-bsc,KiloEx (BSC)
+gtrade-base,gTrade (Base)
 myx-linea,MYX (Linea)
 deriw,DeriW
-gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 navigator,Navigator
