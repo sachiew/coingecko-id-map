@@ -11,9 +11,9 @@ bydfi-futures,BYDFi (Futures)
 weex-futures,WEEX (Futures)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
-bitmart_futures,Bitmart Futures
-kumex,KuCoin Futures
 xt_derivatives,XT.COM (Derivatives)
+kumex,KuCoin Futures
+bitmart_futures,Bitmart Futures
 toobit_derivatives,Toobit Futures
 bingx_futures,BingX (Futures)
 coinup-futures,CoinUp.io (Futures)
@@ -28,9 +28,9 @@ crypto_com_futures,Crypto.com Exchange (Futures)
 prime_xbt,PrimeXBT
 bitfinex_futures,Bitfinex (Futures)
 bitvenus,BVOX (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 edgex,edgeX
 zoomex-futures,Zoomex (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 btcex_futures,BTCEX (Futures)
 blofin,BloFin (Futures)
 btse_futures,BTSE (Futures)
@@ -39,11 +39,11 @@ variational-omni,Variational Omni
 lighter,Lighter
 hotcoin-futures,Hotcoin (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
-kcex-futures,KCEX (Futures)
-grvt_futures,GRVT
-ourbit-futures,Ourbit (Futures)
-bitrue_futures,Bitrue (Futures)
 ln-exchange-futures,LN Exchange (Futures)
+kcex-futures,KCEX (Futures)
+ourbit-futures,Ourbit (Futures)
+grvt_futures,GRVT
+bitrue_futures,Bitrue (Futures)
 extended,Extended
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 kraken_futures,Kraken (Futures)
@@ -69,9 +69,9 @@ woo_network_futures,WOO X (Futures)
 io-trader,IO Trader
 gate-perp-dex,Gate DEX
 delta_futures,Delta Exchange (Futures)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 aqx_derivatives,Flipster
 orderly_network_derivatives_evm,Orderly (Derivatives)
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 sodex-futures,SoDEX (Futures)
 hashkey-global-futures,HashKey Global (Futures)
 poloniex_futures,Poloniex Futures
@@ -87,11 +87,11 @@ gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 evedex,EVEDEX
 flash-trade,Flash Trade
 myx-bsc,MYX (BSC)
-kiloex-base,KiloEx (Base)
 valr-futures,VALR Futures
+kiloex-base,KiloEx (Base)
+gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
 myx-linea,MYX (Linea)
-gtrade-base,gTrade (Base)
 deriw,DeriW
 kiloex-opbnb,KiloEx (opBnb)
 navigator,Navigator
