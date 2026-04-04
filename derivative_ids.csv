@@ -33,25 +33,25 @@ blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 btse_futures,BTSE (Futures)
 variational-omni,Variational Omni
-lighter,Lighter
 bitmex,BitMEX (Derivative)
+lighter,Lighter
 aivora-exchange-futures,Aivora Exchange (Futures)
+hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
 bitvenus,BVOX (Futures)
 grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
-extended,Extended
 ourbit-futures,Ourbit (Futures)
+extended,Extended
+deepcoin_derivatives,Deepcoin (Derivatives)
 kraken_futures,Kraken (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-hotcoin-futures,Hotcoin (Futures)
 biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
 dmex,DMEX
 coinex_futures,CoinEx (Futures)
-ostium,Ostium
 bitkan-futures,BitKan (Futures)
+ostium,Ostium
 apex-omni,ApeX Omni
 backpack-futures,Backpack (Futures)
 levex-futures,LeveX (Futures)
@@ -70,19 +70,19 @@ aqx_derivatives,Flipster
 sodex-futures,SoDEX (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 poloniex_futures,Poloniex Futures
-gtrade-arbitrum,gTrade (Arbitrum)
+ln-exchange-futures,LN Exchange (Futures)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 hashkey-global-futures,HashKey Global (Futures)
 aevo,Aevo
-ln-exchange-futures,LN Exchange (Futures)
+gtrade-arbitrum,gTrade (Arbitrum)
 zb_derivatives,ZB (Derivatives)
-sunperp,Sunperp
 io-trader,IO Trader
+sunperp,Sunperp
 gemini_derivatives,Gemini Derivatives
 injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
-bigone_futures,BigONE Futures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
+bigone_futures,BigONE Futures
 flash-trade,Flash Trade
 evedex,EVEDEX
 monday-trade-perp-dex,Monday Trade Perp DEX
@@ -97,8 +97,8 @@ kiloex-opbnb,KiloEx (opBnb)
 navigator,Navigator
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 sparkdex-perps,SparkDEX Perps
-gtrade-polygon,gTrade (Polygon)
 strike-finance,Strike Finance
+gtrade-polygon,gTrade (Polygon)
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 bitmake_futures,BitMake Futures
