@@ -10,10 +10,10 @@ hyperliquid,Hyperliquid (Futures)
 lbank-futures,LBank (Futures)
 bydfi-futures,BYDFi (Futures)
 weex-futures,WEEX (Futures)
-xt_derivatives,XT.COM (Derivatives)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
 kumex,KuCoin Futures
+xt_derivatives,XT.COM (Derivatives)
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
 whitebit_futures,WhiteBIT Futures
@@ -33,13 +33,13 @@ blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 btse_futures,BTSE (Futures)
 variational-omni,Variational Omni
-aivora-exchange-futures,Aivora Exchange (Futures)
 lighter,Lighter
 bitmex,BitMEX (Derivative)
+aivora-exchange-futures,Aivora Exchange (Futures)
 bitvenus,BVOX (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
-kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
+kcex-futures,KCEX (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
 ourbit-futures,Ourbit (Futures)
@@ -65,13 +65,13 @@ bitmax_futures,AscendEX  (BitMax) (Futures)
 woo_network_futures,WOO X (Futures)
 vest-exchange-futures,Vest Exchange
 gate-perp-dex,Gate DEX
-aqx_derivatives,Flipster
 delta_futures,Delta Exchange (Futures)
+aqx_derivatives,Flipster
 sodex-futures,SoDEX (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
-poloniex_futures,Poloniex Futures
 ln-exchange-futures,LN Exchange (Futures)
+poloniex_futures,Poloniex Futures
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 hashkey-global-futures,HashKey Global (Futures)
 aevo,Aevo
@@ -80,8 +80,8 @@ io-trader,IO Trader
 sunperp,Sunperp
 gemini_derivatives,Gemini Derivatives
 injective_futures,Helix (Futures)
-bigone_futures,BigONE Futures
 hitbtc_derivatives,HitBTC (Derivatives)
+bigone_futures,BigONE Futures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 flash-trade,Flash Trade
 evedex,EVEDEX
@@ -89,14 +89,14 @@ monday-trade-perp-dex,Monday Trade Perp DEX
 myx-linea,MYX (Linea)
 myx-bsc,MYX (BSC)
 valr-futures,VALR Futures
-gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
+gtrade-base,gTrade (Base)
 deriw,DeriW
 kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
-navigator,Navigator
 kiloex-manta-pacific,KiloEx (Manta Pacific)
+navigator,Navigator
 strike-finance,Strike Finance
 gtrade-polygon,gTrade (Polygon)
 demex_derivatives,Demex (Derivatives)
