@@ -40,10 +40,10 @@ aivora-exchange-futures,Aivora Exchange (Futures)
 bitvenus,BVOX (Futures)
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
-ourbit-futures,Ourbit (Futures)
 bitrue_futures,Bitrue (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 extended,Extended
+ourbit-futures,Ourbit (Futures)
 kraken_futures,Kraken (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 biconomy-futures,Biconomy (Futures)
@@ -56,12 +56,12 @@ backpack-futures,Backpack (Futures)
 levex-futures,LeveX (Futures)
 pacifica,Pacifica
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 paradex,Paradex
 globe_exchange_derivatives,Globe (Derivatives)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 bullish-futures,Bullish (Futures)
-dydx_chain,dYdX Chain
 woo_network_futures,WOO X (Futures)
+dydx_chain,dYdX Chain
 vest-exchange-futures,Vest Exchange
 delta_futures,Delta Exchange (Futures)
 gate-perp-dex,Gate DEX
@@ -72,7 +72,6 @@ poloniex_futures,Poloniex Futures
 sodex-futures,SoDEX (Futures)
 hashkey-global-futures,HashKey Global (Futures)
 aevo,Aevo
-gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 zb_derivatives,ZB (Derivatives)
 io-trader,IO Trader
 sunperp,Sunperp
@@ -90,9 +89,9 @@ myx-linea,MYX (Linea)
 valr-futures,VALR Futures
 myx-bsc,MYX (BSC)
 kiloex-base,KiloEx (Base)
+gtrade-base,gTrade (Base)
 deriw,DeriW
 kiloex-bsc,KiloEx (BSC)
-gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
 kiloex-manta-pacific,KiloEx (Manta Pacific)
@@ -101,6 +100,8 @@ navigator,Navigator
 gtrade-polygon,gTrade (Polygon)
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
+gmo_japan_futures,GMO Coin Japan (Futures)
+hbtc_futures,BHEX (Futures)
 bitmake_futures,BitMake Futures
 dydx_perpetual_l1,dYdX Perpetual (L1)
 cointiger_futures,CoinTiger (Futures)
@@ -166,6 +167,7 @@ polynomial-trade,Polynomial Trade
 vertex-edge-base,Vertex Edge (Base)
 defx,Defx
 derive-futures,Derive (Futures)
+gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 dextoro,DexToro Pro
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 vertex-edge-abstract,Vertex Edge (Abstract)
@@ -193,5 +195,3 @@ bibox_futures,Bibox (Futures)
 bakkt,Bakkt
 basefex,BaseFEX
 mufex,MUFEX
-gmo_japan_futures,GMO Coin Japan (Futures)
-hbtc_futures,BHEX (Futures)
