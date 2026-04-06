@@ -1,10 +1,10 @@
 id,name
-binance_futures,Binance (Futures)
 bitmart_futures,Bitmart Futures
+binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
-gate_futures,Gate (Futures)
 coinw_futures,CoinW (Futures)
+gate_futures,Gate (Futures)
 mxc_futures,MEXC (Futures)
 hyperliquid,Hyperliquid (Futures)
 bydfi-futures,BYDFi (Futures)
@@ -20,8 +20,8 @@ huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
 phemex_futures,Phemex (Futures)
-deribit,Deribit
 orangex_futures,OrangeX Futures
+deribit,Deribit
 bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
@@ -32,8 +32,8 @@ zoomex-futures,Zoomex (Futures)
 btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
-bitmex,BitMEX (Derivative)
 bitvenus,BVOX (Futures)
+bitmex,BitMEX (Derivative)
 lighter,Lighter
 variational-omni,Variational Omni
 aivora-exchange-futures,Aivora Exchange (Futures)
@@ -41,8 +41,8 @@ hotcoin-futures,Hotcoin (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
-ourbit-futures,Ourbit (Futures)
 bitrue_futures,Bitrue (Futures)
+ourbit-futures,Ourbit (Futures)
 extended,Extended
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 kraken_futures,Kraken (Futures)
@@ -66,8 +66,8 @@ vest-exchange-futures,Vest Exchange
 woo_network_futures,WOO X (Futures)
 gate-perp-dex,Gate DEX
 delta_futures,Delta Exchange (Futures)
-ln-exchange-futures,LN Exchange (Futures)
 aqx_derivatives,Flipster
+ln-exchange-futures,LN Exchange (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 astros,Astros
 poloniex_futures,Poloniex Futures
@@ -96,8 +96,8 @@ kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
 navigator,Navigator
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-sparkdex-perps,SparkDEX Perps
 strike-finance,Strike Finance
+sparkdex-perps,SparkDEX Perps
 gtrade-polygon,gTrade (Polygon)
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
