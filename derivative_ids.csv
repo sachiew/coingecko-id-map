@@ -1,9 +1,9 @@
 id,name
-bitmart_futures,Bitmart Futures
 binance_futures,Binance (Futures)
+bitmart_futures,Bitmart Futures
 bybit,Bybit (Futures)
-ftx,FTX (Derivatives)
 mxc_futures,MEXC (Futures)
+ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
 hyperliquid,Hyperliquid (Futures)
@@ -32,12 +32,12 @@ btse_futures,BTSE (Futures)
 edgex,edgeX
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
-bitvenus,BVOX (Futures)
 bitmex,BitMEX (Derivative)
+bitvenus,BVOX (Futures)
 lighter,Lighter
 variational-omni,Variational Omni
-ourbit-futures,Ourbit (Futures)
 hotcoin-futures,Hotcoin (Futures)
+ourbit-futures,Ourbit (Futures)
 kcex-futures,KCEX (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
@@ -69,8 +69,8 @@ delta_futures,Delta Exchange (Futures)
 aqx_derivatives,Flipster
 ln-exchange-futures,LN Exchange (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
-astros,Astros
 io-trader,IO Trader
+astros,Astros
 hashkey-global-futures,HashKey Global (Futures)
 aevo,Aevo
 sodex-futures,SoDEX (Futures)
