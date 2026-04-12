@@ -7,8 +7,8 @@ coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
 gate_futures,Gate (Futures)
 hyperliquid,Hyperliquid (Futures)
-weex-futures,WEEX (Futures)
 bydfi-futures,BYDFi (Futures)
+weex-futures,WEEX (Futures)
 lbank-futures,LBank (Futures)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
@@ -36,15 +36,15 @@ bitvenus,BVOX (Futures)
 bitmex,BitMEX (Derivative)
 lighter,Lighter
 variational-omni,Variational Omni
-aivora-exchange-futures,Aivora Exchange (Futures)
-kcex-futures,KCEX (Futures)
-ourbit-futures,Ourbit (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 hotcoin-futures,Hotcoin (Futures)
+aivora-exchange-futures,Aivora Exchange (Futures)
+ourbit-futures,Ourbit (Futures)
+kcex-futures,KCEX (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 grvt_futures,GRVT
 extended,Extended
-bitrue_futures,Bitrue (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
+bitrue_futures,Bitrue (Futures)
 kraken_futures,Kraken (Futures)
 biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
@@ -73,9 +73,9 @@ orderly_network_derivatives_evm,Orderly (Derivatives)
 io-trader,IO Trader
 astros,Astros
 hashkey-global-futures,HashKey Global (Futures)
-gtrade-arbitrum,gTrade (Arbitrum)
 aevo,Aevo
 sodex-futures,SoDEX (Futures)
+gtrade-arbitrum,gTrade (Arbitrum)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 zb_derivatives,ZB (Derivatives)
 gemini_derivatives,Gemini Derivatives
@@ -88,18 +88,18 @@ evedex,EVEDEX
 gtrade-base,gTrade (Base)
 flash-trade,Flash Trade
 monday-trade-perp-dex,Monday Trade Perp DEX
-myx-bsc,MYX (BSC)
 valr-futures,VALR Futures
 kiloex-base,KiloEx (Base)
 deriw,DeriW
 kiloex-bsc,KiloEx (BSC)
 kiloex-opbnb,KiloEx (opBnb)
-sparkdex-perps,SparkDEX Perps
 strike-finance,Strike Finance
 kiloex-manta-pacific,KiloEx (Manta Pacific)
+sparkdex-perps,SparkDEX Perps
 navigator,Navigator
-demex_derivatives,Demex (Derivatives)
+myx-bsc,MYX (BSC)
 gtrade-polygon,gTrade (Polygon)
+demex_derivatives,Demex (Derivatives)
 fwx-futures,FWX (Futures) (Avalanche)
 myx-linea,MYX (Linea)
 spacewhale,SpaceWhale
