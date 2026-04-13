@@ -1,6 +1,6 @@
 id,name
-binance_futures,Binance (Futures)
 bitmart_futures,Bitmart Futures
+binance_futures,Binance (Futures)
 coinw_futures,CoinW (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
@@ -15,8 +15,8 @@ bitget_futures,Bitget Futures
 kumex,KuCoin Futures
 xt_derivatives,XT.COM (Derivatives)
 huobi_dm,HTX Futures
-whitebit_futures,WhiteBIT Futures
 coinup-futures,CoinUp.io (Futures)
+whitebit_futures,WhiteBIT Futures
 phemex_futures,Phemex (Futures)
 toobit_derivatives,Toobit Futures
 bingx_futures,BingX (Futures)
@@ -27,19 +27,19 @@ aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
-zoomex-futures,Zoomex (Futures)
 btse_futures,BTSE (Futures)
+zoomex-futures,Zoomex (Futures)
 edgex,edgeX
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 bitmex,BitMEX (Derivative)
 lighter,Lighter
 variational-omni,Variational Omni
-hotcoin-futures,Hotcoin (Futures)
-bitvenus,BVOX (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
-ourbit-futures,Ourbit (Futures)
+bitvenus,BVOX (Futures)
+hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
+ourbit-futures,Ourbit (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 grvt_futures,GRVT
 extended,Extended
@@ -68,10 +68,10 @@ woo_network_futures,WOO X (Futures)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 gate-perp-dex,Gate DEX
 aqx_derivatives,Flipster
-orderly_network_derivatives_evm,Orderly (Derivatives)
-io-trader,IO Trader
-astros,Astros
 ln-exchange-futures,LN Exchange (Futures)
+orderly_network_derivatives_evm,Orderly (Derivatives)
+astros,Astros
+io-trader,IO Trader
 hashkey-global-futures,HashKey Global (Futures)
 aevo,Aevo
 sodex-futures,SoDEX (Futures)
@@ -83,15 +83,15 @@ injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 bigone_futures,BigONE Futures
-gtrade-base,gTrade (Base)
 flash-trade,Flash Trade
+gtrade-base,gTrade (Base)
 evedex,EVEDEX
 monday-trade-perp-dex,Monday Trade Perp DEX
 valr-futures,VALR Futures
 delta_futures,Delta Exchange (Futures)
 kiloex-base,KiloEx (Base)
-deriw,DeriW
 kiloex-bsc,KiloEx (BSC)
+deriw,DeriW
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
 strike-finance,Strike Finance
@@ -99,8 +99,8 @@ kiloex-manta-pacific,KiloEx (Manta Pacific)
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 myx-bsc,MYX (BSC)
-demex_derivatives,Demex (Derivatives)
 myx-linea,MYX (Linea)
+demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 hopex,Hopex
 biki_futures,Biki (Futures)
