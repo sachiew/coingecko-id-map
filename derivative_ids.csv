@@ -1,6 +1,6 @@
 id,name
-binance_futures,Binance (Futures)
 bitmart_futures,Bitmart Futures
+binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
 gate_futures,Gate (Futures)
 mxc_futures,MEXC (Futures)
@@ -25,8 +25,8 @@ bitunix_futures,Bitunix Futures
 deribit,Deribit
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
-prime_xbt,PrimeXBT
 bitfinex_futures,Bitfinex (Futures)
+prime_xbt,PrimeXBT
 deepcoin_derivatives,Deepcoin (Derivatives)
 bitvenus,BVOX (Futures)
 ourbit-futures,Ourbit (Futures)
@@ -35,23 +35,24 @@ btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 edgex,edgeX
 btcex_futures,BTCEX (Futures)
+bitmex,BitMEX (Derivative)
 lighter,Lighter
 variational-omni,Variational Omni
 hotcoin-futures,Hotcoin (Futures)
-bitmex,BitMEX (Derivative)
 aivora-exchange-futures,Aivora Exchange (Futures)
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
 extended,Extended
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-bitrue_futures,Bitrue (Futures)
 kraken_futures,Kraken (Futures)
+bitrue_futures,Bitrue (Futures)
 antarctic,Antarctic 
 biconomy-futures,Biconomy (Futures)
 coinex_futures,CoinEx (Futures)
 dmex,DMEX
 ostium,Ostium
 bitkan-futures,BitKan (Futures)
+standx,StandX
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 backpack-futures,Backpack (Futures)
@@ -84,8 +85,8 @@ hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 evedex,EVEDEX
-flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
+flash-trade,Flash Trade
 monday-trade-perp-dex,Monday Trade Perp DEX
 delta_futures,Delta Exchange (Futures)
 valr-futures,VALR Futures
@@ -98,17 +99,15 @@ kiloex-opbnb,KiloEx (opBnb)
 strike-finance,Strike Finance
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 navigator,Navigator
+demex_derivatives,Demex (Derivatives)
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
-demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
-biki_futures,Biki (Futures)
 zbg_futures,ZBG Futures
 btcmex,BTCMEX
 bithumb_futures,Bithumb (Futures)
 liquid_derivatives,Liquid Perpetuals
 duedex,DueDEX
-standx,StandX
 mcdex,MCDEX (Arbitrum)
 mycoinstory,MCS
 aax_futures,AAX Futures
@@ -195,3 +194,4 @@ bitmake_futures,BitMake Futures
 dydx_perpetual_l1,dYdX Perpetual (L1)
 cointiger_futures,CoinTiger (Futures)
 hopex,Hopex
+biki_futures,Biki (Futures)
