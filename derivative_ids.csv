@@ -10,17 +10,17 @@ lbank-futures,LBank (Futures)
 bydfi-futures,BYDFi (Futures)
 weex-futures,WEEX (Futures)
 hyperliquid,Hyperliquid (Futures)
+xt_derivatives,XT.COM (Derivatives)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
-xt_derivatives,XT.COM (Derivatives)
 kumex,KuCoin Futures
-coinup-futures,CoinUp.io (Futures)
 huobi_dm,HTX Futures
+coinup-futures,CoinUp.io (Futures)
 whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
 toobit_derivatives,Toobit Futures
-orangex_futures,OrangeX Futures
 phemex_futures,Phemex (Futures)
+orangex_futures,OrangeX Futures
 bitunix_futures,Bitunix Futures
 deribit,Deribit
 aster,Aster (Futures)
@@ -38,7 +38,6 @@ aivora-exchange-futures,Aivora Exchange (Futures)
 ourbit-futures,Ourbit (Futures)
 bitmex,BitMEX (Derivative)
 lighter,Lighter
-hotcoin-futures,Hotcoin (Futures)
 variational-omni,Variational Omni
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
@@ -46,6 +45,7 @@ extended,Extended
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
+hotcoin-futures,Hotcoin (Futures)
 antarctic,Antarctic 
 biconomy-futures,Biconomy (Futures)
 coinex_futures,CoinEx (Futures)
@@ -71,8 +71,8 @@ gate-perp-dex,Gate DEX
 aqx_derivatives,Flipster
 io-trader,IO Trader
 orderly_network_derivatives_evm,Orderly (Derivatives)
-astros,Astros
 ln-exchange-futures,LN Exchange (Futures)
+astros,Astros
 gtrade-arbitrum,gTrade (Arbitrum)
 hashkey-global-futures,HashKey Global (Futures)
 aevo,Aevo
@@ -83,8 +83,8 @@ sunperp,Sunperp
 injective_futures,Helix (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
-evedex,EVEDEX
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
+evedex,EVEDEX
 flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
 delta_futures,Delta Exchange (Futures)
@@ -99,9 +99,9 @@ gtrade-polygon,gTrade (Polygon)
 strike-finance,Strike Finance
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 navigator,Navigator
-demex_derivatives,Demex (Derivatives)
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
+demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 zbg_futures,ZBG Futures
 btcmex,BTCMEX
