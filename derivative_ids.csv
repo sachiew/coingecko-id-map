@@ -2,8 +2,8 @@ id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
-coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
+coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
 bitmart_futures,Bitmart Futures
 lbank-futures,LBank (Futures)
@@ -12,34 +12,34 @@ weex-futures,WEEX (Futures)
 hyperliquid,Hyperliquid (Futures)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
-kumex,KuCoin Futures
 xt_derivatives,XT.COM (Derivatives)
+kumex,KuCoin Futures
 toobit_derivatives,Toobit Futures
+orangex_futures,OrangeX Futures
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
-orangex_futures,OrangeX Futures
-whitebit_futures,WhiteBIT Futures
 bingx_futures,BingX (Futures)
+whitebit_futures,WhiteBIT Futures
 phemex_futures,Phemex (Futures)
 bitunix_futures,Bitunix Futures
 deribit,Deribit
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
-bitfinex_futures,Bitfinex (Futures)
 bitvenus,BVOX (Futures)
+bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
+deepcoin_derivatives,Deepcoin (Derivatives)
 zoomex-futures,Zoomex (Futures)
 btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 btcex_futures,BTCEX (Futures)
 edgex,edgeX
 ourbit-futures,Ourbit (Futures)
 bitmex,BitMEX (Derivative)
 lighter,Lighter
 hotcoin-futures,Hotcoin (Futures)
-variational-omni,Variational Omni
 aivora-exchange-futures,Aivora Exchange (Futures)
+variational-omni,Variational Omni
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
 extended,Extended
@@ -92,12 +92,12 @@ delta_futures,Delta Exchange (Futures)
 valr-futures,VALR Futures
 kiloex-base,KiloEx (Base)
 kiloex-bsc,KiloEx (BSC)
-deriw,DeriW
-kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
+kiloex-opbnb,KiloEx (opBnb)
+deriw,DeriW
 strike-finance,Strike Finance
-kiloex-manta-pacific,KiloEx (Manta Pacific)
 navigator,Navigator
+kiloex-manta-pacific,KiloEx (Manta Pacific)
 demex_derivatives,Demex (Derivatives)
 gtrade-polygon,gTrade (Polygon)
 myx-bsc,MYX (BSC)
