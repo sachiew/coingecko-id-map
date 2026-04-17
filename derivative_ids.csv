@@ -10,8 +10,8 @@ lbank-futures,LBank (Futures)
 bydfi-futures,BYDFi (Futures)
 weex-futures,WEEX (Futures)
 hyperliquid,Hyperliquid (Futures)
-bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
+bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
 kumex,KuCoin Futures
 bingx_futures,BingX (Futures)
@@ -26,22 +26,22 @@ bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitvenus,BVOX (Futures)
-prime_xbt,PrimeXBT
 bitfinex_futures,Bitfinex (Futures)
+prime_xbt,PrimeXBT
 zoomex-futures,Zoomex (Futures)
 btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 edgex,edgeX
-ourbit-futures,Ourbit (Futures)
 btcex_futures,BTCEX (Futures)
+ourbit-futures,Ourbit (Futures)
 bitmex,BitMEX (Derivative)
 variational-omni,Variational Omni
 lighter,Lighter
 aivora-exchange-futures,Aivora Exchange (Futures)
+hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
-hotcoin-futures,Hotcoin (Futures)
 extended,Extended
 kraken_futures,Kraken (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
@@ -80,8 +80,8 @@ sodex-futures,SoDEX (Futures)
 zb_derivatives,ZB (Derivatives)
 gemini_derivatives,Gemini Derivatives
 sunperp,Sunperp
-decibel,Decibel
 hitbtc_derivatives,HitBTC (Derivatives)
+decibel,Decibel
 injective_futures,Helix (Futures)
 evedex,EVEDEX
 bigone_futures,BigONE Futures
@@ -99,12 +99,11 @@ deriw,DeriW
 strike-finance,Strike Finance
 navigator,Navigator
 kiloex-manta-pacific,KiloEx (Manta Pacific)
-gtrade-polygon,gTrade (Polygon)
 demex_derivatives,Demex (Derivatives)
 myx-bsc,MYX (BSC)
+gtrade-polygon,gTrade (Polygon)
 myx-linea,MYX (Linea)
-blitz,Blitz
-vertex-edge-sonic,Vertex Edge (Sonic)
+fwx-futures,FWX (Futures) (Avalanche)
 bitforex_futures,Bitforex (Futures)
 ebi-xyz,EBI.XYZ
 merkle_trade,Merkle Trade
@@ -178,7 +177,6 @@ apex_pro,ApeX Pro
 defx,Defx
 synfutures,SynFutures
 vertex-edge-base,Vertex Edge (Base)
-fwx-futures,FWX (Futures) (Avalanche)
 spherex,SphereX
 jojo-exchange-futures,JOJO Exchange
 orderly_network_derivatives,Orderly (Derivatives) (Near)
@@ -196,3 +194,5 @@ bitflyer_futures,Bitflyer (Futures)
 aboard-exchange,Aboard Exchange
 coinflex_futures,CoinFLEX (Futures)
 cme_futures,CME Group
+blitz,Blitz
+vertex-edge-sonic,Vertex Edge (Sonic)
