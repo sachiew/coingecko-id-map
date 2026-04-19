@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 coinw_futures,CoinW (Futures)
-ftx,FTX (Derivatives)
 bybit,Bybit (Futures)
+ftx,FTX (Derivatives)
 mxc_futures,MEXC (Futures)
 gate_futures,Gate (Futures)
 lbank-futures,LBank (Futures)
@@ -20,26 +20,26 @@ whitebit_futures,WhiteBIT Futures
 toobit_derivatives,Toobit Futures
 bingx_futures,BingX (Futures)
 phemex_futures,Phemex (Futures)
-aivora-exchange-futures,Aivora Exchange (Futures)
 orangex_futures,OrangeX Futures
 deribit,Deribit
+aivora-exchange-futures,Aivora Exchange (Futures)
 bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
+prime_xbt,PrimeXBT
 bitfinex_futures,Bitfinex (Futures)
 zoomex-futures,Zoomex (Futures)
-prime_xbt,PrimeXBT
 btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
-bitmex,BitMEX (Derivative)
 edgex,edgeX
 btcex_futures,BTCEX (Futures)
 bitvenus,BVOX (Futures)
 lighter,Lighter
-variational-omni,Variational Omni
-kcex-futures,KCEX (Futures)
+bitmex,BitMEX (Derivative)
 hotcoin-futures,Hotcoin (Futures)
+variational-omni,Variational Omni
 deepcoin_derivatives,Deepcoin (Derivatives)
+kcex-futures,KCEX (Futures)
 ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
@@ -49,18 +49,18 @@ bitrue_futures,Bitrue (Futures)
 biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
 dmex,DMEX
-bitkan-futures,BitKan (Futures)
 coinex_futures,CoinEx (Futures)
+bitkan-futures,BitKan (Futures)
 standx,StandX
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 backpack-futures,Backpack (Futures)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 pacifica,Pacifica
 derive-futures,Derive (Futures)
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-bitmax_futures,AscendEX  (BitMax) (Futures)
 dydx_chain,dYdX Chain
 vest-exchange-futures,Vest Exchange
 paradex,Paradex
@@ -101,8 +101,8 @@ kiloex-manta-pacific,KiloEx (Manta Pacific)
 navigator,Navigator
 myx-bsc,MYX (BSC)
 gtrade-polygon,gTrade (Polygon)
-myx-linea,MYX (Linea)
 demex_derivatives,Demex (Derivatives)
+myx-linea,MYX (Linea)
 vertex-edge-sonic,Vertex Edge (Sonic)
 bitforex_futures,Bitforex (Futures)
 merkle_trade,Merkle Trade
