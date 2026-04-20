@@ -2,8 +2,8 @@ id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
-mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
+mxc_futures,MEXC (Futures)
 lbank-futures,LBank (Futures)
 gate_futures,Gate (Futures)
 bitmart_futures,Bitmart Futures
@@ -29,15 +29,15 @@ prime_xbt,PrimeXBT
 bitfinex_futures,Bitfinex (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
 zoomex-futures,Zoomex (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 btse_futures,BTSE (Futures)
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 edgex,edgeX
 bitvenus,BVOX (Futures)
-ourbit-futures,Ourbit (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 bitmex,BitMEX (Derivative)
 lighter,Lighter
+ourbit-futures,Ourbit (Futures)
 hotcoin-futures,Hotcoin (Futures)
 variational-omni,Variational Omni
 kcex-futures,KCEX (Futures)
@@ -56,12 +56,12 @@ standx,StandX
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 backpack-futures,Backpack (Futures)
-pacifica,Pacifica
-derive-futures,Derive (Futures)
 dydx_chain,dYdX Chain
-bitmax_futures,AscendEX  (BitMax) (Futures)
-bullish-futures,Bullish (Futures)
+derive-futures,Derive (Futures)
+pacifica,Pacifica
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
+bullish-futures,Bullish (Futures)
+bitmax_futures,AscendEX  (BitMax) (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 aqx_derivatives,Flipster
 vest-exchange-futures,Vest Exchange
