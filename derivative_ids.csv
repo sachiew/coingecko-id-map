@@ -18,15 +18,15 @@ huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
 whitebit_futures,WhiteBIT Futures
 phemex_futures,Phemex (Futures)
-bingx_futures,BingX (Futures)
 deribit,Deribit
+bingx_futures,BingX (Futures)
 toobit_derivatives,Toobit Futures
 bitunix_futures,Bitunix Futures
 orangex_futures,OrangeX Futures
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
-bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
+bitfinex_futures,Bitfinex (Futures)
 zoomex-futures,Zoomex (Futures)
 btse_futures,BTSE (Futures)
 btcex_futures,BTCEX (Futures)
@@ -34,10 +34,10 @@ blofin,BloFin (Futures)
 edgex,edgeX
 bitmex,BitMEX (Derivative)
 lighter,Lighter
+hotcoin-futures,Hotcoin (Futures)
 variational-omni,Variational Omni
 kcex-futures,KCEX (Futures)
 bitvenus,BVOX (Futures)
-hotcoin-futures,Hotcoin (Futures)
 ourbit-futures,Ourbit (Futures)
 grvt_futures,GRVT
 aivora-exchange-futures,Aivora Exchange (Futures)
@@ -72,11 +72,11 @@ woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
 astros,Astros
 aevo,Aevo
+ln-exchange-futures,LN Exchange (Futures)
 hashkey-global-futures,HashKey Global (Futures)
 zb_derivatives,ZB (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
 sodex-futures,SoDEX (Futures)
-ln-exchange-futures,LN Exchange (Futures)
 gmx-perpetuals-v2-solana,GMTrade (formerly GMX-Solana)
 gemini_derivatives,Gemini Derivatives
 sunperp,Sunperp
@@ -84,8 +84,8 @@ evedex,EVEDEX
 decibel,Decibel
 hitbtc_derivatives,HitBTC (Derivatives)
 injective_futures,Helix (Futures)
-bigone_futures,BigONE Futures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
+bigone_futures,BigONE Futures
 valr-futures,VALR Futures
 flash-trade,Flash Trade
 monday-trade-perp-dex,Monday Trade Perp DEX
@@ -94,9 +94,9 @@ kiloex-base,KiloEx (Base)
 delta_futures,Delta Exchange (Futures)
 kiloex-bsc,KiloEx (BSC)
 gtrade-base,gTrade (Base)
-deriw,DeriW
 sparkdex-perps,SparkDEX Perps
 kiloex-opbnb,KiloEx (opBnb)
+deriw,DeriW
 dipcoin-futures,Dipcoin (Futures)
 strike-finance,Strike Finance
 navigator,Navigator
