@@ -9,8 +9,8 @@ hyperliquid,Hyperliquid (Futures)
 weex-futures,WEEX (Futures)
 lbank-futures,LBank (Futures)
 bitget_futures,Bitget Futures
-okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
+okex_swap,OKX (Futures)
 bydfi-futures,BYDFi (Futures)
 bitmart_futures,Bitmart Futures
 kumex,KuCoin Futures
@@ -30,16 +30,16 @@ prime_xbt,PrimeXBT
 zoomex-futures,Zoomex (Futures)
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
-btse_futures,BTSE (Futures)
 ourbit-futures,Ourbit (Futures)
+btse_futures,BTSE (Futures)
 edgex,edgeX
 bitmex,BitMEX (Derivative)
 hotcoin-futures,Hotcoin (Futures)
-bitvenus,BVOX (Futures)
 lighter,Lighter
-deepcoin_derivatives,Deepcoin (Derivatives)
-variational-omni,Variational Omni
+bitvenus,BVOX (Futures)
 kcex-futures,KCEX (Futures)
+variational-omni,Variational Omni
+deepcoin_derivatives,Deepcoin (Derivatives)
 grvt_futures,GRVT
 aivora-exchange-futures,Aivora Exchange (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
@@ -66,7 +66,6 @@ dydx_chain,dYdX Chain
 io-trader,IO Trader
 paradex,Paradex
 orderly_network_derivatives_evm,Orderly (Derivatives)
-gmx-perpetuals-v2-solana,GMTrade
 aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 gate-perp-dex,Gate DEX
@@ -80,25 +79,26 @@ zb_derivatives,ZB (Derivatives)
 gemini_derivatives,Gemini Derivatives
 sunperp,Sunperp
 evedex,EVEDEX
+gmx-perpetuals-v2-solana,GMTrade
 hitbtc_derivatives,HitBTC (Derivatives)
 decibel,Decibel
 bigone_futures,BigONE Futures
 injective_futures,Helix (Futures)
 valr-futures,VALR Futures
 ondo-perps,Ondo Perps
-synfutures,SynFutures
 delta_futures,Delta Exchange (Futures)
+synfutures,SynFutures
 monday-trade-perp-dex,Monday Trade Perp DEX
-gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
-flash-trade,Flash Trade
+gtrade-base,gTrade (Base)
 dipcoin-futures,Dipcoin (Futures)
 deriw,DeriW
 kiloex-opbnb,KiloEx (opBnb)
 strike-finance,Strike Finance
-sparkdex-perps,SparkDEX Perps
+flash-trade,Flash Trade
 navigator,Navigator
+sparkdex-perps,SparkDEX Perps
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 gtrade-polygon,gTrade (Polygon)
 myx-bsc,MYX (BSC)
