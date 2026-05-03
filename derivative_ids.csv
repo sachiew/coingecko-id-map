@@ -28,24 +28,24 @@ crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
 zoomex-futures,Zoomex (Futures)
-blofin,BloFin (Futures)
 bitmex,BitMEX (Derivative)
+blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 btse_futures,BTSE (Futures)
 edgex,edgeX
-hotcoin-futures,Hotcoin (Futures)
-kcex-futures,KCEX (Futures)
 lighter,Lighter
 variational-omni,Variational Omni
-grvt_futures,GRVT
-aivora-exchange-futures,Aivora Exchange (Futures)
+kcex-futures,KCEX (Futures)
 ourbit-futures,Ourbit (Futures)
 bitvenus,BVOX (Futures)
+grvt_futures,GRVT
+aivora-exchange-futures,Aivora Exchange (Futures)
+hotcoin-futures,Hotcoin (Futures)
 extended,Extended
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
+deepcoin_derivatives,Deepcoin (Derivatives)
 kraken_futures,Kraken (Futures)
 bitkan-futures,BitKan (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 bitrue_futures,Bitrue (Futures)
 antarctic,Antarctic 
 biconomy-futures,Biconomy (Futures)
@@ -73,22 +73,23 @@ astros,Astros
 ln-exchange-futures,LN Exchange (Futures)
 aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
-sodex-futures,SoDEX (Futures)
 zb_derivatives,ZB (Derivatives)
-gtrade-arbitrum,gTrade (Arbitrum)
+sodex-futures,SoDEX (Futures)
 gemini_derivatives,Gemini Derivatives
-sunperp,Sunperp
 gmx-perpetuals-v2-solana,GMTrade
+sunperp,Sunperp
 decibel,Decibel
 hitbtc_derivatives,HitBTC (Derivatives)
 evedex,EVEDEX
-injective_futures,Helix (Futures)
+gtrade-arbitrum,gTrade (Arbitrum)
 bigone_futures,BigONE Futures
+injective_futures,Helix (Futures)
 valr-futures,VALR Futures
 ondo-perps,Ondo Perps
 delta_futures,Delta Exchange (Futures)
-flash-trade,Flash Trade
+myx-bsc,MYX (BSC)
 monday-trade-perp-dex,Monday Trade Perp DEX
+flash-trade,Flash Trade
 synfutures,SynFutures
 kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
@@ -98,10 +99,9 @@ kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
 sparkdex-perps,SparkDEX Perps
 strike-finance,Strike Finance
-navigator,Navigator
 kiloex-manta-pacific,KiloEx (Manta Pacific)
+navigator,Navigator
 gtrade-polygon,gTrade (Polygon)
-myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
 myx,MYX
 demex_derivatives,Demex (Derivatives)
