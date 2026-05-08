@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
-ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
+ftx,FTX (Derivatives)
 mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
 lbank-futures,LBank (Futures)
@@ -21,14 +21,14 @@ coinup-futures,CoinUp.io (Futures)
 bingx_futures,BingX (Futures)
 orangex_futures,OrangeX Futures
 phemex_futures,Phemex (Futures)
-deribit,Deribit
 deepcoin_derivatives,Deepcoin (Derivatives)
+deribit,Deribit
 bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
-prime_xbt,PrimeXBT
 ourbit-futures,Ourbit (Futures)
 bitfinex_futures,Bitfinex (Futures)
+prime_xbt,PrimeXBT
 zoomex-futures,Zoomex (Futures)
 blofin,BloFin (Futures)
 bitvenus,BVOX (Futures)
@@ -44,9 +44,9 @@ grvt_futures,GRVT
 aivora-exchange-futures,Aivora Exchange (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 bitrue_futures,Bitrue (Futures)
-bitkan-futures,BitKan (Futures)
 kraken_futures,Kraken (Futures)
 extended,Extended
+bitkan-futures,BitKan (Futures)
 antarctic,Antarctic 
 biconomy-futures,Biconomy (Futures)
 coinex_futures,CoinEx (Futures)
@@ -55,12 +55,12 @@ ostium,Ostium
 apex-omni,ApeX Omni
 standx,StandX
 levex-futures,LeveX (Futures)
-backpack-futures,Backpack (Futures)
 pacifica,Pacifica
+backpack-futures,Backpack (Futures)
 gmx-perpetuals-v2-solana,GMTrade
 derive-futures,Derive (Futures)
-bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
+bullish-futures,Bullish (Futures)
 dydx_chain,dYdX Chain
 bitmax_futures,AscendEX  (BitMax) (Futures)
 vest-exchange-futures,Vest Exchange
@@ -69,6 +69,7 @@ orderly_network_derivatives_evm,Orderly (Derivatives)
 paradex,Paradex
 woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
+gate-perp-dex,Gate DEX
 astros,Astros
 ln-exchange-futures,LN Exchange (Futures)
 gtrade-arbitrum,gTrade (Arbitrum)
@@ -77,7 +78,6 @@ sodex-futures,SoDEX (Futures)
 hashkey-global-futures,HashKey Global (Futures)
 zb_derivatives,ZB (Derivatives)
 gemini_derivatives,Gemini Derivatives
-gate-perp-dex,Gate DEX
 decibel,Decibel
 sunperp,Sunperp
 evedex,EVEDEX
