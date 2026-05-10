@@ -17,8 +17,8 @@ bitmart_futures,Bitmart Futures
 huobi_dm,HTX Futures
 whitebit_futures,WhiteBIT Futures
 coinup-futures,CoinUp.io (Futures)
-phemex_futures,Phemex (Futures)
 toobit_derivatives,Toobit Futures
+phemex_futures,Phemex (Futures)
 bingx_futures,BingX (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
 deribit,Deribit
@@ -28,10 +28,10 @@ aster,Aster (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 bitfinex_futures,Bitfinex (Futures)
-btse_futures,BTSE (Futures)
 prime_xbt,PrimeXBT
-blofin,BloFin (Futures)
+btse_futures,BTSE (Futures)
 zoomex-futures,Zoomex (Futures)
+blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 edgex,edgeX
 variational-omni,Variational Omni
@@ -56,11 +56,11 @@ standx,StandX
 levex-futures,LeveX (Futures)
 pacifica,Pacifica
 backpack-futures,Backpack (Futures)
-dydx_chain,dYdX Chain
+evedex,EVEDEX
 derive-futures,Derive (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 bullish-futures,Bullish (Futures)
-evedex,EVEDEX
+dydx_chain,dYdX Chain
 bitmax_futures,AscendEX  (BitMax) (Futures)
 io-trader,IO Trader
 vest-exchange-futures,Vest Exchange
@@ -68,6 +68,7 @@ orderly_network_derivatives_evm,Orderly (Derivatives)
 paradex,Paradex
 aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
+gate-perp-dex,Gate DEX
 astros,Astros
 sodex-futures,SoDEX (Futures)
 aevo,Aevo
@@ -75,7 +76,6 @@ hashkey-global-futures,HashKey Global (Futures)
 ln-exchange-futures,LN Exchange (Futures)
 zb_derivatives,ZB (Derivatives)
 gemini_derivatives,Gemini Derivatives
-gate-perp-dex,Gate DEX
 sunperp,Sunperp
 decibel,Decibel
 ostium,Ostium
@@ -84,17 +84,17 @@ injective_futures,Helix (Futures)
 gtrade-arbitrum,gTrade (Arbitrum)
 valr-futures,VALR Futures
 bigone_futures,BigONE Futures
-flash-trade,Flash Trade
 ondo-perps,Ondo Perps
+flash-trade,Flash Trade
 dipcoin-futures,Dipcoin (Futures)
-delta_futures,Delta Exchange (Futures)
 synfutures,SynFutures
+delta_futures,Delta Exchange (Futures)
 kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
 gtrade-base,gTrade (Base)
 sparkdex-perps,SparkDEX Perps
-kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
+kiloex-opbnb,KiloEx (opBnb)
 strike-finance,Strike Finance
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
