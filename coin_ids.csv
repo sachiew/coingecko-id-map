@@ -859,6 +859,7 @@ anchat,AnChat,anchat
 anchored-coins-chf,Anchored Coins ACHF,achf
 anchored-coins-eur,Anchored Coins AEUR,aeur
 ancient8,Ancient8,a8
+andes-virus,Andes Virus,andv
 andrea-von-speed,Andrea Von Speed,vonspeed
 andrea-von-speed-2,Andrea Von Speed,andrea
 andreywtr,AndreyWTR,wtr
@@ -1369,7 +1370,6 @@ avici,Avici,avici
 avinoc,AVINOC,avinoc
 avive,Avive,avive
 avo,Avo,avo
-avocado-bg,AVOCADO BG,avo
 avocadocoin,AvocadoCoin,avdo
 avoid-ai-writing,Avoid AI Writing,avoid
 awakeborn-token,Awakeborn Token,awk
@@ -1400,6 +1400,7 @@ axol,AXOL,axol
 axondao-governance-token,AxonDAO Governance Token [OLD],axgt
 axondao-governance-token-2,AxonDAO Governance Token,axgt
 axycoin,AxyCoin,axyc
+ayni-gold,Ayni Gold,ayni
 ayy-lmao,Ayy LMAO,ayylmao
 ayy-lmao-2,Ayy Lmao,ayylien
 azadi-coin,Azadi Coin,ac
@@ -2100,7 +2101,6 @@ bitcoin-avalanche-bridged-btc-b,Lombard BTC,btc.b
 bitcoinbam,BitcoinBam,btcbam
 bitcoin-base,Bitcoin Base,btc
 bitcoin-bob,Bitcoin Bob,bob
-bitcoin-bob-2,Bitcoin Bob,₿o₿
 bitcoin-breaking-100-in-2013,Bitcoin breaking $100 in 2013,isaac
 bitcoin-bridged-zed20,Bitcoin Bridged ZED20,btc.z
 bitcoin-bull-2,Bitcoin Bull,btcbull
@@ -3552,7 +3552,6 @@ coded,Coded,coded
 coded-for-millions,Coded for millions,coded
 codeputerbot,CodeputerBot,codeputer
 coder,Coder,cdr
-coder-gf,Coder GF,codergf
 code-sprout,Code Sprout,sprout
 code-token,Code Token,code
 coding-dino,Coding Dino,dino
@@ -4368,7 +4367,6 @@ degen-social-media,Degen Social Media,degen
 degen-spartan-ai,Degen Spartan AI,degenai
 degenstogether,DegensTogether,degen
 degens-with-attitude,Degens With Attitude,dwa
-degen-the-otter,degen the otter,degen
 degen-the-otter-3,Degen the Otter,degen
 degen-the-otter-4,Degen the Otter,degen
 degen-usdc,Degen USDC,degenusdc
@@ -4944,7 +4942,6 @@ dream-machine-token,Dream Machine Token,dmt
 dreams-quest,Dreams Quest,dreams
 dreamsync,Dreamsync,dream
 dream-token,Dream,dream
-dredit,Dredit,dredit
 dregen,Dregen,dregen
 dr-emma-sage,Dr Emma Sage,emma
 dressdio,DRESSdio,dress
@@ -5339,6 +5336,7 @@ estee,Estee,estee
 esui-dollar,eSui Dollar,suiusde
 etarn,Etarn,etan
 etcpow,ETCPOW,etcpow
+eteecy,eteecy,eteecy
 eternalai,EternalAI,eai
 eternals,Eternals,eter
 eternal-stake-finance,Eternal Stake Finance,esf
@@ -5420,10 +5418,13 @@ eva,EVA,eva
 eva-ai,eVa-ai,$eva
 eva-ai-companion,Eva AI Companion,eva
 evaa-protocol,EVAA Protocol,evaa
+evaeth,evaETH,evaeth
 eva-everywhere,Eva Everywhere,eva
 evai-2,Evai,ev
 evan-2,Evan,evan
 evana,EVANA,evana
+evausdc,evaUSDC,evausdc
+evausdt,evaUSDT,evausdt
 eve-2,EVE,eve
 eve-ai,Eve AI,eveai
 ever,EVRX,evrx
@@ -6026,7 +6027,6 @@ frost-2,Frost,frost
 frosty-the-polar-bear,Frosty the Polar Bear,frosty
 froth,Froth,froth
 frox,Frox,frox
-froyo-games,Froyo Games,froyo
 fruits,Fruits,frts
 fry,Fry,fry
 fsjal,fsjal,fsjal
@@ -6322,7 +6322,6 @@ ghffb47yii2rteeyy10op,ghffb47yii2rteeyy10op,ghffb47yii2rteeyy10op
 ghiblicz,GhibliCZ,ghibli
 ghiblification,Ghiblification,ghibli
 ghibli-kapibala,Ghibli Kapibala,kapibala
-ghibli-mubarak,Ghibli Mubarak,gmubarak
 ghkan,GKHAN,gkn
 gho,GHO,gho
 ghost-by-mcafee,Ghost,ghost
@@ -6348,6 +6347,7 @@ gigachad-eth,GigaChad,gigachad
 gigachadgpt,GigaChadGPT,$giga
 gigadot,GIGADOT,gdot
 gigaeth,GIGAETH,geth
+gigafly,GIGAFLY,gigafly
 gigagirl,GIGAGIRL,gigi
 gigamas,GigaMas,gigamas
 giga-potus,Giga POTUS,potus
@@ -8082,6 +8082,7 @@ kiboshib,KiboShib,kibshi
 kigu,KIGU,kigu
 kiirocoin,Kiirocoin,kiiro
 kiki-2,KIKICat,kiki
+kikis-lambo,Kikis Lambo,kiki
 kill-big-beautiful-bill,KILL BIG BEAUTIFUL BILL,kbbb
 kill-zero,Kill Zero,k0
 kiloex,KiloEx,kilo
@@ -9122,7 +9123,6 @@ maps,MAPS,maps
 map-technical-forecasting,MAP Technical Forecasting,maptf
 mara-holdings-ondo-tokenized-stock,MARA Holdings (Ondo Tokenized Stock),maraon
 mara-xstock,MARA xStock,marax
-marbitz,MARBITZ,bitz
 marbledao-artex,MarbleDAO ARTEX,artex
 marblex,MARBLEX,mbx
 marcopolo,MAP Protocol,mapo
@@ -9922,12 +9922,10 @@ moonvember-2,Moonvember,$mvb
 moonwalk-fitness,Moonwalk Fitness,mf
 moonwell,Moonwell Apollo,mfam
 moonwell-artemis,Moonwell,well
-moonwell-flagship-eth-morpho-vault,Moonwell Flagship ETH (Morpho Vault),mweth
 moonwell-flagship-eurc-morpho-vault,Moonwell Flagship EURC (Morpho Vault),mweurc
 moonwell-flagship-usdc-morpho-vault,Moonwell Flagship USDC (Morpho Vault),mwusdc
 moonwhale,MOONWHALE,moonwhale
 moonwolf-io,moonwolf.io,wolf
-moony,MOONY,moony
 moosecoin-2,Moosecoin,moose
 mop,MOP,mop
 mops,Mops,mops
@@ -10352,9 +10350,9 @@ newb-farm,NewB.Farm,newb
 new-bitshares,New BitShares,nbs
 new-born-haggis-pygmy-hippo,New Born Haggis Pygmy Hippo,haggis
 new-born-rhino,New Born Rhino,lakkhi
-newm,NEWM,newm
 newmont-ondo-tokenized,Newmont (Ondo Tokenized),nemon
 new-order,New Order,newo
+newrails-euro,Newrails Euro,eurw
 newscrypto-coin,Numerico,nwc
 newton,Newton,ntn
 newton-on-base,Newton On Base,newb
@@ -10651,7 +10649,6 @@ oasis-network,Oasis,rose
 oasis-token-2,Oasis Token,oasis
 oasys,Oasys,oas
 oasys-bridged-usdc-oasys,Celer Bridged USDC (Oasys),usdc.e
-obema,obema,obema
 obex,OBEX,obex
 obi-pnut-kenobi,Obi PNut Kenobi,opk
 obital7,Obital7,orb7
@@ -11409,6 +11406,7 @@ pfizer-xstock,Pfizer xStock,pfex
 pg-e-ondo-tokenized,PG&E (Ondo Tokenized),pcgon
 pha,PHALA,pha
 phame,PHAME,phame
+phanny,PHANNY,phanny
 phantasma,Phantasma Phoenix,soul
 phantom-of-the-kill-alternative-imitation-oshi,OSHI3,oshi
 phantom-staked-sol,Phantom Staked SOL,psol
@@ -13033,7 +13031,6 @@ seed-4,SEED,seed
 seedify-fund,Seedify.fund,sfund
 seedlaunch,SeedLaunch,slt
 seedless-wallet,Seedless Wallet,seed
-seed-usdn,seed USDN,susdn
 seedworld,Seedworld,sworld
 seeker,Seeker,skr
 seek-tiger,Seek Tiger,sti
@@ -13854,7 +13851,6 @@ spinning-cat,Spinning Cat,oiiaoiia
 spintop,Spintop,spin
 spintria,Spintria,sp
 spira,SPIRA,spira
-spiraldao-coil,SpiralDAO Coil,coil
 spirit-town,Spirit Town,spirit
 spitcoin,Spitcoin,spitcoin
 splash-ai,SPLASH AI,splash
@@ -15670,6 +15666,7 @@ usdm-2,USDM,usdm
 usd-mapped-token,USD Mapped Token,usdm
 usd-mars,USD Mars,usdm
 usdpt-western-union,USDPT | Western Union,usdpt
+usdr,USDR,usdr
 usds,USDS,usds
 usd-slash,USD Slash,usdsl
 usdsui,USDsui,usdsui
@@ -15679,7 +15676,6 @@ usdtez,USDtez,usdtz
 usdtplus,Overnight.fi USDT+,usdt+
 usdt-yvault,USDT yVault,yvusdt
 usdu,USDu,usdu
-usdv-2,USDV,usdv
 usdv-3,USDV,usdv
 usd-wink,USD WINK,usdw
 usdx,USDX,usdx
@@ -17158,6 +17154,7 @@ yuru-coin,YURU COIN,yuru
 yusd-stablecoin,YUSD Stablecoin,yusd
 yuttymizoguchi,YuttyMizoguchi,yutty
 yuuki,YUUKI,yuuki
+yuzu-prime,Yuzu Prime,yzprime
 yuzu-protection-pool,Yuzu Protection Pool,yzpp
 yuzu-usd,Yuzu USD,yzusd
 yvdai,yvDAI,yvdai
@@ -17282,6 +17279,7 @@ zeroswapnft,ZeroSwapNFT,zero
 zero-tech,MEOW,meow
 zerotrust,ZeroTrust,zerø
 zesh,Zesh AI Layer,zai
+zest-protocol,Zest Protocol,zest
 zeta,Zeta,zex
 zetachain,ZetaChain,zeta
 zetachain-bridged-bnb-bsc-zetachain,ZetaChain Bridged BNB.BSC (ZetaChain),bnb.bsc
