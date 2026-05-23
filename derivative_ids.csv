@@ -21,9 +21,9 @@ coinup-futures,CoinUp.io (Futures)
 bingx_futures,BingX (Futures)
 phemex_futures,Phemex (Futures)
 deribit,Deribit
+deepcoin_derivatives,Deepcoin (Derivatives)
 bitunix_futures,Bitunix Futures
 lbank-futures,LBank (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 aster,Aster (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
@@ -39,15 +39,15 @@ bitmex,BitMEX (Derivative)
 edgex,edgeX
 variational-omni,Variational Omni
 lighter,Lighter
-kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
+kcex-futures,KCEX (Futures)
 grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
-kraken_futures,Kraken (Futures)
 bitkan-futures,BitKan (Futures)
+kraken_futures,Kraken (Futures)
 biconomy-futures,Biconomy (Futures)
-antarctic,Antarctic 
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
+antarctic,Antarctic 
 extended,Extended
 coinex_futures,CoinEx (Futures)
 dmex,DMEX
@@ -65,12 +65,13 @@ vest-exchange-futures,Vest Exchange
 globe_exchange_derivatives,Globe (Derivatives)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 io-trader,IO Trader
-sodex-futures,SoDEX (Futures)
 gmx-perpetuals-v2-solana,GMTrade
-evedex,EVEDEX
+sodex-futures,SoDEX (Futures)
 aqx_derivatives,Flipster
+evedex,EVEDEX
 paradex,Paradex
 woo_network_futures,WOO X (Futures)
+gate-perp-dex,Gate DEX
 ln-exchange-futures,LN Exchange (Futures)
 astros,Astros
 aevo,Aevo
@@ -78,14 +79,13 @@ hashkey-global-futures,HashKey Global (Futures)
 katana-perps,Katana Perps
 zb_derivatives,ZB (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
-gate-perp-dex,Gate DEX
 gemini_derivatives,Gemini Derivatives
 sunperp,Sunperp
 decibel,Decibel
 bigone_futures,BigONE Futures
 hitbtc_derivatives,HitBTC (Derivatives)
-ondo-perps,Ondo Perps
 dipcoin-futures,Dipcoin (Futures)
+ondo-perps,Ondo Perps
 valr-futures,VALR Futures
 flash-trade,Flash Trade
 injective_futures,Helix (Futures)
@@ -98,8 +98,8 @@ strike-finance,Strike Finance
 deriw,DeriW
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
-gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
+gtrade-polygon,gTrade (Polygon)
 myx-linea,MYX (Linea)
 bibox_futures,Bibox (Futures)
 bakkt,Bakkt
