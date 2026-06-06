@@ -7,9 +7,9 @@ mxc_futures,MEXC (Futures)
 gate_futures,Gate (Futures)
 weex-futures,WEEX (Futures)
 bitmart_futures,Bitmart Futures
+coinw_futures,CoinW (Futures)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
-coinw_futures,CoinW (Futures)
 xt_derivatives,XT.COM (Derivatives)
 kumex,KuCoin Futures
 bydfi-futures,BYDFi (Futures)
@@ -20,28 +20,28 @@ deribit,Deribit
 phemex_futures,Phemex (Futures)
 coinup-futures,CoinUp.io (Futures)
 bingx_futures,BingX (Futures)
-orangex_futures,OrangeX Futures
 lbank-futures,LBank (Futures)
+orangex_futures,OrangeX Futures
 bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
-bitvenus,BVOX (Futures)
 prime_xbt,PrimeXBT
+bitvenus,BVOX (Futures)
 ourbit-futures,Ourbit (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 btse_futures,BTSE (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
-zoomex-futures,Zoomex (Futures)
 bitfinex_futures,Bitfinex (Futures)
+zoomex-futures,Zoomex (Futures)
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
 bitmex,BitMEX (Derivative)
 variational-omni,Variational Omni
 lighter,Lighter
-hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
 edgex,edgeX
 grvt_futures,GRVT
+hotcoin-futures,Hotcoin (Futures)
 bitkan-futures,BitKan (Futures)
 biconomy-futures,Biconomy (Futures)
 bitrue_futures,Bitrue (Futures)
@@ -76,7 +76,6 @@ woo_network_futures,WOO X (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 astros,Astros
 paradex,Paradex
-sunperp,Sunperp
 aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
 zb_derivatives,ZB (Derivatives)
@@ -85,11 +84,11 @@ gemini_derivatives,Gemini Derivatives
 ondo-perps,Ondo Perps
 decibel,Decibel
 bigone_futures,BigONE Futures
-delta_futures,Delta Exchange (Futures)
 katana-perps,Katana Perps
+delta_futures,Delta Exchange (Futures)
 valr-futures,VALR Futures
-dipcoin-futures,Dipcoin (Futures)
 flash-trade,Flash Trade
+dipcoin-futures,Dipcoin (Futures)
 synfutures,SynFutures
 gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
@@ -102,9 +101,10 @@ gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 spacewhale,SpaceWhale
 surf-protocol,Surf Protocol
+enclave-markets,EnclaveX
 d8x-futures,D8X (Berachain)
 ox-fun,Quanto
-enclave-markets,EnclaveX
+sunperp,Sunperp
 polynomial-trade,Polynomial Trade 
 dextoro,DexToro Pro
 bitflyer_futures,Bitflyer (Futures)
