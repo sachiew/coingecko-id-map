@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
-bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
+bybit,Bybit (Futures)
 mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
@@ -25,21 +25,21 @@ bitunix_futures,Bitunix Futures
 lbank-futures,LBank (Futures)
 aster,Aster (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
-btse_futures,BTSE (Futures)
 ourbit-futures,Ourbit (Futures)
+btse_futures,BTSE (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 bitvenus,BVOX (Futures)
 prime_xbt,PrimeXBT
 bitfinex_futures,Bitfinex (Futures)
-bitmex,BitMEX (Derivative)
 blofin,BloFin (Futures)
+bitmex,BitMEX (Derivative)
 variational-omni,Variational Omni
 btcex_futures,BTCEX (Futures)
 lighter,Lighter
 zoomex-futures,Zoomex (Futures)
-kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
+kcex-futures,KCEX (Futures)
 edgex,edgeX
 grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
@@ -47,8 +47,8 @@ bitkan-futures,BitKan (Futures)
 biconomy-futures,Biconomy (Futures)
 kraken_futures,Kraken (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-antarctic,Antarctic 
 gmx-perpetuals-v2-solana,GMTrade
+antarctic,Antarctic 
 extended,Extended
 alphax-futures,AlphaX (Futures)
 dmex,DMEX
@@ -58,8 +58,8 @@ apex-omni,ApeX Omni
 standx,StandX
 pacifica,Pacifica
 backpack-futures,Backpack (Futures)
-nado,Nado
 io-trader,IO Trader
+nado,Nado
 dydx_chain,dYdX Chain
 bitmax_futures,AscendEX  (BitMax) (Futures)
 vest-exchange-futures,Vest Exchange
@@ -83,12 +83,12 @@ zb_derivatives,ZB (Derivatives)
 gemini_derivatives,Gemini Derivatives
 gtrade-arbitrum,gTrade (Arbitrum)
 decibel,Decibel
+gate-perp-dex,Gate DEX
 bigone_futures,BigONE Futures
 katana-perps,Katana Perps
 synthetix-perps,Synthetix
 valr-futures,VALR Futures
 flash-trade,Flash Trade
-gate-perp-dex,Gate DEX
 delta_futures,Delta Exchange (Futures)
 strike-finance,Strike Finance
 dipcoin-futures,Dipcoin (Futures)
