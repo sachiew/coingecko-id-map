@@ -4,8 +4,8 @@ ftx,FTX (Derivatives)
 hyperliquid,Hyperliquid (Futures)
 bybit,Bybit (Futures)
 mxc_futures,MEXC (Futures)
-coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
+coinw_futures,CoinW (Futures)
 weex-futures,WEEX (Futures)
 okex_swap,OKX (Futures)
 bitmart_futures,Bitmart Futures
@@ -29,11 +29,11 @@ ourbit-futures,Ourbit (Futures)
 btse_futures,BTSE (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
-bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
+bitfinex_futures,Bitfinex (Futures)
 bitvenus,BVOX (Futures)
-blofin,BloFin (Futures)
 variational-omni,Variational Omni
+blofin,BloFin (Futures)
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
@@ -48,28 +48,28 @@ coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
 antarctic,Antarctic 
-gmx-perpetuals-v2-solana,GMTrade
 extended,Extended
 dmex,DMEX
 alphax-futures,AlphaX (Futures)
 ostium,Ostium
+gmx-perpetuals-v2-solana,GMTrade
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 bitmax_futures,AscendEX  (BitMax) (Futures)
 standx,StandX
-io-trader,IO Trader
 pacifica,Pacifica
+io-trader,IO Trader
 backpack-futures,Backpack (Futures)
 nado,Nado
 dydx_chain,dYdX Chain
 bullish-futures,Bullish (Futures)
 vest-exchange-futures,Vest Exchange
 globe_exchange_derivatives,Globe (Derivatives)
-evedex,EVEDEX
 sodex-futures,SoDEX (Futures)
+evedex,EVEDEX
 orderly_network_derivatives_evm,Orderly (Derivatives)
-ln-exchange-futures,LN Exchange (Futures)
 derive-futures,Derive (Futures)
+ln-exchange-futures,LN Exchange (Futures)
 aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 coinex_futures,CoinEx (Futures)
@@ -78,7 +78,6 @@ ondo-perps,Ondo Perps
 paradex,Paradex
 astros,Astros
 gtrade-arbitrum,gTrade (Arbitrum)
-gate-perp-dex,Gate DEX
 hashkey-global-futures,HashKey Global (Futures)
 aevo,Aevo
 zb_derivatives,ZB (Derivatives)
@@ -90,6 +89,7 @@ flash-trade,Flash Trade
 katana-perps,Katana Perps
 dipcoin-futures,Dipcoin (Futures)
 valr-futures,VALR Futures
+gate-perp-dex,Gate DEX
 strike-finance,Strike Finance
 delta_futures,Delta Exchange (Futures)
 synfutures,SynFutures
