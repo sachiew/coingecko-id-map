@@ -1,5 +1,4 @@
 id,name
-lbank-futures,LBank (Futures)
 binance_futures,Binance (Futures)
 bybit,Bybit (Futures)
 hyperliquid,Hyperliquid (Futures)
@@ -23,26 +22,27 @@ coinup-futures,CoinUp.io (Futures)
 orangex_futures,OrangeX Futures
 phemex_futures,Phemex (Futures)
 bitunix_futures,Bitunix Futures
+lbank-futures,LBank (Futures)
 aster,Aster (Futures)
 aivora-exchange-futures,Aivora Exchange (Futures)
 ourbit-futures,Ourbit (Futures)
 btse_futures,BTSE (Futures)
 prime_xbt,PrimeXBT
-deepcoin_derivatives,Deepcoin (Derivatives)
-bitvenus,BVOX (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
+bitvenus,BVOX (Futures)
 variational-omni,Variational Omni
 blofin,BloFin (Futures)
 bitmex,BitMEX (Derivative)
 btcex_futures,BTCEX (Futures)
 lighter,Lighter
-kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
+kcex-futures,KCEX (Futures)
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
-grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
+grvt_futures,GRVT
 bitkan-futures,BitKan (Futures)
 biconomy-futures,Biconomy (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
@@ -61,11 +61,11 @@ backpack-futures,Backpack (Futures)
 nado,Nado
 evedex,EVEDEX
 gmx-perpetuals-v2-solana,GMTrade
-vest-exchange-futures,Vest Exchange
 bullish-futures,Bullish (Futures)
+vest-exchange-futures,Vest Exchange
 bitmax_futures,AscendEX  (BitMax) (Futures)
-sodex-futures,SoDEX (Futures)
 dydx_chain,dYdX Chain
+sodex-futures,SoDEX (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 ln-exchange-futures,LN Exchange (Futures)
@@ -85,14 +85,14 @@ zb_derivatives,ZB (Derivatives)
 gemini_derivatives,Gemini Derivatives
 gate-perp-dex,Gate DEX
 synthetix-perps,Synthetix
-katana-perps,Katana Perps
 bigone_futures,BigONE Futures
+katana-perps,Katana Perps
 valr-futures,VALR Futures
 dipcoin-futures,Dipcoin (Futures)
 delta_futures,Delta Exchange (Futures)
 strike-finance,Strike Finance
-flash-trade,Flash Trade
 synfutures,SynFutures
+flash-trade,Flash Trade
 gtrade-base,gTrade (Base)
 deriw,DeriW
 kiloex-opbnb,KiloEx (opBnb)
