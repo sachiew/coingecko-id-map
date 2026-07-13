@@ -22,17 +22,17 @@ aivora-exchange-futures,Aivora Exchange (Futures)
 phemex_futures,Phemex (Futures)
 lbank-futures,LBank (Futures)
 deribit,Deribit
-bitunix_futures,Bitunix Futures
 orangex_futures,OrangeX Futures
+bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
-btse_futures,BTSE (Futures)
 ourbit-futures,Ourbit (Futures)
+btse_futures,BTSE (Futures)
 prime_xbt,PrimeXBT
 bitfinex_futures,Bitfinex (Futures)
 variational-omni,Variational Omni
 blofin,BloFin (Futures)
-lighter,Lighter
 deepcoin_derivatives,Deepcoin (Derivatives)
+lighter,Lighter
 btcex_futures,BTCEX (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 hotcoin-futures,Hotcoin (Futures)
@@ -71,18 +71,18 @@ derive-futures,Derive (Futures)
 aqx_derivatives,Flipster
 ondo-perps,Ondo Perps
 ln-exchange-futures,LN Exchange (Futures)
-gate-perp-dex,Gate DEX
 woo_network_futures,WOO X (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
+gate-perp-dex,Gate DEX
 astros,Astros
 paradex,Paradex
 hashkey-global-futures,HashKey Global (Futures)
 aevo,Aevo
 zb_derivatives,ZB (Derivatives)
 gemini_derivatives,Gemini Derivatives
-decibel,Decibel
 gtrade-arbitrum,gTrade (Arbitrum)
 bigone_futures,BigONE Futures
+decibel,Decibel
 katana-perps,Katana Perps
 synthetix-perps,Synthetix
 valr-futures,VALR Futures
@@ -98,8 +98,8 @@ kiloex-base,KiloEx (Base)
 gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
 overlay-protocol,Overlay Protocol 
+demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
-aboard-exchange,Aboard Exchange
 bitflyer_futures,Bitflyer (Futures)
 blitz,Blitz
 coinflex_futures,CoinFLEX (Futures)
@@ -175,7 +175,6 @@ bitmake_futures,BitMake Futures
 arkham_futures,Arkham (Futures)
 myx,MYX
 mango_markets_derivatives,Mango Markets (Derivatives)
-demex_derivatives,Demex (Derivatives)
 vertex_protocol_derivatives,Vertex Edge (Arbitrum)
 opnx_derivatives,OPNX Derivatives
 qfex,QFEX
@@ -207,3 +206,4 @@ d8x-futures,D8X (Berachain)
 ox-fun,Quanto
 sunperp,Sunperp
 zkera-finance-metis,zkEra Finance (Metis)
+aboard-exchange,Aboard Exchange

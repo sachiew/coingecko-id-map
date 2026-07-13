@@ -1,6 +1,5 @@
 id,name,chain_identifier
 valobit,Valobit,
-zircuit,Zircuit,48900
 factom,Factom,
 stacks,Stacks,
 dymension,Dymension,
@@ -66,7 +65,6 @@ zero-network,Zero Network,
 waves,Waves,
 bron,Bron,
 rari,Rari,1380012617
-katana,Katana,747474
 nxt,NXT,
 mdex,Mdex,
 shibarium,Shibarium,
@@ -131,11 +129,10 @@ eni,ENI,173
 meld,Meld,333000333
 wemix-network,Wemix Network,1111
 flow,Flow,
-ancient8,Ancient8,888888888
+zora-network,Zora,7777777
 map-protocol,Map Protocol,22776
 coinex-smart-chain,CoinEx Smart Chain,52
 tac,TAC,239
-zora-network,Zora,7777777
 polygon-pos,Polygon POS,137
 carnomaly,CarrChain,7667
 humanode,Humanode,5234
@@ -143,7 +140,6 @@ defichain-evm,DeFiChain EVM,1130
 orenium,Orenium,
 beamprivacy,BeamPrivacy,
 saita-chain,Saita Chain,1209
-cyber,Cyber,7560
 oasis,Oasis Emerald,42262
 harmony-shard-0,Harmony Shard 0,1666600000
 ergo,Ergo,
@@ -153,6 +149,7 @@ onchain,Onchain,27563
 juno,Juno,
 gatelayer,GateLayer,10088
 Bitcichain,Bitcichain,1907
+ancient8,Ancient8,888888888
 bitcanna,BitCanna,
 crescent,Crescent,
 movement,Movement,
@@ -182,7 +179,6 @@ monad,Monad,143
 ki-chain,Ki Chain,
 songbird,Songbird,19
 grx-chain,GRX Chain,1110
-astar-zkevm,Astar zkEVM,3776
 reactive-network,Reactive Network,1597
 fuel-ignition,Fuel Ignition,
 osmosis,Osmosis,
@@ -222,7 +218,6 @@ pulsechain,Pulsechain,369
 xt-smart-chain,XT Smart Chain,520
 endurance,Endurance,648
 bitgert,Bitgert Chain,32520
-ham,Ham,5112
 kinto,Kinto,7887
 xone,Xone,3721
 kadena,Kadena,
@@ -234,6 +229,7 @@ tdvv-sidechain,tDVV SideChain,
 octaspace,OctaSpace,800001
 radix,Radix,
 laikachain,Laika,6942
+ham,Ham,5112
 elysium,Elysium,1339
 oraichain,Oraichain,
 pundi-aifx-omnilayer,Pundi AIFX Omnilayer,
@@ -282,7 +278,6 @@ haqq-network,Haqq Network,11235
 sora,Sora,
 funki,Funki,33979
 bittensor,Bittensor,
-manta-pacific,Manta Pacific,169
 botanix,Botanix,3637
 boba,Boba Network,288
 sanko,Sanko,1996
@@ -315,7 +310,6 @@ inevm,inEVM,2525
 larissa,Larissa,9898
 combo,Combo,9980
 hela,Hela,8668
-redstone,Redstone,690
 superseed,Superseed,5330
 nibiru,Nibiru,6900
 shiden network,Shiden Network,336
@@ -325,7 +319,6 @@ hashkey-chain,HashKey Chain,177
 qubic,Qubic,
 rootstock,Rootstock RSK,30
 cronos-zkevm,Cronos zkEVM,388
-kroma,Kroma,255
 dogechain,Dogechain,2000
 chia,Chia,
 bsquared-network,BSquared Network,
@@ -333,7 +326,6 @@ polkadot,Polkadot,
 gravity-alpha,Gravity,1625
 cosmos,Cosmos,
 airdao,AirDAO,16718
-bob-network,Bob Network,
 wax,WAX,
 starknet,StarkNet,
 constellation-network,Constellation Network,
@@ -365,6 +357,7 @@ stargaze,Stargaze,
 haven1,Haven1,8811
 initia,Initia,
 coti,Coti,2632500
+katana,Katana,747474
 terra-2,Terra,
 story,Story,1514
 voi-network,Voi Network,
@@ -386,7 +379,6 @@ re-al,Re.al,111188
 bevm,BEVM,11501
 shape,Shape,360
 morph-l2,Morph L2,2818
-mint,Mint,185
 ink,Ink,57073
 edu-chain,EDU Chain,41923
 besc-hyperchain,BESC HyperChain,2372
@@ -427,7 +419,6 @@ taiko,Taiko,167000
 cronos,Cronos,25
 immutable,Immutable zkEVM,13371
 merlin-chain,Merlin Chain,4200
-scroll,Scroll,534352
 beam,Beam,4337
 fonchain,FONChain,201022
 flare-network,Flare Network,14
@@ -445,17 +436,26 @@ hedera-hashgraph,Hedera Hashgraph,295
 flow-evm,Flow EVM,747
 ordinals,Bitcoin,
 peaq,Peaq,3338
-hemi,Hemi,43111
 corn,Corn,21000000
 axiome-chain,Axiome Chain,
 tea,Tea,6122
-fluent,Fluent,25363
 cookie-chain,Cookie Chain,
 yocoin,Yocoin,
 anubis,Anubis,6714
 bot-chain,BOT Chain,677
 evrmore,EVRmore,
 dungeon-chain,Dungeon Chain,
-robinhood,Robinhood,4663
 bitkub-chain,KUB,96
+astar-zkevm,Astar zkEVM,3776
+fluent,Fluent,25363
+robinhood,Robinhood,4663
+bob-network,Bob Network,
+cyber,Cyber,7560
 doma,Doma,97477
+hemi,Hemi,43111
+kroma,Kroma,255
+manta-pacific,Manta Pacific,169
+mint,Mint,185
+redstone,Redstone,690
+scroll,Scroll,534352
+zircuit,Zircuit,48900
