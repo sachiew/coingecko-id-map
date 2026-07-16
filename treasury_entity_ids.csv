@@ -1,9 +1,29 @@
 id,name,symbol,country
 ace-digital,ACE Digital,ACED.OL,NO
 texas,Texas,,US
+cleancore-solutions,CleanCore Solutions,ZONE.US,US
+gd-culture-group,GD Culture Group,GDC.US,CN
 scrypt-strategy,Scrypt Strategy,,NO
+zooz,ZOOZ,ZOOZ.TA,IL
+cypherpunk-technologies,Cypherpunk Technologies,CYPH.US,US
+aurelion,Aurelion,AURE.US,US
+usbc,USBC,USBC.US,US
+virtu-financial,Virtu Financial,VIRT.US,US
 avax-one,AVAX One,,US
+microcloud-hologram,Microcloud Hologram,HOLO.US,KY
+treasury,Treasury,NEDSE.AS,NL
+phoenix-digital-assets,Phoenix Digital Assets,PNIX.AQ,GB
 al-abraaj-restaurants-group,Al Abraaj Restaurants Group,ABRAAJ.BH,BH
+bitcoin-standard-treasury-company,Bitcoin Standard Treasury Company,CEPO.US,US
+yuxing,YUXING,8005.HK,HK
+gstechnologies,GSTechnologies,GST.L,AU
+ddc-enterprise-limited,DDC Enterprise Limited,DDC.US,US
+gemini-space-station,Gemini Space Station,GEMI.US,US
+bit-digital,Bit Digital,BTBT.US,US
+the9-limited,The9 Limited,NCTY.US,CN
+bitcoin-depot,Bitcoin Depot,BTM.US,US
+coinbase-global,Coinbase Global,COIN.US,US
+mara-holdings,MARA Holdings,MARA.US,US
 united-states,United States,,US
 china,China,,CN
 united-kingdom,United Kingdom,,GB
@@ -11,204 +31,184 @@ north-korea,North Korea,,KP
 bhutan,Bhutan,,BT
 el-salvador,El Salvador,,SV
 venezuela,Venezuela,,VE
+strive,Strive,ASST.US,US
+bitmax-co,Bitmax Co,377030.KQ,KR
 finland,Finland,,FI
 roswell-new-mexico,"Roswell, New Mexico",,US
 germany,Germany,,DE
 bulgaria,Bulgaria,,BG
-united-arab-emirates,United Arab Emirates,,AE
-digipowerx,DigiPowerX,DGX.V,US
-xce-connecting-excellence-group,XCE Connecting Excellence Group,XCE.AQ,GB
-falconedge,Falconedge,EDGE.AQ,GB
-blue-star-capital,Blue Star Capital,BLU.L,GB
-bitcoin-treasury-capital,Bitcoin Treasury Capital,BTC-B.SE,SE
-stack-btc,Stack BTC,KASH.AQ,GB
-value-creation,Value Creation,9238.T,JP
-consensus-mining-seigniorage,Consensus Mining & Seigniorage,CMSG,US
-goobit-group,Goobit Group,BTCX.ST,SE
-fitell-corporation,GMEX Robotics (formerly Fitell Corporation),GMEX.US,AU
-coinshares-international-limited,Coinshares International Limited,CS.ST,JE
-neowiz-holdings,Neowiz holdings,042420.KQ,KR
-planet-ventures,Planet Ventures,,CA
-digital-commodities-capital,Digital Commodities Capital,,CA
-greenmerc,GreenMerc,,SE
-semler-scientific,Semler Scientific (acquired by Strive),SMLR.US,US
-bitgo-holdings,BitGo Holdings,BTGO.US,US
-green-minerals-as,Green Minerals AS,GEM.OL,NO
-moon-inc,Moon Inc,1723.HK,HK
-sos-limited,SOS Limited,SOS.US,CN
-k33-ab,K33 AB,K33.ST,NO
-aurelion,Aurelion,AURE.US,US
-aker-asa,Aker ASA,AKER.OL,NO
-metaplanet,Metaplanet,3350.T,JP
-the-smarter-web-company-plc,The Smarter Web Company PLC,SWC.L,GB
-3u-holding-ag,3U Holding AG,UUU.DE,DE
-safello-group,Safello Group,SFL.ST,SE
-the9-limited,The9 Limited,NCTY.US,CN
-winland-holdings,Winland Holdings,WELX,US
-zooz,ZOOZ,ZOOZ.TA,IL
-def-consulting,Def Consulting,4833.T,JP
-ddc-enterprise-limited,DDC Enterprise Limited,DDC.US,US
-sui-group-holdings,Sui Group Holdings,SUIG.US,US
-fragbite-group,Fragbite Group,FRAG.ST,SE
-bit-digital,Bit Digital,BTBT.US,US
-gyet-co,Gyet Co.,7603.T,JP
-hyperion-defi,Hyperion DeFi,HYPD.US,US
-terawulf,TeraWulf,WULF.US,US
-exodus-movement,Exodus Movement,EXOD.US,US
-mogo,Orion Digital Corp (formerly Mogo),ORIO.TO,CA
-evernorth-holdings,Evernorth Holdings,XRPN.US,US
-hive-digital-technologies,HIVE Digital Technologies,HIVE.US,CA
-canaan,Canaan,CAN.US,US
-phoenix-digital-assets,Phoenix Digital Assets,PNIX.AQ,GB
-bitfufu,BITFUFU,FUFU.US,SG
-galaxy-digital-holdings-ltd,Galaxy Digital Holdings Ltd,GLXY.US,US
-procap-btc,ProCap Financial (formerly ProCap BTC),BRR.US,US
-cea-industries,CEA Industries,BNC.US,US
-cleanspark,CleanSpark,CLSK.US,US
-luxxfolio-holdings,Luxxfolio Holdings,LUXX.CN,CA
-where-food-comes-from,Where Food Comes From,WFCF.US,US
-satsuma-technology,Satsuma Technology,SATS.L,GB
-hyperliquid-strategies-inc,Hyperliquid Strategies Inc.,PURR.US,US
-sharplink,SharpLink,SBET.US,US
-333d,333D,T3D.AX,AU
-fundamental-global,FG Nexus,FGNX.US,US
-riot-platforms,Riot Platforms,RIOT.US,US
-lm-funding-america,LM Funding America,LMFA.US,US
-rumble,RUM Group Inc (formerly Rumble),RUM.US,CA
-lqwd-technologies-corp,LQWD Technologies Corp.,LQWD.V,CA
-wemade,WEMADE,112040.KQ,KR
-asiastrategy,AsiaStrategy,SORA.US,HK
-figure-technology-solutions,Figure Technology Solutions,FIGR.US,US
-belgravia-hartford-capital,Belgravia Hartford Capital,BLGV.CN,CA
-hyperscale-data,Hyperscale Data,GPUS.US,US
-bitcoin-depot,Bitcoin Depot,BTM.US,US
-defi-technologies,DeFi Technologies,DEFI.NE,CA
-ton-strategy-co,TON Strategy Co,TONX.US,US
-liveone,LiveOne,LVO.US,US
-solana-company,Solana Company,HSDT.US,US
-nano-labs,Nano Labs,NA.US,CN
-robin-energy,Robin Energy,RBNE.US,CY
-advanced-bitcoin-technologies-ag,Advanced Bitcoin Technologies AG,ABT.DU,DE
-core-scientific,Core Scientific,CORZ.US,US
-meliuz,Méliuz,CASH3.SA,BR
-ai-fusion-capital-group,AI Fusion Capital Group,254A.T,JP
-forward-industries,Forward Industries,FWDI.US,US
-norwegian-block-exchange,Norwegian Block Exchange,NBX.OL,NO
-gstechnologies,GSTechnologies,GST.L,AU
-ethzilla,Forum Markets (formerly ETHZilla),FRMM.US,US
-circle-internet-group,Circle Internet Group,CRCL.US,US
-defi-dev,DeFi Development Corp.,DFDV.US,US
-dmg-blockchain-solutions,DMG Blockchain Solutions,DMGI.V,CA
-block,Block,XYZ.US,US
-frmo-corp,FRMO Corp.,FRMO.US,US
-onemednet-corporation,OneMedNet Corporation,ONMD.US,US
-hamak-strategy,Hamak Strategy,HAMA.L,VG
-remixpoint,Remixpoint,3825.T,JP
-torrent-capital,Torrent Capital,TORR.V,CA
-jasmine-international-pcl,Jasmine International PCL,JAS.BK,TH
-fold-holdings,Fold Holdings,FLD.US,US
-mobcast-holdings-inc,WIZE Inc (formerly Mobcast Holdings Inc.),3664.T,JP
-lite-strategy,Lite Strategy,LITS.US,US
-tap-global,Tap Global,TAP.L,GB
-pop-culture-group-co-ltd,POP Culture Group Co. Ltd. ,CPOP.US,CN
-cypherpunk-technologies,Cypherpunk Technologies,CYPH.US,US
-mara-holdings,MARA Holdings,MARA.US,US
-kulr-technology-group,KULR Technology Group,KULR.US,US
-gamestop-corp,GameStop Corp.,GME.US,US
-next-technology-holding,Next Technology Holding,NXTT.US,CN
-h100-group,H100 Group,GS9.F,SE
-kindlymd,Nakamoto Inc (formerly KindlyMD),NAKA.US,US
-cathedra-bitcoin,Cathedra Bitcoin (acquired by Sphere 3D Corp),CBIT.V,CA
-matador-technologies,Matador Technologies,MATA.V,CA
-alliance-resource-partners-l-p,"Alliance Resource Partners, L.P.",ARLP.US,US
-horizon-kinetics-holding-corp,Horizon Kinetics Holding Corp,HKHC.US,US
-ipower,iPower,IPW.US,US
-ming-shing-group,Ming Shing Group,MSW.US,HK
-gemini-space-station,Gemini Space Station,GEMI.US,US
-sphere-3d,Sphere 3D,ANY.US,US
-gamesquare-holdings,GameSquare Holdings,GAME.US,US
-prenetics,Prenetics,PRE.US,KY
-the-ether-machine,The Ether Machine,ETHM.US,US
-sixty-six-capital,Sixty-Six Capital,SIX.CN,CA
-strategy,Strategy,MSTR.US,US
 cango,Cango,CANG.US,CN
-btcs,BTCS,BTCS.US,US
-devvstream,DevvStream,DEVS,CA
-tao-synergies,TAO Synergies,TAOX.US,US
-rsxyz-pcl,RSXYZ PCL,XYZ.BK,TH
-yuxing,YUXING,8005.HK,HK
-strive,Strive,ASST.US,US
-gd-culture-group,GD Culture Group,GDC.US,CN
-caliber,CaliberCos Inc,CWD.US,US
-cipher-mining,Cipher Digital Inc (formerly Cipher Mining),CIFR.US,US
-cdt-equity,CDT Equity ,CDT.US,US
-eightco-holdings,Eightco Holdings,ORBS.US,US
-convano,Convano,6574.T,JP
-trump-media-technology-group-corp,Trump Media & Technology Group Corp.,DJT.US,US
-classover-holdings,KIDZ AI Inc (formerly Classover Holdings),KIDZ.US,US
-sol-strategies,SOL Strategies,HODL.CN,CA
+genius-group,Genius Group,GNS.US,SG
+bullish,Bullish,BLSH.US,US
+united-arab-emirates,United Arab Emirates,,AE
+btcs-s-a,BTCS S.A.,BTF.WA,PL
+hive-digital-technologies,HIVE Digital Technologies,HIVE.US,CA
+h100-group,H100 Group,GS9.F,SE
+digitalx,DigitalX,DCC.AX,AU
+sharplink,SharpLink,SBET.US,US
+hut-8-mining-corp,Hut 8 Mining Corp,HUT.US,US
+the-smarter-web-company-plc,The Smarter Web Company PLC,SWC.L,GB
+figma,Figma,FIG.US,US
+lm-funding-america,LM Funding America,LMFA.US,US
+strategy,Strategy,MSTR.US,US
+cea-industries,CEA Industries,BNC.US,US
 neptune-digital-assets,Neptune Digital Assets,NDA.V,CA
+digipowerx,DigiPowerX,DGX.V,US
+asiastrategy,AsiaStrategy,SORA.US,HK
+oblong-industries,TaoWeave (formerly Oblong Industries),TWAV.US,US
+gumi-inc,Gumi Inc,3903.T,JP
+xce-connecting-excellence-group,XCE Connecting Excellence Group,XCE.AQ,GB
 sequans-communications-s-a,Sequans Communications S.A.,SQNS.US,FR
-alt5-sigma,AI Financial Corporation (formerly ALT5 Sigma),AIFC.US,US
-tesla,Tesla,TSLA.US,US
+rsxyz-pcl,RSXYZ PCL,XYZ.BK,TH
+cleanspark,CleanSpark,CLSK.US,US
+defi-dev,DeFi Development Corp.,DFDV.US,US
+rumble,RUM Group Inc (formerly Rumble),RUM.US,CA
+hyperliquid-strategies-inc,Hyperliquid Strategies Inc.,PURR.US,US
+torrent-capital,Torrent Capital,TORR.V,CA
+ming-shing-group,Ming Shing Group,MSW.US,HK
+gamesquare-holdings,GameSquare Holdings,GAME.US,US
+matador-technologies,Matador Technologies,MATA.V,CA
+falconedge,Falconedge,EDGE.AQ,GB
+eightco-holdings,Eightco Holdings,ORBS.US,US
+aker-asa,Aker ASA,AKER.OL,NO
+gamestop-corp,GameStop Corp.,GME.US,US
+ai-fusion-capital-group,AI Fusion Capital Group,254A.T,JP
 parataxis-ethereum-inc,"Parataxis Ethereum, Inc.",290560.KQ,KR
 xxi,Twenty One Capital,XXI.US,US
-bullish,Bullish,BLSH.US,US
-lion-group-holding,Lion Group Holding,LGHL.US,SG
-btc-digital,BTC Digital,BTCT.US,SG
-k-wave-media,K Wave Media,KWM.US,US
-lixte-biotechnology,LIXTE Biotechnology,LIXT.US,US
-murano,Murano,MRNO.US,MX
-gumi-inc,Gumi Inc,3903.T,JP
-globant,Globant,GLOB.US,US
-the-blockchain-group,Capital B,ALCPB.PA,FR
-digitalx,DigitalX,DCC.AX,AU
-s-science-company,S-Science Company,5721.T,JP
-btcs-s-a,BTCS S.A.,BTF.WA,PL
-yueda-digital-holding,Yueda Digital Holding,YDKG.US,KY
-bitstrat-holdings,BitStrat Holdings,6113.HK,HK
-microcloud-hologram,Microcloud Hologram,HOLO.US,KY
-tron-inc,Tron Inc,TRON.US,US
-bigg-digital-assets,BIGG Digital Assets,BIGG.V,CA
-usbc,USBC,USBC.US,US
-cosmos-health,Cosmos Health,COSM.US,US
-linekong-interactive-group-co-ltd,"Linekong Interactive Group Co., Ltd",8267.HK,CN
-figma,Figma,FIG.US,US
-phunware,Phunware,PHUN.US,US
-atai-life-sciences-n-v,AtaiBeckley Inc (formerly ATAI Life Sciences N.V.),ATAI.US,DE
-boyaa-interactive-international-limited,Boyaa Interactive International Limited,434.HK,HK
-bitfarms-ltd,Keel Infrastructure (formerly Bitfarms),KEEL.US,US
-virtu-financial,Virtu Financial,VIRT.US,US
-quantum-solutions,Quantum Solutions,2338.T,JP
-treasury,Treasury,NEDSE.AS,NL
-bit-mining,SOLAI Limited (formerly BIT Mining),SLAI.US,US
-bitmax-co,Bitmax Co,377030.KQ,KR
-spacex,Space Exploration Technologies Corp.,SPCX,US
+onemednet-corporation,OneMedNet Corporation,ONMD.US,US
 bitplanet-co,Bitplanet Co,049470.KQ,KR
-hut-8-mining-corp,Hut 8 Mining Corp,HUT.US,US
-cleancore-solutions,CleanCore Solutions,ZONE.US,US
-alphaton-capital,AlphaTON Capital,ATON.US,US
-london-bitcoin-company-formerly-vinanz,London Bitcoin Company (formerly Vinanz),BTC.L,GB
-tenx-protocols,TenX Protocols,TNX.V,CA
 sbc-medical-group-holdings,SBC Medical Group Holdings,SBC.US,JP
-bitcoin-standard-treasury-company,Bitcoin Standard Treasury Company,CEPO.US,US
+alliance-resource-partners-l-p,"Alliance Resource Partners, L.P.",ARLP.US,US
+globant,Globant,GLOB.US,US
+tap-global,Tap Global,TAP.L,GB
+tesla,Tesla,TSLA.US,US
+sphere-3d,Sphere 3D,ANY.US,US
+linekong-interactive-group-co-ltd,"Linekong Interactive Group Co., Ltd",8267.HK,CN
+sol-strategies,SOL Strategies,HODL.CN,CA
+cipher-mining,Cipher Digital Inc (formerly Cipher Mining),CIFR.US,US
+advanced-bitcoin-technologies-ag,Advanced Bitcoin Technologies AG,ABT.DU,DE
+convano,Convano,6574.T,JP
+pop-culture-group-co-ltd,POP Culture Group Co. Ltd. ,CPOP.US,CN
+hyperscale-data,Hyperscale Data,GPUS.US,US
+norwegian-block-exchange,Norwegian Block Exchange,NBX.OL,NO
+atai-life-sciences-n-v,AtaiBeckley Inc (formerly ATAI Life Sciences N.V.),ATAI.US,DE
+caliber,CaliberCos Inc,CWD.US,US
 the-brooker-group,The Brooker Group,BTC.BK,TH
-oblong-industries,TaoWeave (formerly Oblong Industries),TWAV.US,US
-bitdeer-technologies-group,Bitdeer Technologies Group,BTDR.US,SG
-upexi,Upexi,UPXI.US,US
-athena-bitcoin-global,Athena Bitcoin Global,ABIT,US
+3u-holding-ag,3U Holding AG,UUU.DE,DE
+bitcoin-treasury-capital,Bitcoin Treasury Capital,BTC-B.SE,SE
+stack-btc,Stack BTC,KASH.AQ,GB
+nano-labs,Nano Labs,NA.US,CN
+s-science-company,S-Science Company,5721.T,JP
+terawulf,TeraWulf,WULF.US,US
+sixty-six-capital,Sixty-Six Capital,SIX.CN,CA
 wonderfi,WonderFi (acquired by Robinhood),WNDR.TO,CA
+jasmine-international-pcl,Jasmine International PCL,JAS.BK,TH
+sos-limited,SOS Limited,SOS.US,CN
+btcs,BTCS,BTCS.US,US
+yueda-digital-holding,Yueda Digital Holding,YDKG.US,KY
+the-blockchain-group,Capital B,ALCPB.PA,FR
+metaplanet,Metaplanet,3350.T,JP
+mobcast-holdings-inc,WIZE Inc (formerly Mobcast Holdings Inc.),3664.T,JP
+fragbite-group,Fragbite Group,FRAG.ST,SE
+athena-bitcoin-global,Athena Bitcoin Global,ABIT,US
+blue-star-capital,Blue Star Capital,BLU.L,GB
+consensus-mining-seigniorage,Consensus Mining & Seigniorage,CMSG,US
+goobit-group,Goobit Group,BTCX.ST,SE
+bitgo-holdings,BitGo Holdings,BTGO.US,US
+liveone,LiveOne,LVO.US,US
+mogo,Orion Digital Corp (formerly Mogo),ORIO.TO,CA
+canaan,Canaan,CAN.US,US
+tao-synergies,TAO Synergies,TAOX.US,US
+defi-technologies,DeFi Technologies,DEFI.NE,CA
+net-holding-a-s,Net Holding A.S.,NTHOL.E.IS,TR
+bitfarms-ltd,Keel Infrastructure (formerly Bitfarms),KEEL.US,US
+fundamental-global,FG Nexus,FGNX.US,US
+trump-media-technology-group-corp,Trump Media & Technology Group Corp.,DJT.US,US
+coinshares-international-limited,Coinshares International Limited,CS.ST,JE
+safello-group,Safello Group,SFL.ST,SE
+ethzilla,Forum Markets (formerly ETHZilla),FRMM.US,US
+robin-energy,Robin Energy,RBNE.US,CY
+dmg-blockchain-solutions,DMG Blockchain Solutions,DMGI.V,CA
+devvstream,DevvStream,DEVS,CA
+nexon-co-ltd,"NEXON Co., Ltd.",3659.T,JP
+fold-holdings,Fold Holdings,FLD.US,US
+london-bitcoin-company-formerly-vinanz,London Bitcoin Company (formerly Vinanz),BTC.L,GB
+upexi,Upexi,UPXI.US,US
+def-consulting,Def Consulting,4833.T,JP
+next-technology-holding,Next Technology Holding,NXTT.US,CN
+planet-ventures,Planet Ventures,,CA
+lite-strategy,Lite Strategy,LITS.US,US
+moon-inc,Moon Inc,1723.HK,HK
+digital-commodities-capital,Digital Commodities Capital,,CA
+greenmerc,GreenMerc,,SE
+k-wave-media,K Wave Media,KWM.US,US
+bit-mining,SOLAI Limited (formerly BIT Mining),SLAI.US,US
+classover-holdings,KIDZ AI Inc (formerly Classover Holdings),KIDZ.US,US
+bitstrat-holdings,BitStrat Holdings,6113.HK,HK
+kindlymd,Nakamoto Inc (formerly KindlyMD),NAKA.US,US
+murano,Murano,MRNO.US,MX
+bigg-digital-assets,BIGG Digital Assets,BIGG.V,CA
+remixpoint,Remixpoint,3825.T,JP
+wemade,WEMADE,112040.KQ,KR
+sharps-technology,SkyAI Inc (formerly Sharps Technology),SKYA.US,US
+boyaa-interactive-international-limited,Boyaa Interactive International Limited,434.HK,HK
+333d,333D,T3D.AX,AU
+alphaton-capital,AlphaTON Capital,ATON.US,US
+satsuma-technology,Satsuma Technology,SATS.L,GB
+the-ether-machine,The Ether Machine,ETHM.US,US
+alt5-sigma,AI Financial Corporation (formerly ALT5 Sigma),AIFC.US,US
+horizon-kinetics-holding-corp,Horizon Kinetics Holding Corp,HKHC.US,US
+cdt-equity,CDT Equity ,CDT.US,US
+hyperion-defi,Hyperion DeFi,HYPD.US,US
+prenetics,Prenetics,PRE.US,KY
+forward-industries,Forward Industries,FWDI.US,US
+phunware,Phunware,PHUN.US,US
+riot-platforms,Riot Platforms,RIOT.US,US
+frmo-corp,FRMO Corp.,FRMO.US,US
+semler-scientific,Semler Scientific (acquired by Strive),SMLR.US,US
+evernorth-holdings,Evernorth Holdings,XRPN.US,US
+tron-inc,Tron Inc,TRON.US,US
+solana-company,Solana Company,HSDT.US,US
+lixte-biotechnology,LIXTE Biotechnology,LIXT.US,US
+meliuz,Méliuz,CASH3.SA,BR
+core-scientific,Core Scientific,CORZ.US,US
+galaxy-digital-holdings-ltd,Galaxy Digital Holdings Ltd,GLXY.US,US
+winland-holdings,Winland Holdings,WELX,US
+quantum-solutions,Quantum Solutions,2338.T,JP
+kulr-technology-group,KULR Technology Group,KULR.US,US
+ton-strategy-co,TON Strategy Co,TONX.US,US
+lqwd-technologies-corp,LQWD Technologies Corp.,LQWD.V,CA
+k33-ab,K33 AB,K33.ST,NO
+cosmos-health,Cosmos Health,COSM.US,US
+fitell-corporation,GMEX Robotics (formerly Fitell Corporation),GMEX.US,AU
+btc-digital,BTC Digital,BTCT.US,SG
+exodus-movement,Exodus Movement,EXOD.US,US
+spacex,Space Exploration Technologies Corp.,SPCX,US
+hamak-strategy,Hamak Strategy,HAMA.L,VG
+bitdeer-technologies-group,Bitdeer Technologies Group,BTDR.US,SG
+luxxfolio-holdings,Luxxfolio Holdings,LUXX.CN,CA
+where-food-comes-from,Where Food Comes From,WFCF.US,US
+figure-technology-solutions,Figure Technology Solutions,FIGR.US,US
+value-creation,Value Creation,9238.T,JP
+circle-internet-group,Circle Internet Group,CRCL.US,US
+phoenix-group-plc,Phoenix Group PLC,PHX.AD,AE
+neowiz-holdings,Neowiz holdings,042420.KQ,KR
+belgravia-hartford-capital,Belgravia Hartford Capital,BLGV.CN,CA
+gyet-co,Gyet Co.,7603.T,JP
+bitfufu,BITFUFU,FUFU.US,SG
 vaultz-capital,Vaultz Capital,V3TC.AQ,GB
+procap-btc,ProCap Financial (formerly ProCap BTC),BRR.US,US
+lion-group-holding,Lion Group Holding,LGHL.US,SG
+cathedra-bitcoin,Cathedra Bitcoin (acquired by Sphere 3D Corp),CBIT.V,CA
+green-minerals-as,Green Minerals AS,GEM.OL,NO
+block,Block,XYZ.US,US
+sui-group-holdings,Sui Group Holdings,SUIG.US,US
+samara-asset-group,Samara Asset Group,SRAG.DU,MT
+ipower,iPower,IPW.US,US
+parataxis,Parataxis Korea,288330.KQ,KR
+tenx-protocols,TenX Protocols,TNX.V,CA
 american-bitcoin,American Bitcoin,ABTC.US,US
 coinsilium,Coinsilium,COIN.AQ,GI
-coinbase-global,Coinbase Global,COIN.US,US
-sharps-technology,SkyAI Inc (formerly Sharps Technology),SKYA.US,US
-nexon-co-ltd,"NEXON Co., Ltd.",3659.T,JP
-genius-group,Genius Group,GNS.US,SG
-net-holding-a-s,Net Holding A.S.,NTHOL.E.IS,TR
-phoenix-group-plc,Phoenix Group PLC,PHX.AD,AE
-samara-asset-group,Samara Asset Group,SRAG.DU,MT
-parataxis,Parataxis Korea,288330.KQ,KR
 enlivex,Enlivex,ENLV.US,US
 refine-group,Refine Group,REFINE.ST,SE
 angel-studios-inc,Angel Studios Inc,ANGX.US,US
