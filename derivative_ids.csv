@@ -2,16 +2,16 @@ id,name
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
 bybit,Bybit (Futures)
-coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
+coinw_futures,CoinW (Futures)
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 weex-futures,WEEX (Futures)
-bitmart_futures,Bitmart Futures
 xt_derivatives,XT.COM (Derivatives)
+bitmart_futures,Bitmart Futures
 bitget_futures,Bitget Futures
-okex_swap,OKX (Futures)
 bydfi-futures,BYDFi (Futures)
+okex_swap,OKX (Futures)
 deribit,Deribit
 kumex,KuCoin Futures
 toobit_derivatives,Toobit Futures
@@ -37,10 +37,10 @@ lighter,Lighter
 btcex_futures,BTCEX (Futures)
 bitvenus,BVOX (Futures)
 hotcoin-futures,Hotcoin (Futures)
-bitmex,BitMEX (Derivative)
 kcex-futures,KCEX (Futures)
-zoomex-futures,Zoomex (Futures)
+bitmex,BitMEX (Derivative)
 bulk,BULK
+zoomex-futures,Zoomex (Futures)
 bitkan-futures,BitKan (Futures)
 grvt_futures,GRVT
 edgex,edgeX
@@ -50,8 +50,8 @@ gmx-perpetuals-v2-solana,GMTrade
 biconomy-futures,Biconomy (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 antarctic,Antarctic 
-extended,Extended
 dmex,DMEX
+extended,Extended
 alphax-futures,AlphaX (Futures)
 apex-omni,ApeX Omni
 evedex,EVEDEX
@@ -62,11 +62,11 @@ pacifica,Pacifica
 io-trader,IO Trader
 standx,StandX
 nado,Nado
+vest-exchange-futures,Vest Exchange
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 sodex-futures,SoDEX (Futures)
-vest-exchange-futures,Vest Exchange
 dydx_chain,dYdX Chain
 derive-futures,Derive (Futures)
 ondo-perps,Ondo Perps
@@ -88,8 +88,8 @@ katana-perps,Katana Perps
 valr-futures,VALR Futures
 bigone_futures,BigONE Futures
 delta_futures,Delta Exchange (Futures)
-synfutures,SynFutures
 synthetix-perps,Synthetix
+synfutures,SynFutures
 dipcoin-futures,Dipcoin (Futures)
 strike-finance,Strike Finance
 kiloex-opbnb,KiloEx (opBnb)
@@ -98,8 +98,8 @@ kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
 gtrade-polygon,gTrade (Polygon)
 overlay-protocol,Overlay Protocol 
-navigator,Navigator
 deriw,DeriW
+navigator,Navigator
 demex_derivatives,Demex (Derivatives)
 spacewhale,SpaceWhale
 vertex-edge-sonic,Vertex Edge (Sonic)
