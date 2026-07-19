@@ -1,7 +1,7 @@
 id,name
 binance_futures,Binance (Futures)
-coinw_futures,CoinW (Futures)
 hyperliquid,Hyperliquid (Futures)
+coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
@@ -27,15 +27,15 @@ btse_futures,BTSE (Futures)
 ourbit-futures,Ourbit (Futures)
 variational-omni,Variational Omni
 orangex_futures,OrangeX Futures
+prime_xbt,PrimeXBT
 bitfinex_futures,Bitfinex (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
-prime_xbt,PrimeXBT
 blofin,BloFin (Futures)
 lighter,Lighter
 aster,Aster (Futures)
 btcex_futures,BTCEX (Futures)
-hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
+hotcoin-futures,Hotcoin (Futures)
 bitmex,BitMEX (Derivative)
 deepcoin_derivatives,Deepcoin (Derivatives)
 zoomex-futures,Zoomex (Futures)
@@ -43,10 +43,10 @@ bitvenus,BVOX (Futures)
 bitkan-futures,BitKan (Futures)
 grvt_futures,GRVT
 edgex,edgeX
-kraken_futures,Kraken (Futures)
 bulk,BULK
-biconomy-futures,Biconomy (Futures)
+kraken_futures,Kraken (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
+biconomy-futures,Biconomy (Futures)
 bitrue_futures,Bitrue (Futures)
 antarctic,Antarctic 
 extended,Extended
@@ -56,20 +56,20 @@ apex-omni,ApeX Omni
 evedex,EVEDEX
 levex-futures,LeveX (Futures)
 pacifica,Pacifica
-io-trader,IO Trader
 backpack-futures,Backpack (Futures)
-standx,StandX
 gmx-perpetuals-v2-solana,GMTrade
+io-trader,IO Trader
+standx,StandX
 qfex,QFEX
 nado,Nado
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-sodex-futures,SoDEX (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
+sodex-futures,SoDEX (Futures)
+vest-exchange-futures,Vest Exchange
 ondo-perps,Ondo Perps
 dydx_chain,dYdX Chain
 derive-futures,Derive (Futures)
-vest-exchange-futures,Vest Exchange
 aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
@@ -97,9 +97,9 @@ kiloex-base,KiloEx (Base)
 gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 gtrade-polygon,gTrade (Polygon)
-deriw,DeriW
 overlay-protocol,Overlay Protocol 
 navigator,Navigator
+deriw,DeriW
 spacewhale,SpaceWhale
 cme_futures,CME Group
 vertex-edge-sonic,Vertex Edge (Sonic)
