@@ -1,10 +1,10 @@
 id,name
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
+coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
-coinw_futures,CoinW (Futures)
 gate_futures,Gate (Futures)
 weex-futures,WEEX (Futures)
 bitmart_futures,Bitmart Futures
@@ -39,14 +39,14 @@ kcex-futures,KCEX (Futures)
 bitmex,BitMEX (Derivative)
 deepcoin_derivatives,Deepcoin (Derivatives)
 zoomex-futures,Zoomex (Futures)
-bitkan-futures,BitKan (Futures)
 bitvenus,BVOX (Futures)
+bitkan-futures,BitKan (Futures)
 grvt_futures,GRVT
 edgex,edgeX
 bulk,BULK
 kraken_futures,Kraken (Futures)
-coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 biconomy-futures,Biconomy (Futures)
+coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 bitrue_futures,Bitrue (Futures)
 antarctic,Antarctic 
 extended,Extended
@@ -64,13 +64,13 @@ qfex,QFEX
 bullish-futures,Bullish (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
-orderly_network_derivatives_evm,Orderly (Derivatives)
 sodex-futures,SoDEX (Futures)
-ondo-perps,Ondo Perps
+orderly_network_derivatives_evm,Orderly (Derivatives)
 dydx_chain,dYdX Chain
+ondo-perps,Ondo Perps
 derive-futures,Derive (Futures)
-aqx_derivatives,Flipster
 gmx-perpetuals-v2-solana,GMTrade
+aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 gate-perp-dex,Gate DEX
@@ -89,17 +89,17 @@ valr-futures,VALR Futures
 bigone_futures,BigONE Futures
 synthetix-perps,Synthetix
 delta_futures,Delta Exchange (Futures)
+synfutures,SynFutures
 dipcoin-futures,Dipcoin (Futures)
 strike-finance,Strike Finance
-synfutures,SynFutures
 kiloex-bsc,KiloEx (BSC)
-gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
+gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 gtrade-polygon,gTrade (Polygon)
+deriw,DeriW
 overlay-protocol,Overlay Protocol 
 navigator,Navigator
-deriw,DeriW
 spacewhale,SpaceWhale
 demex_derivatives,Demex (Derivatives)
 vertex-edge-sonic,Vertex Edge (Sonic)
