@@ -2406,7 +2406,7 @@ bm2k,bm2k,bm2k
 bma,BMA,bma
 bmax,BMAX,bmax
 b-money,B-MONEY,bmoney
-bmx,Boardwalk,bmx
+bmx,Boardwalk [OLD],bmx
 bnb48-club-token,KOGE,koge
 bnb-card,BNB Card,bnbcard
 bnb-cat,Binance Cat,poseidon
@@ -2437,6 +2437,7 @@ bnpl-pay-2,BNPL Pay,bnpl
 bnsd-finance,BNSD Finance,bnsd
 bns-token,BNS,bns
 bnv,BNV,fash
+boardwalk,Boardwalk,bwlk
 boatkid,BoatKid ,boatkid
 bob,BOB,bob
 bob-2,BOB,bob
@@ -6204,11 +6205,13 @@ galaconnect-bridged-ethfi-galachain,GalaConnect Bridged ETHFI (GalaChain),gethfi
 galaconnect-bridged-jto-galachain,GalaConnect Bridged JTO (GalaChain),gjto
 galaconnect-bridged-solana-usdt-galachain,GalaConnect Bridged Solana USDT (GalaChain),gsusdt
 galaconnect-bridged-sol-galachain,GalaConnect Bridged SOL (GalaChain),gsol
+galaconnect-bridged-uni-galachain,GalaConnect Bridged UNI (GalaChain),gsol
 galaconnect-bridged-usdc-galachain,GalaConnect Bridged USDC (GalaChain),gusdc
 galaconnect-bridged-usdt-galachain,GalaConnect Bridged USDT (GalaChain),gusdt
 galaconnect-bridged-wbtc-galachain,GalaConnect Bridged WBTC (GalaChain),gwbtc
 galaconnect-bridged-weth-galachain,GalaConnect Bridged WETH (GalaChain),gweth
 galaconnect-bridged-wld-galachain,GalaConnect Bridged WLD (GalaChain),gwld
+galaconnect-bridged-wxrp-galachain,GalaConnect Bridged WXRP (GalaChain),gwxrp
 galactica-com,Galactica.com,gnet
 gala-music,Gala Music,music
 galapagos-token,Galapagos Token,0.000001
