@@ -25,19 +25,19 @@ lbank-futures,LBank (Futures)
 bitunix_futures,Bitunix Futures
 orangex_futures,OrangeX Futures
 aster,Aster (Futures)
-btse_futures,BTSE (Futures)
 ourbit-futures,Ourbit (Futures)
+btse_futures,BTSE (Futures)
 variational-omni,Variational Omni
 bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
+crypto_com_futures,Crypto.com Exchange (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
-crypto_com_futures,Crypto.com Exchange (Futures)
-bitmex,BitMEX (Derivative)
-kcex-futures,KCEX (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 hotcoin-futures,Hotcoin (Futures)
+bitmex,BitMEX (Derivative)
+deepcoin_derivatives,Deepcoin (Derivatives)
+kcex-futures,KCEX (Futures)
 zoomex-futures,Zoomex (Futures)
 bitvenus,BVOX (Futures)
 bitkan-futures,BitKan (Futures)
@@ -51,8 +51,8 @@ biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
 dmex,DMEX
 extended,Extended
-alphax-futures,AlphaX (Futures)
 evedex,EVEDEX
+alphax-futures,AlphaX (Futures)
 ostium,Ostium
 qfex,QFEX
 apex-omni,ApeX Omni
@@ -64,10 +64,10 @@ standx,StandX
 nado,Nado
 gmx-perpetuals-v2-solana,GMTrade
 ondo-perps,Ondo Perps
-vest-exchange-futures,Vest Exchange
 globe_exchange_derivatives,Globe (Derivatives)
 bullish-futures,Bullish (Futures)
 sodex-futures,SoDEX (Futures)
+vest-exchange-futures,Vest Exchange
 derive-futures,Derive (Futures)
 dydx_chain,dYdX Chain
 orderly_network_derivatives_evm,Orderly (Derivatives)
@@ -82,8 +82,8 @@ paradex,Paradex
 aevo,Aevo
 ln-exchange-futures,LN Exchange (Futures)
 zb_derivatives,ZB (Derivatives)
-coinex_futures,CoinEx (Futures)
 gemini_derivatives,Gemini Derivatives
+coinex_futures,CoinEx (Futures)
 gtrade-arbitrum,gTrade (Arbitrum)
 sunperp,Sunperp
 decibel,Decibel
@@ -93,8 +93,8 @@ bigone_futures,BigONE Futures
 synthetix-perps,Synthetix
 delta_futures,Delta Exchange (Futures)
 strike-finance,Strike Finance
-synfutures,SynFutures
 dipcoin-futures,Dipcoin (Futures)
+synfutures,SynFutures
 kiloex-bsc,KiloEx (BSC)
 gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
