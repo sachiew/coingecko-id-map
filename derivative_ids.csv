@@ -4,8 +4,8 @@ hyperliquid,Hyperliquid (Futures)
 gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
 mxc_futures,MEXC (Futures)
-ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
+ftx,FTX (Derivatives)
 weex-futures,WEEX (Futures)
 bydfi-futures,BYDFi (Futures)
 bitget_futures,Bitget Futures
@@ -17,11 +17,11 @@ whitebit_futures,WhiteBIT Futures
 aivora-exchange-futures,Aivora Exchange (Futures)
 huobi_dm,HTX Futures
 bitmart_futures,Bitmart Futures
-bingx_futures,BingX (Futures)
 coinup-futures,CoinUp.io (Futures)
+bingx_futures,BingX (Futures)
 phemex_futures,Phemex (Futures)
-orangex_futures,OrangeX Futures
 lbank-futures,LBank (Futures)
+orangex_futures,OrangeX Futures
 bitunix_futures,Bitunix Futures
 deribit,Deribit
 aster,Aster (Futures)
@@ -31,12 +31,12 @@ crypto_com_futures,Crypto.com Exchange (Futures)
 variational-omni,Variational Omni
 bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
-deepcoin_derivatives,Deepcoin (Derivatives)
 blofin,BloFin (Futures)
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
-kcex-futures,KCEX (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 hotcoin-futures,Hotcoin (Futures)
+kcex-futures,KCEX (Futures)
 bitvenus,BVOX (Futures)
 zoomex-futures,Zoomex (Futures)
 bitkan-futures,BitKan (Futures)
@@ -47,15 +47,15 @@ evedex,EVEDEX
 biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
 bitrue_futures,Bitrue (Futures)
+alphax-futures,AlphaX (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 bulk,BULK
-alphax-futures,AlphaX (Futures)
+gmx-perpetuals-v2-solana,GMTrade
 dmex,DMEX
 extended,Extended
-ostium,Ostium
 bitmex,BitMEX (Derivative)
+ostium,Ostium
 coinex_futures,CoinEx (Futures)
-gmx-perpetuals-v2-solana,GMTrade
 qfex,QFEX
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
@@ -93,9 +93,9 @@ bigone_futures,BigONE Futures
 valr-futures,VALR Futures
 delta_futures,Delta Exchange (Futures)
 synthetix-perps,Synthetix
+synfutures,SynFutures
 dipcoin-futures,Dipcoin (Futures)
 strike-finance,Strike Finance
-synfutures,SynFutures
 kiloex-bsc,KiloEx (BSC)
 gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
