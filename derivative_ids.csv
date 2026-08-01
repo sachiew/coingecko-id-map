@@ -1,14 +1,14 @@
 id,name
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
-gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
+gate_futures,Gate (Futures)
 mxc_futures,MEXC (Futures)
 ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
 weex-futures,WEEX (Futures)
-bitget_futures,Bitget Futures
 bydfi-futures,BYDFi (Futures)
+bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
 okex_swap,OKX (Futures)
 toobit_derivatives,Toobit Futures
@@ -31,9 +31,9 @@ crypto_com_futures,Crypto.com Exchange (Futures)
 variational-omni,Variational Omni
 bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
-deepcoin_derivatives,Deepcoin (Derivatives)
 blofin,BloFin (Futures)
 lighter,Lighter
+deepcoin_derivatives,Deepcoin (Derivatives)
 btcex_futures,BTCEX (Futures)
 kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
@@ -44,12 +44,12 @@ grvt_futures,GRVT
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
 evedex,EVEDEX
-alphax-futures,AlphaX (Futures)
 biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
+alphax-futures,AlphaX (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-edgex,edgeX
 bulk,BULK
+edgex,edgeX
 dmex,DMEX
 extended,Extended
 ostium,Ostium
@@ -65,11 +65,11 @@ ondo-perps,Ondo Perps
 standx,StandX
 gmx-perpetuals-v2-solana,GMTrade
 nado,Nado
+vest-exchange-futures,Vest Exchange
 derive-futures,Derive (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-vest-exchange-futures,Vest Exchange
-sodex-futures,SoDEX (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
+sodex-futures,SoDEX (Futures)
 bullish-futures,Bullish (Futures)
 dydx_chain,dYdX Chain
 risex,RISEx
@@ -79,10 +79,10 @@ woo_network_futures,WOO X (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 astros,Astros
 hashkey-global-futures,HashKey Global (Futures)
-gate-perp-dex,Gate DEX
 paradex,Paradex
-ln-exchange-futures,LN Exchange (Futures)
+gate-perp-dex,Gate DEX
 aevo,Aevo
+ln-exchange-futures,LN Exchange (Futures)
 injective_futures,Helix (Futures)
 zb_derivatives,ZB (Derivatives)
 decibel,Decibel
@@ -97,8 +97,8 @@ synfutures,SynFutures
 dipcoin-futures,Dipcoin (Futures)
 strike-finance,Strike Finance
 kiloex-bsc,KiloEx (BSC)
-gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
+gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
 gtrade-polygon,gTrade (Polygon)
