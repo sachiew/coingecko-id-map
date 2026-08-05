@@ -6,7 +6,6 @@ mxc_futures,MEXC (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
-weex-futures,WEEX (Futures)
 bydfi-futures,BYDFi (Futures)
 bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
@@ -16,21 +15,22 @@ kumex,KuCoin Futures
 whitebit_futures,WhiteBIT Futures
 aivora-exchange-futures,Aivora Exchange (Futures)
 huobi_dm,HTX Futures
-bingx_futures,BingX (Futures)
 bitmart_futures,Bitmart Futures
+bingx_futures,BingX (Futures)
 coinup-futures,CoinUp.io (Futures)
-deribit,Deribit
 orangex_futures,OrangeX Futures
+deribit,Deribit
 phemex_futures,Phemex (Futures)
 lbank-futures,LBank (Futures)
 bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 ourbit-futures,Ourbit (Futures)
+weex-futures,WEEX (Futures)
 btse_futures,BTSE (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 variational-omni,Variational Omni
 bitfinex_futures,Bitfinex (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 prime_xbt,PrimeXBT
 blofin,BloFin (Futures)
 lighter,Lighter
@@ -88,22 +88,22 @@ decibel,Decibel
 gemini_derivatives,Gemini Derivatives
 edgex,edgeX
 gtrade-arbitrum,gTrade (Arbitrum)
-katana-perps,Katana Perps
 valr-futures,VALR Futures
 bigone_futures,BigONE Futures
+katana-perps,Katana Perps
 synthetix-perps,Synthetix
 delta_futures,Delta Exchange (Futures)
-synfutures,SynFutures
 strike-finance,Strike Finance
+synfutures,SynFutures
 kiloex-bsc,KiloEx (BSC)
 dipcoin-futures,Dipcoin (Futures)
-kiloex-base,KiloEx (Base)
 gtrade-base,gTrade (Base)
+kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
-gtrade-polygon,gTrade (Polygon)
 sparkdex-perps,SparkDEX Perps
-deriw,DeriW
+gtrade-polygon,gTrade (Polygon)
 navigator,Navigator
+deriw,DeriW
 spacewhale,SpaceWhale
 coinflex_futures,CoinFLEX (Futures)
 cme_futures,CME Group
@@ -190,6 +190,7 @@ bitmake_futures,BitMake Futures
 arkham_futures,Arkham (Futures)
 myx,MYX
 demex_derivatives,Demex (Derivatives)
+tapbit-futures,Tapbit (Futures)
 vertex_protocol_derivatives,Vertex Edge (Arbitrum)
 opnx_derivatives,OPNX Derivatives
 gmx_avalanche,GMX Derivatives (Avalanche)
