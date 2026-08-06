@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 gate_futures,Gate (Futures)
-mxc_futures,MEXC (Futures)
 hyperliquid,Hyperliquid (Futures)
+mxc_futures,MEXC (Futures)
 bybit,Bybit (Futures)
 ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
@@ -36,26 +36,26 @@ blofin,BloFin (Futures)
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
 kcex-futures,KCEX (Futures)
-bitvenus,BVOX (Futures)
 hotcoin-futures,Hotcoin (Futures)
+bitvenus,BVOX (Futures)
 bitkan-futures,BitKan (Futures)
 zoomex-futures,Zoomex (Futures)
 grvt_futures,GRVT
-kraken_futures,Kraken (Futures)
-evedex,EVEDEX
 edgex,edgeX
+evedex,EVEDEX
+kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
 gmx-perpetuals-v2-solana,GMTrade
-antarctic,Antarctic 
 biconomy-futures,Biconomy (Futures)
+antarctic,Antarctic 
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 bulk,BULK
-dmex,DMEX
 extended,Extended
+dmex,DMEX
 alphax-futures,AlphaX (Futures)
-ostium,Ostium
 coinex_futures,CoinEx (Futures)
 qfex,QFEX
+ostium,Ostium
 bitmex,BitMEX (Derivative)
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
@@ -69,8 +69,8 @@ derive-futures,Derive (Futures)
 dydx_chain,dYdX Chain
 vest-exchange-futures,Vest Exchange
 globe_exchange_derivatives,Globe (Derivatives)
-bullish-futures,Bullish (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
+bullish-futures,Bullish (Futures)
 sodex-futures,SoDEX (Futures)
 risex,RISEx
 kalshi,Kalshi
@@ -81,29 +81,29 @@ astros,Astros
 hashkey-global-futures,HashKey Global (Futures)
 gate-perp-dex,Gate DEX
 paradex,Paradex
-ln-exchange-futures,LN Exchange (Futures)
 aevo,Aevo
+ln-exchange-futures,LN Exchange (Futures)
 zb_derivatives,ZB (Derivatives)
 injective_futures,Helix (Futures)
 decibel,Decibel
 gemini_derivatives,Gemini Derivatives
 gtrade-arbitrum,gTrade (Arbitrum)
-valr-futures,VALR Futures
 katana-perps,Katana Perps
+valr-futures,VALR Futures
 bigone_futures,BigONE Futures
 delta_futures,Delta Exchange (Futures)
 synthetix-perps,Synthetix
-strike-finance,Strike Finance
 synfutures,SynFutures
+strike-finance,Strike Finance
 kiloex-bsc,KiloEx (BSC)
 dipcoin-futures,Dipcoin (Futures)
-gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
+gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
 gtrade-polygon,gTrade (Polygon)
-navigator,Navigator
 deriw,DeriW
+navigator,Navigator
 spacewhale,SpaceWhale
 coinflex_futures,CoinFLEX (Futures)
 cme_futures,CME Group
