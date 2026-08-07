@@ -7,8 +7,8 @@ hyperliquid,Hyperliquid (Futures)
 ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
 weex-futures,WEEX (Futures)
-bydfi-futures,BYDFi (Futures)
 bitget_futures,Bitget Futures
+bydfi-futures,BYDFi (Futures)
 xt_derivatives,XT.COM (Derivatives)
 tapbit-futures,Tapbit (Futures)
 okex_swap,OKX (Futures)
@@ -31,9 +31,9 @@ btse_futures,BTSE (Futures)
 variational-omni,Variational Omni
 bitfinex_futures,Bitfinex (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
+prime_xbt,PrimeXBT
 blofin,BloFin (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
-prime_xbt,PrimeXBT
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
 kcex-futures,KCEX (Futures)
@@ -50,20 +50,20 @@ bulk,BULK
 antarctic,Antarctic 
 biconomy-futures,Biconomy (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-gmx-perpetuals-v2-solana,GMTrade
 dmex,DMEX
 extended,Extended
 alphax-futures,AlphaX (Futures)
 ostium,Ostium
 coinex_futures,CoinEx (Futures)
 qfex,QFEX
+gmx-perpetuals-v2-solana,GMTrade
 bitmex,BitMEX (Derivative)
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 pacifica,Pacifica
 io-trader,IO Trader
-standx,StandX
 backpack-futures,Backpack (Futures)
+standx,StandX
 nado,Nado
 ondo-perps,Ondo Perps
 derive-futures,Derive (Futures)
@@ -71,8 +71,8 @@ vest-exchange-futures,Vest Exchange
 globe_exchange_derivatives,Globe (Derivatives)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 sodex-futures,SoDEX (Futures)
-risex,RISEx
 bullish-futures,Bullish (Futures)
+risex,RISEx
 dydx_chain,dYdX Chain
 kalshi,Kalshi
 arcus-futures,Arcus (Futures)
@@ -83,8 +83,8 @@ astros,Astros
 hashkey-global-futures,HashKey Global (Futures)
 gate-perp-dex,Gate DEX
 paradex,Paradex
-aevo,Aevo
 ln-exchange-futures,LN Exchange (Futures)
+aevo,Aevo
 zb_derivatives,ZB (Derivatives)
 decibel,Decibel
 injective_futures,Helix (Futures)
@@ -104,8 +104,8 @@ kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
 gtrade-polygon,gTrade (Polygon)
-navigator,Navigator
 deriw,DeriW
+navigator,Navigator
 overlay-protocol,Overlay Protocol 
 spacewhale,SpaceWhale
 cme_futures,CME Group
