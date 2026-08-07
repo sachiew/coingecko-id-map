@@ -1395,7 +1395,8 @@ auctus,Auctus,auc
 audiera,Audiera,beat
 auditchain,Auditchain,audt
 audius,Audius,audio
-augur,Augur,rep
+augur,Augur [OLD],rep
+augur-2,Reputation,repv2_yes_1
 augury-finance,Augury Finance,omen
 auki-labs,Auki,auki
 aura-3,AURA,aura
@@ -1757,7 +1758,7 @@ banmao,Banmao,banmao
 banned,BANNED,banned
 bansky,BANKSY,banksy
 banx,BANX,banx
-banxchange,BANXCHANGE,bxe
+banxchange,BANX Network,bxe
 baobao-2,BaoBao [OLD],baobao
 baobao-2-2,BaoBao,baobao
 baobaosol,BaoBaoSol,baos
@@ -3140,6 +3141,7 @@ captainbnb,CaptainBNB,captainbnb
 captain-ethereum,Captain Ethereum,captain
 captain-kuma,Captain Kuma,kuma
 captain-pumpzilla,CAPTAIN PUMPZILLA,cp
+captain-robinhood,CAPTAIN ROBINHOOD,vlad
 captcha-captcha-social,Captcha (captcha.social),captcha
 captn-trench,Captn Trench,cpt
 cap-usd,Cap USD,cusd
@@ -5416,7 +5418,6 @@ entropy-3,Entropy,entropy
 ents,Ents,ents
 envida,EnviDa,edat
 envi-foundation,Envi Coin,envi
-envision-2,Envision Labs,vis
 eolas,Eolas ☴,eolas
 eos,EOS,eos
 eos-wrapped-ram,EOS Wrapped RAM,wram
@@ -6183,6 +6184,8 @@ frogger,FROGGER,frogger
 froggi,Froggi,$froggi
 froggie,Froggie,froggie
 froggy-2,Froggy,frog
+froggy-3,Froggy,froggy
+froglet,froglet,froglet
 frogo-2,FROGO,frogo
 frog-on-eth,Frog on ETH,frog
 frogonsol,Frogonsol,frog
@@ -11654,6 +11657,7 @@ paw-2,PAW,paw
 pawderick,Pawderick,pawderick
 paws,PAWS,paws
 pawsflow,PawsFlow,pawsflow
+pawsinu,PawsInu,pawsinu
 pawswap,PAW,paw
 pawtato,Pawtato,tato
 pawthereum-2,Pawthereum,pawth
@@ -16625,6 +16629,7 @@ veno-usd,Veno USD,vusd
 veno-yield-bearing-eth,Veno Yield Bearing ETH,ybeth
 vent-finance,Vent Finance,vent
 ventuals-vhype,Ventuals vHYPE,vhype
+venture-capitalist,Venture Capitalist,vc
 venus,Venus,xvs
 venus-bch,Venus BCH,vbch
 venus-beth,Venus BETH,vbeth
@@ -17370,6 +17375,7 @@ wrapped-chainlink-universal,Wrapped Chainlink (Universal),ulink
 wrapped-chevron-xstock,Wrapped Chevron xStock,wcvxx
 wrapped-chiliz-kayen,Wrapped Chiliz (Kayen),wchz
 wrapped-chiliz-universal,Wrapped Chiliz (Universal),uchz
+wrapped-circle-xstock,Wrapped Circle xStock,wcrclx
 wrapped-cisco-xstock,Wrapped Cisco xStock,wcscox
 wrapped-citrea-bitcoin,Wrapped Citrea Bitcoin,wcbtc
 wrapped-coca-cola-xstock,Wrapped Coca-Cola xStock,wkox
@@ -17532,17 +17538,20 @@ wrapped-robinhood-xstock,Wrapped Robinhood xStock,whoodx
 wrapped-ronin,Wrapped Ronin,wron
 wrapped-rseth,Wrapped rsETH,wrseth
 wrapped-salesforce-xstock,Wrapped Salesforce xStock,wcrmx
+wrapped-sandisk-corporation-xstock,Wrapped Sandisk Corporation xStock,wsndkx
 wrapped-savings-rusd,Wrapped Savings rUSD,wsrusd
 wrapped-sei,Wrapped SEI,wsei
 wrapped-sei-universal,Wrapped SEI (Universal),usei
 wrapped-shiden-network,Wrapped Shiden Network,wsdn
 wrapped-shido,Wrapped Shido,wshido
+wrapped-sk-hynix-xstock,Wrapped SK hynix xStock,wskhyx
 wrapped-sol-21-co,21.co Wrapped SOL,21sol
 wrapped-solana,Wrapped SOL,wsol
 wrapped-solana-universal,Wrapped Solana (Universal),usol
 wrapped-somi,Wrapped SOMI,wsomi
 wrapped-sonic,Wrapped Sonic,ws
 wrapped-soph,Wrapped SOPH,wsoph
+wrapped-spacex-xstock,Wrapped SpaceX xStock,wspcxx
 wrapped-staked-link,Wrapped Staked LINK,wstlink
 wrapped-staked-usdt,Wrapped Staked USDT,wstusdt
 wrapped-stastr,Wrapped stASTR,wstastr
