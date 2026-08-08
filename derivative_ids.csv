@@ -3,14 +3,14 @@ binance_futures,Binance (Futures)
 gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
 hyperliquid,Hyperliquid (Futures)
-mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
+mxc_futures,MEXC (Futures)
 ftx,FTX (Derivatives)
 weex-futures,WEEX (Futures)
-xt_derivatives,XT.COM (Derivatives)
 bitget_futures,Bitget Futures
 bydfi-futures,BYDFi (Futures)
 tapbit-futures,Tapbit (Futures)
+xt_derivatives,XT.COM (Derivatives)
 okex_swap,OKX (Futures)
 deribit,Deribit
 kumex,KuCoin Futures
@@ -60,9 +60,9 @@ apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 bitmex,BitMEX (Derivative)
 pacifica,Pacifica
-io-trader,IO Trader
 backpack-futures,Backpack (Futures)
 standx,StandX
+io-trader,IO Trader
 nado,Nado
 ondo-perps,Ondo Perps
 derive-futures,Derive (Futures)
