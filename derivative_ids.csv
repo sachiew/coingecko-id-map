@@ -7,15 +7,15 @@ coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
 ftx,FTX (Derivatives)
 weex-futures,WEEX (Futures)
-bitget_futures,Bitget Futures
 bydfi-futures,BYDFi (Futures)
+bitget_futures,Bitget Futures
 tapbit-futures,Tapbit (Futures)
 okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
 kumex,KuCoin Futures
+deribit,Deribit
 whitebit_futures,WhiteBIT Futures
 aivora-exchange-futures,Aivora Exchange (Futures)
-deribit,Deribit
 huobi_dm,HTX Futures
 bitmart_futures,Bitmart Futures
 toobit_derivatives,Toobit Futures
@@ -27,25 +27,25 @@ bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 btse_futures,BTSE (Futures)
 ourbit-futures,Ourbit (Futures)
-variational-omni,Variational Omni
 orangex_futures,OrangeX Futures
+variational-omni,Variational Omni
 bitfinex_futures,Bitfinex (Futures)
-prime_xbt,PrimeXBT
 blofin,BloFin (Futures)
+prime_xbt,PrimeXBT
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 bitkan-futures,BitKan (Futures)
 zoomex-futures,Zoomex (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
-bulk,BULK
+bitvenus,BVOX (Futures)
 edgex,edgeX
+bulk,BULK
 kraken_futures,Kraken (Futures)
 grvt_futures,GRVT
 evedex,EVEDEX
-bitvenus,BVOX (Futures)
 bitrue_futures,Bitrue (Futures)
 antarctic,Antarctic 
 biconomy-futures,Biconomy (Futures)
@@ -71,8 +71,9 @@ risex,RISEx
 dydx_chain,dYdX Chain
 bullish-futures,Bullish (Futures)
 gmx-perpetuals-v2-solana,GMTrade
-kalshi,Kalshi
 vest-exchange-futures,Vest Exchange
+ostium,Ostium
+kalshi,Kalshi
 arcus-futures,Arcus (Futures)
 aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
@@ -84,13 +85,12 @@ gate-perp-dex,Gate DEX
 aevo,Aevo
 zb_derivatives,ZB (Derivatives)
 decibel,Decibel
-injective_futures,Helix (Futures)
-ostium,Ostium
 gemini_derivatives,Gemini Derivatives
+injective_futures,Helix (Futures)
 katana-perps,Katana Perps
 bigone_futures,BigONE Futures
-valr-futures,VALR Futures
 gtrade-arbitrum,gTrade (Arbitrum)
+valr-futures,VALR Futures
 synthetix-perps,Synthetix
 delta_futures,Delta Exchange (Futures)
 synfutures,SynFutures
