@@ -2137,7 +2137,7 @@ binance-bitcoin,Binance Bitcoin,btcb
 binance-bridged-usdc-bnb-smart-chain,Binance Bridged USDC (BNB Smart Chain),usdc
 binance-bridged-usdt-bnb-smart-chain,Binance Bridged USDT (BNB Smart Chain),bsc-usd
 binancecoin,BNB,bnb
-binance-coin-wormhole,Binance Coin (Wormhole),bnb
+binance-coin-wormhole,Wrapped BNB (Wormhole),wbnb
 binancedog-2,binancedog,binancedog
 binance-era,币安时代 (Binance Era),币安时代
 binance-eth,Binance ETH staking,beth
@@ -17902,6 +17902,7 @@ xswap-2,XSwap,xswap
 xswap-bridged-usdc-0g,XSwap Bridged USDC (0G),usdc.e
 xswap-protocol,XSwap Protocol,xsp
 xswap-treasure,XSwap Treasure,xtt
+xtal-2,XTAL,xtal
 xtblock-token,XTblock,xtt-b20
 xtcom-token,XT.com,xt
 xterio,Xterio,xter
