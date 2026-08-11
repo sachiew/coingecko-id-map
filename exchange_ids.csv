@@ -49,7 +49,6 @@ arcus-futures,Arcus (Futures)
 arcus-spot,Arcus
 arena-dex,Arena DEX
 arkham,Arkham
-arkham_futures,Arkham (Futures)
 artexswap,ArtexSwap
 arthswap,ArthSwap
 arthswap-astar-zkevm,ArthSwap (Astar zkEVM)
@@ -162,7 +161,6 @@ bitkub,Bitkub
 bitlo,Bitlo
 bitmart,BitMart
 bitmart_futures,Bitmart Futures
-bitmax_futures,AscendEX  (BitMax) (Futures)
 bitmex,BitMEX (Derivative)
 bitmex_spot,BitMEX
 bitopro,BitoPro
@@ -188,12 +186,10 @@ bladeswap,BladeSwap
 blasterswap,BlasterSwap
 blasterswap-v3,Blasterswap V3
 blazeswap-flare,BlazeSwap (Flare) 
-blitz,Blitz
 blockchain_com,Blockchain.com
 blofin,BloFin (Futures)
 blofin_spot,BloFin
 bluefin,Bluefin
-bluefin_futures,Bluefin (Futures)
 bluelotusdao,BlueLotusDAO
 bluemove,BlueMove
 blueprint,Blueprint
@@ -266,7 +262,6 @@ coinbase_international,Coinbase International Exchange
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 coincall,Coincall
 coincatch,CoinCatch
-coincatch_derivatives,CoinCatch Derivatives
 coincheck,Coincheck
 coindcx,CoinDCX
 coinex,CoinEx
@@ -349,7 +344,6 @@ delta_futures,Delta Exchange (Futures)
 delta_spot,Delta Exchange
 deltaswap,DeltaSwap (Arbitrum)
 deltaswap-base,Deltaswap (Base)
-demex_derivatives,Demex (Derivatives)
 deribit,Deribit
 deribit_spot,Deribit Spot
 derive-futures,Derive (Futures)
@@ -392,7 +386,6 @@ dracula-finance,Dracula Finance
 dragonswap,Saphyre
 dragonswap-v2,Saphyre V2
 dragonswap-v3,DragonSwap V3 (Kaia)
-drift_protocol,Drift Protocol
 dswap,DSWAP
 dtxswap-taiko,DTXSwap (Taiko)
 duckswap,DuckSwap
@@ -432,7 +425,6 @@ elk-finance-q-mainnet,Elk Finance (Q Mainnet)
 elk_finance_telos,Elk Finance (Telos)
 ellipsis_finance,Ellipsis Finance
 emirex,Emirex
-enclave-markets,EnclaveX
 energiswap,Energiswap
 enosys-flare,Enosys (Flare)
 enosys-v3-flare,Enosys V3 (Flare)
@@ -466,7 +458,6 @@ figure_markets,Figure Markets
 finvesta,Finvesta
 firefly,Firefly
 first-ledger,First Ledger
-flash-trade,Flash Trade
 flatqube,FlatQube
 flowswap,FlowSwap
 flow-x,FlowX Finance
@@ -515,8 +506,6 @@ globiance,Globiance
 glue,Glue Hub
 gmo_japan,GMO Coin Japan
 gmo_japan_futures,GMO Coin Japan (Futures)
-gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
-gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 gmx-perpetuals-v2-solana,GMTrade
 goosefx,GooseFX
 gopax,GoPax
@@ -635,7 +624,6 @@ jaceswap,JaceSwap
 jaine,Jaine
 jediswap-starknet-alpha,JediSwap
 jellyswap,Jellyverse
-jojo-exchange-futures,JOJO Exchange
 jswap,Jswap
 juiceswap-v3,Juice Swap V3
 julswap,Julswap
@@ -739,7 +727,6 @@ lighter-spot,Lighter (Spot)
 line-hub-v3,Line Hub V3
 lithos,Lithos
 ln-exchange,LN Exchange
-ln-exchange-futures,LN Exchange (Futures)
 loopring,Loopring
 luno,Luno
 lydia_finance,Lydia Finance
@@ -814,8 +801,6 @@ mute,Koi Finance
 mxc,MEXC
 mxc_futures,MEXC (Futures)
 myswap-cl,mySwap-CL
-myx-bsc,MYX (BSC)
-myx-linea,MYX (Linea)
 nachoswap,NachoSwap
 nado,Nado
 nado-spot,Nado (Spot)
@@ -911,7 +896,6 @@ ostium,Ostium
 ourbit,Ourbit
 ourbit-futures,Ourbit (Futures)
 overlay-protocol,Overlay Protocol 
-ox-fun,Quanto
 p2pb2b,P2B
 pacaswap,Pacaswap
 pacifica,Pacifica
@@ -958,7 +942,6 @@ pearlfi-v1-5,PearlFi V1.5
 pearlfi-v2-re-al,PearlFi V2 (Re.al) 
 pegasys,Pegasys
 pegasys-v3-rollux,Pegasys V3 (Rollux)
-perpetual_protocol,Perpetual Protocol
 pharaoh-dlmm,Pharaoh DLMM
 pharaoh-exchange,Pharaoh Exchange V2
 pharaoh-exchange-legacy,Pharaoh Exchange Legacy
@@ -978,7 +961,6 @@ plunderswap,Plunderswap
 pointpay,PointPay
 polaris,Polaris
 poloniex,Poloniex
-poloniex_futures,Poloniex Futures
 polycat_finance,Polycat Finance
 pomswap,POMSwap
 pons-dot-family,Pons.family
@@ -988,7 +970,6 @@ poolshark,Poolshark
 potatoswap-v3,PotatoSwap V3
 potatoswap-x-layer,PotatoSwap (X Layer) 
 powertrade,Powertrade
-powertrade_derivatives,Powertrade (Derivatives)
 prime_xbt,PrimeXBT
 prism-megaeth,Prism
 project-x,Project X
@@ -1490,7 +1471,6 @@ zenlink_moonbeam,Zenlink (Moonbeam)
 zenlink_moonriver,Zenlink (Moonriver)
 zerofi,ZeroFi
 zipswap,ZipSwap
-zkera_finance,zkEra Finance
 zkswap-finance,zkSwap Finance
 zkswap-finance-stableswap,zkSwap Finance StableSwap
 zkswap-finance-v3-monad,zkSwap Finance V3 (Monad)
