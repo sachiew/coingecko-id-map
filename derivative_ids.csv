@@ -4,9 +4,9 @@ hyperliquid,Hyperliquid (Futures)
 bybit,Bybit (Futures)
 gate_futures,Gate (Futures)
 mxc_futures,MEXC (Futures)
-tapbit-futures,Tapbit (Futures)
 ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
+tapbit-futures,Tapbit (Futures)
 weex-futures,WEEX (Futures)
 bydfi-futures,BYDFi (Futures)
 xt_derivatives,XT.COM (Derivatives)
@@ -15,8 +15,8 @@ okex_swap,OKX (Futures)
 toobit_derivatives,Toobit Futures
 kumex,KuCoin Futures
 aivora-exchange-futures,Aivora Exchange (Futures)
-whitebit_futures,WhiteBIT Futures
 deribit,Deribit
+whitebit_futures,WhiteBIT Futures
 huobi_dm,HTX Futures
 bingx_futures,BingX (Futures)
 coinup-futures,CoinUp.io (Futures)
@@ -33,16 +33,16 @@ crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
-deepcoin_derivatives,Deepcoin (Derivatives)
-btcex_futures,BTCEX (Futures)
 prime_xbt,PrimeXBT
+btcex_futures,BTCEX (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 kcex-futures,KCEX (Futures)
-hotcoin-futures,Hotcoin (Futures)
 bitkan-futures,BitKan (Futures)
 bitvenus,BVOX (Futures)
 bulk,BULK
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
+hotcoin-futures,Hotcoin (Futures)
 evedex,EVEDEX
 kraken_futures,Kraken (Futures)
 grvt_futures,GRVT
@@ -64,8 +64,8 @@ ondo-perps,Ondo Perps
 io-trader,IO Trader
 nado,Nado
 bitmex,BitMEX (Derivative)
-standx,StandX
 backpack-futures,Backpack (Futures)
+standx,StandX
 vest-exchange-futures,Vest Exchange
 derive-futures,Derive (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
@@ -94,18 +94,19 @@ bigone_futures,BigONE Futures
 valr-futures,VALR Futures
 synthetix-perps,Synthetix
 delta_futures,Delta Exchange (Futures)
+gtrade-base,gTrade (Base)
 synfutures,SynFutures
 strike-finance,Strike Finance
 kiloex-bsc,KiloEx (BSC)
 dipcoin-futures,Dipcoin (Futures)
-gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
 gtrade-polygon,gTrade (Polygon)
-navigator,Navigator
 deriw,DeriW
+navigator,Navigator
 spacewhale,SpaceWhale
+bitflyer_futures,Bitflyer (Futures)
 coinflex_futures,CoinFLEX (Futures)
 cme_futures,CME Group
 vertex-edge-sonic,Vertex Edge (Sonic)
@@ -206,9 +207,8 @@ bluefin_futures,Bluefin (Futures)
 apex_pro,ApeX Pro
 vertex-edge-abstract,Vertex Edge (Abstract)
 orderly_network_derivatives,Orderly (Derivatives) (Near)
-myx-bsc,MYX (BSC)
 d8x-futures,D8X (Berachain)
 ox-fun,Quanto
 sunperp,Sunperp
+myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
-bitflyer_futures,Bitflyer (Futures)
