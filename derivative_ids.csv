@@ -5,8 +5,8 @@ bybit,Bybit (Futures)
 gate_futures,Gate (Futures)
 mxc_futures,MEXC (Futures)
 ftx,FTX (Derivatives)
-coinw_futures,CoinW (Futures)
 tapbit-futures,Tapbit (Futures)
+coinw_futures,CoinW (Futures)
 weex-futures,WEEX (Futures)
 bydfi-futures,BYDFi (Futures)
 xt_derivatives,XT.COM (Derivatives)
@@ -33,26 +33,26 @@ crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
 blofin,BloFin (Futures)
 lighter,Lighter
-prime_xbt,PrimeXBT
 btcex_futures,BTCEX (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
+prime_xbt,PrimeXBT
 kcex-futures,KCEX (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
+hotcoin-futures,Hotcoin (Futures)
 bitkan-futures,BitKan (Futures)
-bitvenus,BVOX (Futures)
 bulk,BULK
 zoomex-futures,Zoomex (Futures)
+bitvenus,BVOX (Futures)
 edgex,edgeX
-hotcoin-futures,Hotcoin (Futures)
 evedex,EVEDEX
 kraken_futures,Kraken (Futures)
 grvt_futures,GRVT
 bitrue_futures,Bitrue (Futures)
+gmx-perpetuals-v2-solana,GMTrade
 biconomy-futures,Biconomy (Futures)
 antarctic,Antarctic 
-gmx-perpetuals-v2-solana,GMTrade
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-dmex,DMEX
 extended,Extended
+dmex,DMEX
 ostium,Ostium
 qfex,QFEX
 coinex_futures,CoinEx (Futures)
@@ -61,8 +61,8 @@ apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 pacifica,Pacifica
 ondo-perps,Ondo Perps
-io-trader,IO Trader
 nado,Nado
+io-trader,IO Trader
 bitmex,BitMEX (Derivative)
 backpack-futures,Backpack (Futures)
 standx,StandX
@@ -78,8 +78,8 @@ arcus-futures,Arcus (Futures)
 woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
 hitbtc_derivatives,HitBTC (Derivatives)
-astros,Astros
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
+astros,Astros
 hashkey-global-futures,HashKey Global (Futures)
 gate-perp-dex,Gate DEX
 paradex,Paradex
@@ -101,10 +101,10 @@ kiloex-bsc,KiloEx (BSC)
 dipcoin-futures,Dipcoin (Futures)
 kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
-sparkdex-perps,SparkDEX Perps
 gtrade-polygon,gTrade (Polygon)
-deriw,DeriW
+sparkdex-perps,SparkDEX Perps
 navigator,Navigator
+deriw,DeriW
 spacewhale,SpaceWhale
 bitflyer_futures,Bitflyer (Futures)
 coinflex_futures,CoinFLEX (Futures)
