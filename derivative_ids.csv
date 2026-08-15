@@ -1,11 +1,11 @@
 id,name
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
-bybit,Bybit (Futures)
 coinw_futures,CoinW (Futures)
+bybit,Bybit (Futures)
 gate_futures,Gate (Futures)
-tapbit-futures,Tapbit (Futures)
 mxc_futures,MEXC (Futures)
+tapbit-futures,Tapbit (Futures)
 ftx,FTX (Derivatives)
 weex-futures,WEEX (Futures)
 bydfi-futures,BYDFi (Futures)
@@ -13,8 +13,8 @@ bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
 kumex,KuCoin Futures
-toobit_derivatives,Toobit Futures
 deribit,Deribit
+toobit_derivatives,Toobit Futures
 whitebit_futures,WhiteBIT Futures
 aivora-exchange-futures,Aivora Exchange (Futures)
 huobi_dm,HTX Futures
@@ -38,8 +38,8 @@ btcex_futures,BTCEX (Futures)
 kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
-bitkan-futures,BitKan (Futures)
 bulk,BULK
+bitkan-futures,BitKan (Futures)
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
 bitvenus,BVOX (Futures)
@@ -62,8 +62,8 @@ pacifica,Pacifica
 ondo-perps,Ondo Perps
 io-trader,IO Trader
 backpack-futures,Backpack (Futures)
-nado,Nado
 standx,StandX
+nado,Nado
 bitmex,BitMEX (Derivative)
 gmx-perpetuals-v2-solana,GMTrade
 derive-futures,Derive (Futures)
