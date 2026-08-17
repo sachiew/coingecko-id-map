@@ -13,15 +13,15 @@ bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
 kumex,KuCoin Futures
+toobit_derivatives,Toobit Futures
 whitebit_futures,WhiteBIT Futures
 aivora-exchange-futures,Aivora Exchange (Futures)
-toobit_derivatives,Toobit Futures
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
 bitmart_futures,Bitmart Futures
 deribit,Deribit
-lbank-futures,LBank (Futures)
 bingx_futures,BingX (Futures)
+lbank-futures,LBank (Futures)
 bitunix_futures,Bitunix Futures
 phemex_futures,Phemex (Futures)
 aster,Aster (Futures)
@@ -32,9 +32,9 @@ orangex_futures,OrangeX Futures
 bitfinex_futures,Bitfinex (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 blofin,BloFin (Futures)
+prime_xbt,PrimeXBT
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
-prime_xbt,PrimeXBT
 kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
 bulk,BULK
@@ -55,9 +55,9 @@ coinex_futures,CoinEx (Futures)
 ostium,Ostium
 alphax-futures,AlphaX (Futures)
 qfex,QFEX
+gmx-perpetuals-v2-solana,GMTrade
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
-gmx-perpetuals-v2-solana,GMTrade
 pacifica,Pacifica
 ondo-perps,Ondo Perps
 io-trader,IO Trader
@@ -67,15 +67,15 @@ nado,Nado
 standx,StandX
 derive-futures,Derive (Futures)
 vest-exchange-futures,Vest Exchange
-orderly_network_derivatives_evm,Orderly (Derivatives)
 niza-fun-futures,Niza.fun (Futures)
+orderly_network_derivatives_evm,Orderly (Derivatives)
 globe_exchange_derivatives,Globe (Derivatives)
-dydx_chain,dYdX Chain
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
+dydx_chain,dYdX Chain
 risex,RISEx
 kalshi,Kalshi
-bullish-futures,Bullish (Futures)
 arcus-futures,Arcus (Futures)
+bullish-futures,Bullish (Futures)
 aqx_derivatives,Flipster
 woo_network_futures,WOO X (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
@@ -94,8 +94,8 @@ bigone_futures,BigONE Futures
 valr-futures,VALR Futures
 synthetix-perps,Synthetix
 delta_futures,Delta Exchange (Futures)
-strike-finance,Strike Finance
 synfutures,SynFutures
+strike-finance,Strike Finance
 dipcoin-futures,Dipcoin (Futures)
 kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
