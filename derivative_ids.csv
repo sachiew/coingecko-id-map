@@ -35,7 +35,6 @@ blofin,BloFin (Futures)
 lighter,Lighter
 prime_xbt,PrimeXBT
 btcex_futures,BTCEX (Futures)
-hotcoin-futures,Hotcoin (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 kcex-futures,KCEX (Futures)
 bulk,BULK
@@ -51,8 +50,9 @@ coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 dmex,DMEX
 extended,Extended
 ostium,Ostium
-coinex_futures,CoinEx (Futures)
+hotcoin-futures,Hotcoin (Futures)
 qfex,QFEX
+coinex_futures,CoinEx (Futures)
 levex-futures,LeveX (Futures)
 apex-omni,ApeX Omni
 pacifica,Pacifica
@@ -86,8 +86,8 @@ aevo,Aevo
 zb_derivatives,ZB (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
 decibel,Decibel
-katana-perps,Katana Perps
 gemini_derivatives,Gemini Derivatives
+katana-perps,Katana Perps
 injective_futures,Helix (Futures)
 bigone_futures,BigONE Futures
 valr-futures,VALR Futures
