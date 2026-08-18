@@ -1,5 +1,4 @@
 id,name
-alphax-futures,AlphaX (Futures)
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
 mxc_futures,MEXC (Futures)
@@ -32,18 +31,18 @@ btse_futures,BTSE (Futures)
 variational-omni,Variational Omni
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
-prime_xbt,PrimeXBT
 blofin,BloFin (Futures)
+prime_xbt,PrimeXBT
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
-hotcoin-futures,Hotcoin (Futures)
-kcex-futures,KCEX (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
+kcex-futures,KCEX (Futures)
 bulk,BULK
+hotcoin-futures,Hotcoin (Futures)
 bitkan-futures,BitKan (Futures)
 zoomex-futures,Zoomex (Futures)
-edgex,edgeX
 bitvenus,BVOX (Futures)
+edgex,edgeX
 evedex,EVEDEX
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
@@ -61,6 +60,7 @@ ondo-perps,Ondo Perps
 io-trader,IO Trader
 backpack-futures,Backpack (Futures)
 nado,Nado
+alphax-futures,AlphaX (Futures)
 bitmex,BitMEX (Derivative)
 standx,StandX
 derive-futures,Derive (Futures)
@@ -72,11 +72,11 @@ orderly_network_derivatives_evm,Orderly (Derivatives)
 niza-fun-futures,Niza.fun (Futures)
 risex,RISEx
 arcus-futures,Arcus (Futures)
-grvt_futures,GRVT
 bullish-futures,Bullish (Futures)
+grvt_futures,GRVT
 kalshi,Kalshi
-woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
+woo_network_futures,WOO X (Futures)
 hitbtc_derivatives,HitBTC (Derivatives)
 astros,Astros
 gate-perp-dex,Gate DEX
@@ -86,8 +86,8 @@ aevo,Aevo
 zb_derivatives,ZB (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
 decibel,Decibel
-gemini_derivatives,Gemini Derivatives
 katana-perps,Katana Perps
+gemini_derivatives,Gemini Derivatives
 injective_futures,Helix (Futures)
 bigone_futures,BigONE Futures
 valr-futures,VALR Futures
@@ -101,8 +101,8 @@ gtrade-base,gTrade (Base)
 kiloex-opbnb,KiloEx (opBnb)
 gmx-perpetuals-v2-solana,GMTrade
 gtrade-polygon,gTrade (Polygon)
-sparkdex-perps,SparkDEX Perps
 deriw,DeriW
+sparkdex-perps,SparkDEX Perps
 navigator,Navigator
 spacewhale,SpaceWhale
 bitflyer_futures,Bitflyer (Futures)
