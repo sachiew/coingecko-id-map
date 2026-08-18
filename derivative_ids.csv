@@ -1,9 +1,9 @@
 id,name
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
-mxc_futures,MEXC (Futures)
 gate_futures,Gate (Futures)
 bybit,Bybit (Futures)
+mxc_futures,MEXC (Futures)
 tapbit-futures,Tapbit (Futures)
 ftx,FTX (Derivatives)
 coinw_futures,CoinW (Futures)
@@ -32,17 +32,17 @@ variational-omni,Variational Omni
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
 blofin,BloFin (Futures)
-lighter,Lighter
 prime_xbt,PrimeXBT
+lighter,Lighter
 deepcoin_derivatives,Deepcoin (Derivatives)
 btcex_futures,BTCEX (Futures)
-kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
+kcex-futures,KCEX (Futures)
 bulk,BULK
 bitkan-futures,BitKan (Futures)
 zoomex-futures,Zoomex (Futures)
-edgex,edgeX
 bitvenus,BVOX (Futures)
+edgex,edgeX
 evedex,EVEDEX
 kraken_futures,Kraken (Futures)
 bitrue_futures,Bitrue (Futures)
@@ -51,27 +51,27 @@ coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 dmex,DMEX
 extended,Extended
 ostium,Ostium
-qfex,QFEX
 coinex_futures,CoinEx (Futures)
+qfex,QFEX
 gmx-perpetuals-v2-solana,GMTrade
-levex-futures,LeveX (Futures)
 apex-omni,ApeX Omni
+levex-futures,LeveX (Futures)
 pacifica,Pacifica
 ondo-perps,Ondo Perps
 io-trader,IO Trader
 alphax-futures,AlphaX (Futures)
 backpack-futures,Backpack (Futures)
+bitmex,BitMEX (Derivative)
 nado,Nado
 standx,StandX
 derive-futures,Derive (Futures)
-robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
-bitmex,BitMEX (Derivative)
 dydx_chain,dYdX Chain
-risex,RISEx
+robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-vest-exchange-futures,Vest Exchange
 orderly_network_derivatives_evm,Orderly (Derivatives)
 niza-fun-futures,Niza.fun (Futures)
+risex,RISEx
+vest-exchange-futures,Vest Exchange
 arcus-futures,Arcus (Futures)
 grvt_futures,GRVT
 bullish-futures,Bullish (Futures)
@@ -82,10 +82,10 @@ hitbtc_derivatives,HitBTC (Derivatives)
 astros,Astros
 paradex,Paradex
 hashkey-global-futures,HashKey Global (Futures)
+gate-perp-dex,Gate DEX
 aevo,Aevo
 gtrade-arbitrum,gTrade (Arbitrum)
 zb_derivatives,ZB (Derivatives)
-gate-perp-dex,Gate DEX
 decibel,Decibel
 gemini_derivatives,Gemini Derivatives
 katana-perps,Katana Perps
