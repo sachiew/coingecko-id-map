@@ -6,12 +6,12 @@ bybit,Bybit (Futures)
 mxc_futures,MEXC (Futures)
 ftx,FTX (Derivatives)
 toobit_derivatives,Toobit Futures
+deribit,Deribit
 weex-futures,WEEX (Futures)
 bydfi-futures,BYDFi (Futures)
 tapbit-futures,Tapbit (Futures)
-deribit,Deribit
-bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
+bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
 coinw_futures,CoinW (Futures)
 kumex,KuCoin Futures
@@ -29,8 +29,8 @@ aster,Aster (Futures)
 ourbit-futures,Ourbit (Futures)
 btse_futures,BTSE (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
-variational-omni,Variational Omni
 deepcoin_derivatives,Deepcoin (Derivatives)
+variational-omni,Variational Omni
 bitfinex_futures,Bitfinex (Futures)
 prime_xbt,PrimeXBT
 blofin,BloFin (Futures)
@@ -50,16 +50,16 @@ bitrue_futures,Bitrue (Futures)
 biconomy-futures,Biconomy (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 dmex,DMEX
-coinex_futures,CoinEx (Futures)
 ostium,Ostium
 extended,Extended
 qfex,QFEX
+coinex_futures,CoinEx (Futures)
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 pacifica,Pacifica
 ondo-perps,Ondo Perps
-backpack-futures,Backpack (Futures)
 io-trader,IO Trader
+backpack-futures,Backpack (Futures)
 standx,StandX
 alphax-futures,AlphaX (Futures)
 bitmex,BitMEX (Derivative)
@@ -68,9 +68,9 @@ derive-futures,Derive (Futures)
 vest-exchange-futures,Vest Exchange
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-dydx_chain,dYdX Chain
 orderly_network_derivatives_evm,Orderly (Derivatives)
 niza-fun-futures,Niza.fun (Futures)
+dydx_chain,dYdX Chain
 risex,RISEx
 bullish-futures,Bullish (Futures)
 arcus-futures,Arcus (Futures)
@@ -79,9 +79,9 @@ woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
 astros,Astros
 hitbtc_derivatives,HitBTC (Derivatives)
-hashkey-global-futures,HashKey Global (Futures)
 gate-perp-dex,Gate DEX
 paradex,Paradex
+hashkey-global-futures,HashKey Global (Futures)
 aevo,Aevo
 zb_derivatives,ZB (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
