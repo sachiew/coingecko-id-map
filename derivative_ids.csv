@@ -40,7 +40,6 @@ btcex_futures,BTCEX (Futures)
 bulk,BULK
 bitkan-futures,BitKan (Futures)
 kcex-futures,KCEX (Futures)
-hotcoin-futures,Hotcoin (Futures)
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
 kraken_futures,Kraken (Futures)
@@ -52,8 +51,9 @@ bitrue_futures,Bitrue (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 dmex,DMEX
 coinex_futures,CoinEx (Futures)
-qfex,QFEX
 ostium,Ostium
+hotcoin-futures,Hotcoin (Futures)
+qfex,QFEX
 extended,Extended
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
@@ -63,9 +63,9 @@ backpack-futures,Backpack (Futures)
 io-trader,IO Trader
 derive-futures,Derive (Futures)
 alphax-futures,AlphaX (Futures)
-bitmex,BitMEX (Derivative)
-standx,StandX
 nado,Nado
+standx,StandX
+bitmex,BitMEX (Derivative)
 vest-exchange-futures,Vest Exchange
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
@@ -75,31 +75,31 @@ kalshi,Kalshi
 bullish-futures,Bullish (Futures)
 arcus-futures,Arcus (Futures)
 woo_network_futures,WOO X (Futures)
-aqx_derivatives,Flipster
 orderly_network_derivatives_evm,Orderly (Derivatives)
 niza-fun-futures,Niza.fun (Futures)
+aqx_derivatives,Flipster
 astros,Astros
 aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
-gate-perp-dex,Gate DEX
 paradex,Paradex
 zb_derivatives,ZB (Derivatives)
 hitbtc_derivatives,HitBTC (Derivatives)
 gtrade-arbitrum,gTrade (Arbitrum)
+gate-perp-dex,Gate DEX
 gemini_derivatives,Gemini Derivatives
 decibel,Decibel
 injective_futures,Helix (Futures)
-valr-futures,VALR Futures
 bigone_futures,BigONE Futures
+valr-futures,VALR Futures
 delta_futures,Delta Exchange (Futures)
 synthetix-perps,Synthetix
 katana-perps,Katana Perps
-synfutures,SynFutures
 strike-finance,Strike Finance
+synfutures,SynFutures
 gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
-dipcoin-futures,Dipcoin (Futures)
 kiloex-base,KiloEx (Base)
+dipcoin-futures,Dipcoin (Futures)
 kiloex-opbnb,KiloEx (opBnb)
 gtrade-polygon,gTrade (Polygon)
 sparkdex-perps,SparkDEX Perps
