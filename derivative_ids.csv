@@ -21,8 +21,8 @@ whitebit_futures,WhiteBIT Futures
 orangex_futures,OrangeX Futures
 huobi_dm,HTX Futures
 coinup-futures,CoinUp.io (Futures)
-bitmart_futures,Bitmart Futures
 deepcoin_derivatives,Deepcoin (Derivatives)
+bitmart_futures,Bitmart Futures
 lbank-futures,LBank (Futures)
 bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
@@ -43,24 +43,24 @@ bulk,BULK
 kcex-futures,KCEX (Futures)
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
-kraken_futures,Kraken (Futures)
 grvt_futures,GRVT
+kraken_futures,Kraken (Futures)
 evedex,EVEDEX
 biconomy-futures,Biconomy (Futures)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 bitrue_futures,Bitrue (Futures)
 dmex,DMEX
 ostium,Ostium
+qfex,QFEX
 coinex_futures,CoinEx (Futures)
 extended,Extended
-qfex,QFEX
 gmx-perpetuals-v2-solana,GMTrade
 apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 pacifica,Pacifica
 ondo-perps,Ondo Perps
-backpack-futures,Backpack (Futures)
 io-trader,IO Trader
+backpack-futures,Backpack (Futures)
 alphax-futures,AlphaX (Futures)
 bitmex,BitMEX (Derivative)
 nado,Nado
@@ -93,8 +93,8 @@ bigone_futures,BigONE Futures
 valr-futures,VALR Futures
 synthetix-perps,Synthetix
 delta_futures,Delta Exchange (Futures)
-synfutures,SynFutures
 strike-finance,Strike Finance
+synfutures,SynFutures
 katana-perps,Katana Perps
 dipcoin-futures,Dipcoin (Futures)
 kiloex-bsc,KiloEx (BSC)
@@ -105,8 +105,8 @@ sparkdex-perps,SparkDEX Perps
 gtrade-polygon,gTrade (Polygon)
 deriw,DeriW
 navigator,Navigator
+overlay-protocol,Overlay Protocol 
 spacewhale,SpaceWhale
-bitflyer_futures,Bitflyer (Futures)
 coinflex_futures,CoinFLEX (Futures)
 cme_futures,CME Group
 vertex-edge-sonic,Vertex Edge (Sonic)
@@ -201,7 +201,6 @@ gmx_arbitrum,GMX Derivatives (Arbitrum)
 cointr_derivatives,CoinTR Pro (Derivatives)
 antarctic,Antarctic 
 niza-fun,Niza.fun
-overlay-protocol,Overlay Protocol 
 fairdesk_derivatives,Fairdesk Derivatives
 bluefin_futures,Bluefin (Futures)
 apex_pro,ApeX Pro
@@ -212,3 +211,4 @@ ox-fun,Quanto
 sunperp,Sunperp
 myx-bsc,MYX (BSC)
 myx-linea,MYX (Linea)
+bitflyer_futures,Bitflyer (Futures)
