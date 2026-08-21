@@ -27,13 +27,13 @@ deribit,Deribit
 aster,Aster (Futures)
 ourbit-futures,Ourbit (Futures)
 phemex_futures,Phemex (Futures)
+bitvenus,BVOX (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 btse_futures,BTSE (Futures)
-bitvenus,BVOX (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
-prime_xbt,PrimeXBT
 variational-omni,Variational Omni
+prime_xbt,PrimeXBT
 blofin,BloFin (Futures)
 lighter,Lighter
 bulk,BULK
@@ -43,8 +43,8 @@ hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
-grvt_futures,GRVT
 kraken_futures,Kraken (Futures)
+grvt_futures,GRVT
 evedex,EVEDEX
 bitrue_futures,Bitrue (Futures)
 antarctic,Antarctic 
@@ -65,11 +65,11 @@ io-trader,IO Trader
 derive-futures,Derive (Futures)
 alphax-futures,AlphaX (Futures)
 nado,Nado
-standx,StandX
 bitmex,BitMEX (Derivative)
-vest-exchange-futures,Vest Exchange
+standx,StandX
 dydx_chain,dYdX Chain
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
+vest-exchange-futures,Vest Exchange
 globe_exchange_derivatives,Globe (Derivatives)
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
 risex,RISEx
@@ -83,15 +83,15 @@ niza-fun-futures,Niza.fun (Futures)
 astros,Astros
 aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
+gate-perp-dex,Gate DEX
 paradex,Paradex
 zb_derivatives,ZB (Derivatives)
 hitbtc_derivatives,HitBTC (Derivatives)
-gate-perp-dex,Gate DEX
 gtrade-arbitrum,gTrade (Arbitrum)
 decibel,Decibel
+delta_futures,Delta Exchange (Futures)
 gemini_derivatives,Gemini Derivatives
 injective_futures,Helix (Futures)
-delta_futures,Delta Exchange (Futures)
 bigone_futures,BigONE Futures
 valr-futures,VALR Futures
 synthetix-perps,Synthetix
@@ -101,8 +101,8 @@ strike-finance,Strike Finance
 gtrade-base,gTrade (Base)
 synfutures,SynFutures
 kiloex-bsc,KiloEx (BSC)
-dipcoin-futures,Dipcoin (Futures)
 kiloex-base,KiloEx (Base)
+dipcoin-futures,Dipcoin (Futures)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
 gtrade-polygon,gTrade (Polygon)
