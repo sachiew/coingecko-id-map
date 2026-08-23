@@ -27,8 +27,8 @@ bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 phemex_futures,Phemex (Futures)
 ourbit-futures,Ourbit (Futures)
-bitvenus,BVOX (Futures)
 btse_futures,BTSE (Futures)
+bitvenus,BVOX (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 bitfinex_futures,Bitfinex (Futures)
@@ -62,10 +62,10 @@ backpack-futures,Backpack (Futures)
 derive-futures,Derive (Futures)
 io-trader,IO Trader
 alphax-futures,AlphaX (Futures)
-nado,Nado
 standx,StandX
-gmx-perpetuals-v2-solana,GMTrade
+nado,Nado
 bitmex,BitMEX (Derivative)
+gmx-perpetuals-v2-solana,GMTrade
 globe_exchange_derivatives,Globe (Derivatives)
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
 risex,RISEx
@@ -73,31 +73,31 @@ dydx_chain,dYdX Chain
 vest-exchange-futures,Vest Exchange
 bullish-futures,Bullish (Futures)
 kalshi,Kalshi
-orderly_network_derivatives_evm,Orderly (Derivatives)
 niza-fun-futures,Niza.fun (Futures)
+orderly_network_derivatives_evm,Orderly (Derivatives)
 arcus-futures,Arcus (Futures)
 woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
 astros,Astros
 aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
-paradex,Paradex
 zb_derivatives,ZB (Derivatives)
+paradex,Paradex
 ostium,Ostium
-gate-perp-dex,Gate DEX
 hitbtc_derivatives,HitBTC (Derivatives)
 gemini_derivatives,Gemini Derivatives
 decibel,Decibel
-injective_futures,Helix (Futures)
+gate-perp-dex,Gate DEX
 gtrade-arbitrum,gTrade (Arbitrum)
+injective_futures,Helix (Futures)
+bulk,BULK
 valr-futures,VALR Futures
 bigone_futures,BigONE Futures
-bulk,BULK
 synthetix-perps,Synthetix
 katana-perps,Katana Perps
 delta_futures,Delta Exchange (Futures)
-synfutures,SynFutures
 strike-finance,Strike Finance
+synfutures,SynFutures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
@@ -105,8 +105,8 @@ dipcoin-futures,Dipcoin (Futures)
 kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
-deriw,DeriW
 gtrade-polygon,gTrade (Polygon)
+deriw,DeriW
 navigator,Navigator
 overlay-protocol,Overlay Protocol 
 cme_futures,CME Group
