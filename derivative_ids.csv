@@ -31,12 +31,12 @@ bitvenus,BVOX (Futures)
 btse_futures,BTSE (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitfinex_futures,Bitfinex (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 prime_xbt,PrimeXBT
+deepcoin_derivatives,Deepcoin (Derivatives)
 variational-omni,Variational Omni
 blofin,BloFin (Futures)
-btcex_futures,BTCEX (Futures)
 lighter,Lighter
+btcex_futures,BTCEX (Futures)
 bitkan-futures,BitKan (Futures)
 hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
@@ -53,7 +53,6 @@ dmex,DMEX
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 qfex,QFEX
 extended,Extended
-ostium,Ostium
 gmx-perpetuals-v2-solana,GMTrade
 coinex_futures,CoinEx (Futures)
 apex-omni,ApeX Omni
@@ -65,8 +64,8 @@ robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
 derive-futures,Derive (Futures)
 io-trader,IO Trader
 standx,StandX
-alphax-futures,AlphaX (Futures)
 nado,Nado
+alphax-futures,AlphaX (Futures)
 bitmex,BitMEX (Derivative)
 globe_exchange_derivatives,Globe (Derivatives)
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
@@ -77,28 +76,29 @@ kalshi,Kalshi
 bullish-futures,Bullish (Futures)
 orderly_network_derivatives_evm,Orderly (Derivatives)
 niza-fun-futures,Niza.fun (Futures)
-woo_network_futures,WOO X (Futures)
 arcus-futures,Arcus (Futures)
+woo_network_futures,WOO X (Futures)
 aqx_derivatives,Flipster
 astros,Astros
 aevo,Aevo
 hashkey-global-futures,HashKey Global (Futures)
 paradex,Paradex
 zb_derivatives,ZB (Derivatives)
+ostium,Ostium
 decibel,Decibel
 hitbtc_derivatives,HitBTC (Derivatives)
-gate-perp-dex,Gate DEX
 gemini_derivatives,Gemini Derivatives
+gate-perp-dex,Gate DEX
 gtrade-arbitrum,gTrade (Arbitrum)
 injective_futures,Helix (Futures)
 bigone_futures,BigONE Futures
-delta_futures,Delta Exchange (Futures)
-synthetix-perps,Synthetix
 valr-futures,VALR Futures
+synthetix-perps,Synthetix
+delta_futures,Delta Exchange (Futures)
 katana-perps,Katana Perps
 synfutures,SynFutures
-strike-finance,Strike Finance
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
+strike-finance,Strike Finance
 kiloex-bsc,KiloEx (BSC)
 gtrade-base,gTrade (Base)
 kiloex-base,KiloEx (Base)
@@ -106,8 +106,8 @@ dipcoin-futures,Dipcoin (Futures)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
 gtrade-polygon,gTrade (Polygon)
-navigator,Navigator
 deriw,DeriW
+navigator,Navigator
 overlay-protocol,Overlay Protocol 
 cme_futures,CME Group
 myx-linea,MYX (Linea)
