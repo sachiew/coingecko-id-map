@@ -1,8 +1,8 @@
 id,name
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
-mxc_futures,MEXC (Futures)
 bybit,Bybit (Futures)
+mxc_futures,MEXC (Futures)
 ftx,FTX (Derivatives)
 gate_futures,Gate (Futures)
 weex-futures,WEEX (Futures)
@@ -27,8 +27,8 @@ deribit,Deribit
 aster,Aster (Futures)
 ourbit-futures,Ourbit (Futures)
 phemex_futures,Phemex (Futures)
-btse_futures,BTSE (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
+btse_futures,BTSE (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 bitvenus,BVOX (Futures)
 bitfinex_futures,Bitfinex (Futures)
@@ -38,10 +38,10 @@ blofin,BloFin (Futures)
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
 bitkan-futures,BitKan (Futures)
-hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
 edgex,edgeX
 zoomex-futures,Zoomex (Futures)
+hotcoin-futures,Hotcoin (Futures)
 evedex,EVEDEX
 grvt_futures,GRVT
 kraken_futures,Kraken (Futures)
@@ -50,8 +50,8 @@ bitrue_futures,Bitrue (Futures)
 biconomy-futures,Biconomy (Futures)
 dmex,DMEX
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
-qfex,QFEX
 gmx-perpetuals-v2-solana,GMTrade
+qfex,QFEX
 ostium,Ostium
 extended,Extended
 coinex_futures,CoinEx (Futures)
@@ -59,8 +59,8 @@ apex-omni,ApeX Omni
 levex-futures,LeveX (Futures)
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
 pacifica,Pacifica
-ondo-perps,Ondo Perps
 bulk,BULK
+ondo-perps,Ondo Perps
 backpack-futures,Backpack (Futures)
 derive-futures,Derive (Futures)
 alphax-futures,AlphaX (Futures)
@@ -91,11 +91,11 @@ hitbtc_derivatives,HitBTC (Derivatives)
 decibel,Decibel
 gtrade-arbitrum,gTrade (Arbitrum)
 injective_futures,Helix (Futures)
-bigone_futures,BigONE Futures
 valr-futures,VALR Futures
+bigone_futures,BigONE Futures
 synthetix-perps,Synthetix
-katana-perps,Katana Perps
 delta_futures,Delta Exchange (Futures)
+katana-perps,Katana Perps
 synfutures,SynFutures
 gtrade-base,gTrade (Base)
 strike-finance,Strike Finance
@@ -105,8 +105,8 @@ dipcoin-futures,Dipcoin (Futures)
 kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
-deriw,DeriW
 gtrade-polygon,gTrade (Polygon)
+deriw,DeriW
 navigator,Navigator
 overlay-protocol,Overlay Protocol 
 cme_futures,CME Group
