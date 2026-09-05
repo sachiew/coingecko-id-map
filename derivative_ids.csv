@@ -3,10 +3,10 @@ binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
 bybit,Bybit (Futures)
 mxc_futures,MEXC (Futures)
-gate_futures,Gate (Futures)
-ftx,FTX (Derivatives)
-weex-futures,WEEX (Futures)
 coinw_futures,CoinW (Futures)
+ftx,FTX (Derivatives)
+gate_futures,Gate (Futures)
+weex-futures,WEEX (Futures)
 tapbit-futures,Tapbit (Futures)
 okex_swap,OKX (Futures)
 bitget_futures,Bitget Futures
@@ -15,12 +15,12 @@ aivora-exchange-futures,Aivora Exchange (Futures)
 whitebit_futures,WhiteBIT Futures
 kumex,KuCoin Futures
 huobi_dm,HTX Futures
-toobit_derivatives,Toobit Futures
 coinup-futures,CoinUp.io (Futures)
-orangex_futures,OrangeX Futures
+toobit_derivatives,Toobit Futures
 lbank-futures,LBank (Futures)
-bingx_futures,BingX (Futures)
+orangex_futures,OrangeX Futures
 bitmart_futures,Bitmart Futures
+bingx_futures,BingX (Futures)
 bitunix_futures,Bitunix Futures
 aster,Aster (Futures)
 deribit,Deribit
@@ -35,8 +35,8 @@ bitvenus,BVOX (Futures)
 lighter,Lighter
 btcex_futures,BTCEX (Futures)
 bitkan-futures,BitKan (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 bitfinex_futures,Bitfinex (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 hotcoin-futures,Hotcoin (Futures)
 kcex-futures,KCEX (Futures)
 zoomex-futures,Zoomex (Futures)
@@ -64,12 +64,12 @@ ondo-perps,Ondo Perps
 io-trader,IO Trader
 nado,Nado
 alphax-futures,AlphaX (Futures)
-sodex-futures,SoDEX (Futures)
 gmx-perpetuals-v2-solana,GMTrade
+sodex-futures,SoDEX (Futures)
 derive-futures,Derive (Futures)
 standx,StandX
-vest-exchange-futures,Vest Exchange
 dydx_chain,dYdX Chain
+vest-exchange-futures,Vest Exchange
 globe_exchange_derivatives,Globe (Derivatives)
 risex,RISEx
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
@@ -95,8 +95,8 @@ bigone_futures,BigONE Futures
 valr-futures,VALR Futures
 katana-perps,Katana Perps
 synthetix-perps,Synthetix
-delta_futures,Delta Exchange (Futures)
 strike-finance,Strike Finance
+delta_futures,Delta Exchange (Futures)
 synfutures,SynFutures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 dipcoin-futures,Dipcoin (Futures)
