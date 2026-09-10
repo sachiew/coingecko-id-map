@@ -28,9 +28,9 @@ bitunix_futures,Bitunix Futures
 phemex_futures,Phemex (Futures)
 btse_futures,BTSE (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
-variational-omni,Variational Omni
 deepcoin_derivatives,Deepcoin (Derivatives)
 prime_xbt,PrimeXBT
+variational-omni,Variational Omni
 blofin,BloFin (Futures)
 bitvenus,BVOX (Futures)
 lighter,Lighter
@@ -44,14 +44,14 @@ edgex,edgeX
 evedex,EVEDEX
 kraken_futures,Kraken (Futures)
 grvt_futures,GRVT
-bitrue_futures,Bitrue (Futures)
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
-bulk,BULK
+bitrue_futures,Bitrue (Futures)
 antarctic,Antarctic 
+bulk,BULK
 biconomy-futures,Biconomy (Futures)
+gmx-perpetuals-v2-solana,GMTrade
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 dmex,DMEX
-gmx-perpetuals-v2-solana,GMTrade
 qfex,QFEX
 ostium,Ostium
 extended,Extended
@@ -62,8 +62,8 @@ backpack-futures,Backpack (Futures)
 sodex-futures,SoDEX (Futures)
 pacifica,Pacifica
 bydfi-futures,BYDFi (Futures)
-ondo-perps,Ondo Perps
 alphax-futures,AlphaX (Futures)
+ondo-perps,Ondo Perps
 io-trader,IO Trader
 nado,Nado
 vest-exchange-futures,Vest Exchange
@@ -93,8 +93,8 @@ gemini_derivatives,Gemini Derivatives
 hitbtc_derivatives,HitBTC (Derivatives)
 bigone_futures,BigONE Futures
 valr-futures,VALR Futures
-katana-perps,Katana Perps
 strike-finance,Strike Finance
+katana-perps,Katana Perps
 delta_futures,Delta Exchange (Futures)
 synthetix-perps,Synthetix
 synfutures,SynFutures
@@ -105,7 +105,7 @@ kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
 sparkdex-perps,SparkDEX Perps
 deriw,DeriW
-overlay-protocol,Overlay Protocol 
+vertex-edge-abstract,Vertex Edge (Abstract)
 bitflyer_futures,Bitflyer (Futures)
 orderly_network_derivatives,Orderly (Derivatives) (Near)
 coinflex_futures,CoinFLEX (Futures)
@@ -205,10 +205,10 @@ gmx_avalanche,GMX Derivatives (Avalanche)
 gmx_arbitrum,GMX Derivatives (Arbitrum)
 cointr_derivatives,CoinTR Pro (Derivatives)
 niza-fun,Niza.fun
+overlay-protocol,Overlay Protocol 
 fairdesk_derivatives,Fairdesk Derivatives
 d8x-futures,D8X (Berachain)
 apex_pro,ApeX Pro
 ox-fun,Quanto
 sunperp,Sunperp
 bluefin_futures,Bluefin (Futures)
-vertex-edge-abstract,Vertex Edge (Abstract)
