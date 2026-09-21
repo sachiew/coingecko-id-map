@@ -22,12 +22,12 @@ lbank-futures,LBank (Futures)
 kumex,KuCoin Futures
 ourbit-futures,Ourbit (Futures)
 bitmart_futures,Bitmart Futures
-deribit,Deribit
 deepcoin_derivatives,Deepcoin (Derivatives)
+deribit,Deribit
 aster,Aster (Futures)
 phemex_futures,Phemex (Futures)
-bitunix_futures,Bitunix Futures
 btse_futures,BTSE (Futures)
+bitunix_futures,Bitunix Futures
 crypto_com_futures,Crypto.com Exchange (Futures)
 prime_xbt,PrimeXBT
 variational-omni,Variational Omni
@@ -36,11 +36,11 @@ bitkan-futures,BitKan (Futures)
 lighter,Lighter
 blofin,BloFin (Futures)
 btcex_futures,BTCEX (Futures)
-bitfinex_futures,Bitfinex (Futures)
 bulk,BULK
-kcex-futures,KCEX (Futures)
+bitfinex_futures,Bitfinex (Futures)
 hotcoin-futures,Hotcoin (Futures)
 evedex,EVEDEX
+kcex-futures,KCEX (Futures)
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
 kraken_futures,Kraken (Futures)
@@ -54,23 +54,23 @@ dmex,DMEX
 qfex,QFEX
 gmx-perpetuals-v2-solana,GMX Perpetuals V2 (Solana)
 extended,Extended
+ostium,Ostium
 levex-futures,LeveX (Futures)
 apex-omni,ApeX Omni
-ostium,Ostium
 sodex-futures,SoDEX (Futures)
 alphax-futures,AlphaX (Futures)
 bydfi-futures,BYDFi (Futures)
-backpack-futures,Backpack (Futures)
 pacifica,Pacifica
+backpack-futures,Backpack (Futures)
 derive-futures,Derive (Futures)
-nado,Nado
 ondo-perps,Ondo Perps
-vest-exchange-futures,Vest Exchange
+nado,Nado
 io-trader,IO Trader
 orderly_network_derivatives_evm,Orderly (Derivatives)
+vest-exchange-futures,Vest Exchange
 coinex_futures,CoinEx (Futures)
-globe_exchange_derivatives,Globe (Derivatives)
 kalshi,Kalshi
+globe_exchange_derivatives,Globe (Derivatives)
 standx,StandX
 bullish-futures,Bullish (Futures)
 risex,RISEx
@@ -93,11 +93,11 @@ bigone_futures,BigONE Futures
 valr-futures,VALR Futures
 gemini_derivatives,Gemini Derivatives
 katana-perps,Katana Perps
-delta_futures,Delta Exchange (Futures)
-synfutures,SynFutures
 strike-finance,Strike Finance
-synthetix-perps,Synthetix
+synfutures,SynFutures
+delta_futures,Delta Exchange (Futures)
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
+synthetix-perps,Synthetix
 kiloex-bsc,KiloEx (BSC)
 dipcoin-futures,Dipcoin (Futures)
 kiloex-base,KiloEx (Base)
