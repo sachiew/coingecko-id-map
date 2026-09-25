@@ -9,8 +9,8 @@ ftx,FTX (Derivatives)
 weex-futures,WEEX (Futures)
 tapbit-futures,Tapbit (Futures)
 bitget_futures,Bitget Futures
-okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
+okex_swap,OKX (Futures)
 orangex_futures,OrangeX Futures
 toobit_derivatives,Toobit Futures
 aivora-exchange-futures,Aivora Exchange (Futures)
@@ -23,8 +23,8 @@ kumex,KuCoin Futures
 deribit,Deribit
 ourbit-futures,Ourbit (Futures)
 aster,Aster (Futures)
-bitunix_futures,Bitunix Futures
 phemex_futures,Phemex (Futures)
+bitunix_futures,Bitunix Futures
 btse_futures,BTSE (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 variational-omni,Variational Omni
@@ -35,13 +35,13 @@ bitkan-futures,BitKan (Futures)
 lighter,Lighter
 evedex,EVEDEX
 blofin,BloFin (Futures)
+bitrue_futures,Bitrue (Futures)
 btcex_futures,BTCEX (Futures)
 bitfinex_futures,Bitfinex (Futures)
 kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
 zoomex-futures,Zoomex (Futures)
 edgex,edgeX
-bitrue_futures,Bitrue (Futures)
 kraken_futures,Kraken (Futures)
 grvt_futures,GRVT
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
@@ -53,8 +53,8 @@ gmx-perpetuals-v2-solana,GMX Perpetuals V2 (Solana)
 coinbase_international_derivatives,Coinbase International Exchange (Derivatives)
 extended,Extended
 ostium,Ostium
-sodex-futures,SoDEX (Futures)
 levex-futures,LeveX (Futures)
+sodex-futures,SoDEX (Futures)
 apex-omni,ApeX Omni
 bulk,BULK
 pacifica,Pacifica
@@ -62,73 +62,73 @@ bydfi-futures,BYDFi (Futures)
 backpack-futures,Backpack (Futures)
 alphax-futures,AlphaX (Futures)
 nado,Nado
-ondo-perps,Ondo Perps
 derive-futures,Derive (Futures)
+ondo-perps,Ondo Perps
 orderly_network_derivatives_evm,Orderly (Derivatives)
 io-trader,IO Trader
 kalshi,Kalshi
-globe_exchange_derivatives,Globe (Derivatives)
 vest-exchange-futures,Vest Exchange
+globe_exchange_derivatives,Globe (Derivatives)
 risex,RISEx
-dydx_chain,dYdX Chain
-gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
-bullish-futures,Bullish (Futures)
 standx,StandX
+gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
+dydx_chain,dYdX Chain
+bullish-futures,Bullish (Futures)
 niza-fun-futures,Niza.fun (Futures)
 arcus-futures,Arcus (Futures)
 aqx_derivatives,Flipster
+paradex,Paradex
 aevo,Aevo
 woo_network_futures,WOO X (Futures)
-paradex,Paradex
 astros,Astros
 zb_derivatives,ZB (Derivatives)
 gate-perp-dex,Gate DEX
 hashkey-global-futures,HashKey Global (Futures)
 valr-futures,VALR Futures
-hitbtc_derivatives,HitBTC (Derivatives)
-bigone_futures,BigONE Futures
 injective_futures,Helix (Futures)
-decibel,Decibel
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
+decibel,Decibel
+bigone_futures,BigONE Futures
+hitbtc_derivatives,HitBTC (Derivatives)
 gemini_derivatives,Gemini Derivatives
 katana-perps,Katana Perps
 strike-finance,Strike Finance
 synthetix-perps,Synthetix
 synfutures,SynFutures
 delta_futures,Delta Exchange (Futures)
-kiloex-bsc,KiloEx (BSC)
 sparkdex-perps,SparkDEX Perps
+kiloex-bsc,KiloEx (BSC)
 dipcoin-futures,Dipcoin (Futures)
 kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
 deriw,DeriW
 overlay-protocol,Overlay Protocol 
 spacewhale,SpaceWhale
+orderly_network_derivatives,Orderly (Derivatives) (Near)
 myx-bsc,MYX (BSC)
-myx-linea,MYX (Linea)
 bitflyer_futures,Bitflyer (Futures)
+myx-linea,MYX (Linea)
 coinflex_futures,CoinFLEX (Futures)
 cme_futures,CME Group
-gtrade-polygon,gTrade (Polygon)
 vertex-edge-sonic,Vertex Edge (Sonic)
 bitforex_futures,Bitforex (Futures)
+gtrade-polygon,gTrade (Polygon)
 gtrade-base,gTrade (Base)
 gtrade-arbitrum,gTrade (Arbitrum)
 defx,Defx
 vertex-edge-base,Vertex Edge (Base)
-fwx-futures,FWX (Futures) (Avalanche)
 jex_futures,Binance JEX (Futures)
-ln-exchange-futures,LN Exchange (Futures)
+fwx-futures,FWX (Futures) (Avalanche)
 bitz_futures,BitZ (Futures)
+ln-exchange-futures,LN Exchange (Futures)
 spherex,SphereX
-jojo-exchange-futures,JOJO Exchange
 bibox_futures,Bibox (Futures)
 bakkt,Bakkt
 basefex,BaseFEX
-vertex-edge-sei,Vertex Edge (Sei)
+jojo-exchange-futures,JOJO Exchange
 gmo_japan_futures,GMO Coin Japan (Futures)
 hbtc_futures,BHEX (Futures)
-fwx-futures-base,FWX (Futures) (Base)
+vertex-edge-sei,Vertex Edge (Sei)
 dydx_perpetual_l1,dYdX Perpetual (L1)
 cointiger_futures,CoinTiger (Futures)
 hopex,Hopex
@@ -141,40 +141,41 @@ bithumb_futures,Bithumb (Futures)
 liquid_derivatives,Liquid Perpetuals
 duedex,DueDEX
 mcdex,MCDEX (Arbitrum)
+fwx-futures-base,FWX (Futures) (Base)
 gmx-perpetuals-v2-botanix,GMX Perpetuals V2 (Botanix)
-vertex-edge-mantle,Vertex Edge (Mantle)
 kwenta_derivatives,Synthetix Exchange
-monday-trade-perp-dex,Monday Trade Perp DEX
+vertex-edge-mantle,Vertex Edge (Mantle)
 mycoinstory,MCS
 aax_futures,AAX Futures
-zkera-finance-metis,zkEra Finance (Metis)
+monday-trade-perp-dex,Monday Trade Perp DEX
 poloniex_futures,Poloniex Futures
 acdx_futures,ACDX Futures
 stormgain_futures,Stormgain Futures
 c_trade,C-Trade
 futureswap,Futureswap
 bit_com_futures,BIT (Futures)
-aboard-exchange,Aboard Exchange
+zkera-finance-metis,zkEra Finance (Metis)
 alpha_five,Alpha5
 perpetual_protocol,Perpetual Protocol
 leverj,Leverj
 bullish_futures,Bullish Futures (OLD)
 flash-trade,Flash Trade
-blitz,Blitz
+aboard-exchange,Aboard Exchange
 equos_perpetual,EQONEX (Perpetual)
 dydx_perpetual,dYdX Perpetual (Ethereum)
+blitz,Blitz
 ebi-xyz,EBI.XYZ
 kiloex-manta-pacific,KiloEx (Manta Pacific)
 mcdex_bsc,MCDEX (BSC)
 merkle_trade,Merkle Trade
-equation,Equation
 fmex,FMex
 drift_protocol,Drift Protocol
 coinex_futures,CoinEx (Futures)
-ktx_finance_arbitrum_derivatives,KTX.Finance (Arbitrum)
+equation,Equation
 powertrade_derivatives,Powertrade (Derivatives)
-vertex-protocol,Vertex Protocol
+ktx_finance_arbitrum_derivatives,KTX.Finance (Arbitrum)
 btcc_futures,BTCC Futures
+vertex-protocol,Vertex Protocol
 coincall,Coincall
 enclave-markets,EnclaveX
 surf-protocol,Surf Protocol
@@ -209,7 +210,6 @@ bitmex,BitMEX (Derivative)
 apex_pro,ApeX Pro
 bluefin_futures,Bluefin (Futures)
 vertex-edge-abstract,Vertex Edge (Abstract)
-orderly_network_derivatives,Orderly (Derivatives) (Near)
 d8x-futures,D8X (Berachain)
 ox-fun,Quanto
 sunperp,Sunperp
