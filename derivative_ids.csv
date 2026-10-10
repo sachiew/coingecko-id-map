@@ -1,9 +1,9 @@
 id,name
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
+coinw_futures,CoinW (Futures)
 bybit,Bybit (Futures)
 gate_futures,Gate (Futures)
-coinw_futures,CoinW (Futures)
 mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
 ftx,FTX (Derivatives)
@@ -11,8 +11,8 @@ tapbit-futures,Tapbit (Futures)
 bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
-orangex_futures,OrangeX Futures
 toobit_derivatives,Toobit Futures
+orangex_futures,OrangeX Futures
 aivora-exchange-futures,Aivora Exchange (Futures)
 coinup-futures,CoinUp.io (Futures)
 whitebit_futures,WhiteBIT Futures
@@ -26,13 +26,13 @@ phemex_futures,Phemex (Futures)
 btse_futures,BTSE (Futures)
 ourbit-futures,Ourbit (Futures)
 variational-omni,Variational Omni
-bitunix_futures,Bitunix Futures
 evedex,EVEDEX
+bitunix_futures,Bitunix Futures
 bitrue_futures,Bitrue (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
+prime_xbt,PrimeXBT
 lighter,Lighter
 blofin,BloFin (Futures)
-prime_xbt,PrimeXBT
 btcex_futures,BTCEX (Futures)
 bitfinex_futures,Bitfinex (Futures)
 kcex-futures,KCEX (Futures)
@@ -59,15 +59,15 @@ backpack-futures,Backpack (Futures)
 bydfi-futures,BYDFi (Futures)
 ondo-perps,Ondo Perps
 io-trader,IO Trader
-alphax-futures,AlphaX (Futures)
 nado,Nado
+alphax-futures,AlphaX (Futures)
 kalshi,Kalshi
 risex,RISEx
 globe_exchange_derivatives,Globe (Derivatives)
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
+vest-exchange-futures,Vest Exchange
 orderly_network_derivatives_evm,Orderly (Derivatives)
 niza-fun-futures,Niza.fun (Futures)
-vest-exchange-futures,Vest Exchange
 bullish-futures,Bullish (Futures)
 dydx_chain,dYdX Chain
 standx,StandX
