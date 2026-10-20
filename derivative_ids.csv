@@ -2,13 +2,13 @@ id,name
 binance_futures,Binance (Futures)
 hyperliquid,Hyperliquid (Futures)
 gate_futures,Gate (Futures)
-mxc_futures,MEXC (Futures)
 bybit,Bybit (Futures)
+mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
 coinw_futures,CoinW (Futures)
 tapbit-futures,Tapbit (Futures)
-xt_derivatives,XT.COM (Derivatives)
 bitget_futures,Bitget Futures
+xt_derivatives,XT.COM (Derivatives)
 okex_swap,OKX (Futures)
 orangex_futures,OrangeX Futures
 toobit_derivatives,Toobit Futures
@@ -27,17 +27,17 @@ ourbit-futures,Ourbit (Futures)
 variational-omni,Variational Omni
 evedex,EVEDEX
 bitunix_futures,Bitunix Futures
-prime_xbt,PrimeXBT
 crypto_com_futures,Crypto.com Exchange (Futures)
+prime_xbt,PrimeXBT
 bitkan-futures,BitKan (Futures)
 lighter,Lighter
 blofin,BloFin (Futures)
 deepcoin_derivatives,Deepcoin (Derivatives)
 bitfinex_futures,Bitfinex (Futures)
-bitvenus,BVOX (Futures)
 kcex-futures,KCEX (Futures)
-hotcoin-futures,Hotcoin (Futures)
+bitvenus,BVOX (Futures)
 zoomex-futures,Zoomex (Futures)
+hotcoin-futures,Hotcoin (Futures)
 kraken_futures,Kraken (Futures)
 grvt_futures,GRVT
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
@@ -75,8 +75,8 @@ bitstamp-futures,Bitstamp by Robinhood (Futures)
 aevo,Aevo
 astros,Astros
 paradex,Paradex
-decibel,Decibel
 gate-perp-dex,Gate DEX
+decibel,Decibel
 bulk,BULK
 standx,StandX
 hashkey-global-futures,HashKey Global (Futures)
@@ -84,19 +84,19 @@ bigone_futures,BigONE Futures
 injective_futures,Helix (Futures)
 gemini_derivatives,Gemini Derivatives
 valr-futures,VALR Futures
-gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 hitbtc_derivatives,HitBTC (Derivatives)
+gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
+katana-perps,Katana Perps
 synfutures,SynFutures
 storm-trade,Storm Trade
-katana-perps,Katana Perps
 strike-finance,Strike Finance
 dipcoin-futures,Dipcoin (Futures)
 synthetix-perps,Synthetix
 turboflow,TurboFlow
 kiloex-bsc,KiloEx (BSC)
 delta_futures,Delta Exchange (Futures)
-kiloex-base,KiloEx (Base)
 sparkdex-perps,SparkDEX Perps
+kiloex-base,KiloEx (Base)
 kiloex-opbnb,KiloEx (opBnb)
 margin-trade-futures,Margin Trade (Futures)
 deriw,DeriW
