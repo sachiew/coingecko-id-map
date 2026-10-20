@@ -7,10 +7,10 @@ mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
 coinw_futures,CoinW (Futures)
 tapbit-futures,Tapbit (Futures)
-bitget_futures,Bitget Futures
 xt_derivatives,XT.COM (Derivatives)
-okex_swap,OKX (Futures)
+bitget_futures,Bitget Futures
 orangex_futures,OrangeX Futures
+okex_swap,OKX (Futures)
 toobit_derivatives,Toobit Futures
 whitebit_futures,WhiteBIT Futures
 coinup-futures,CoinUp.io (Futures)
@@ -29,28 +29,28 @@ crypto_com_futures,Crypto.com Exchange (Futures)
 evedex,EVEDEX
 bitunix_futures,Bitunix Futures
 prime_xbt,PrimeXBT
+deepcoin_derivatives,Deepcoin (Derivatives)
 bitkan-futures,BitKan (Futures)
 lighter,Lighter
 blofin,BloFin (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 bitfinex_futures,Bitfinex (Futures)
+bitvenus,BVOX (Futures)
 kcex-futures,KCEX (Futures)
 hotcoin-futures,Hotcoin (Futures)
 zoomex-futures,Zoomex (Futures)
-bitvenus,BVOX (Futures)
 kraken_futures,Kraken (Futures)
 grvt_futures,GRVT
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
 biconomy-futures,Biconomy (Futures)
-edgex,edgeX
 alphax-futures,AlphaX (Futures)
+edgex,edgeX
 antarctic,Antarctic 
 levex-futures,LeveX (Futures)
-sodex-futures,SoDEX (Futures)
 qfex,QFEX
+sodex-futures,SoDEX (Futures)
 arcus-futures,Arcus (Futures)
-extended,Extended
 gmx-perpetuals-v2-solana,GMX Perpetuals V2 (Solana)
+extended,Extended
 apex-omni,ApeX Omni
 pacifica,Pacifica
 backpack-futures,Backpack (Futures)
@@ -61,10 +61,10 @@ kalshi,Kalshi
 io-trader,IO Trader
 nado,Nado
 risex,RISEx
+vest-exchange-futures,Vest Exchange
 orderly_network_derivatives_evm,Orderly (Derivatives)
 niza-fun-futures,Niza.fun (Futures)
 globe_exchange_derivatives,Globe (Derivatives)
-vest-exchange-futures,Vest Exchange
 gmx-perpetuals-v2-arbitrum,GMX Perpetuals V2 (Arbitrum)
 bullish-futures,Bullish (Futures)
 dydx_chain,dYdX Chain
@@ -86,9 +86,9 @@ gemini_derivatives,Gemini Derivatives
 valr-futures,VALR Futures
 hitbtc_derivatives,HitBTC (Derivatives)
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
-storm-trade,Storm Trade
-katana-perps,Katana Perps
 synfutures,SynFutures
+katana-perps,Katana Perps
+storm-trade,Storm Trade
 strike-finance,Strike Finance
 dipcoin-futures,Dipcoin (Futures)
 delta_futures,Delta Exchange (Futures)
