@@ -1779,6 +1779,7 @@ aura-bal,Aura BAL,aurabal
 aurafarming,AuraFarming,aurafarm
 aura-farming-eagle,Aura Farming Eagle,eagle
 aura-final-boss,Aura Final Boss,kimchi
+aura-final-boss-2,Aura Final Boss,kimchi
 aura-finance,Aura Finance,aura
 aura-network,Aura Network,aura
 aura-network-old,Aura Network [OLD],aura
@@ -2840,6 +2841,7 @@ bl0ck,Bl0ck,bl0ck
 black-agnus,Black Agnus,ftw
 black-ball,Black Ball,blackball
 blackberry-backpack-securities,BlackBerry (Backpack Securities),bb
+blackberry-bstocks-tokenized-stock,Blackberry (bStocks Tokenized Stock),bbb
 blackberry-limited-robinhood-token,BlackBerry Limited • Robinhood Token,bb
 blackberry-rstock,BlackBerry Tokenized Stock (Reality),rbb
 blackbull,BlackBull,blackbull
@@ -3229,7 +3231,6 @@ boringdao,BoringDAO,boring
 boris-2,boris,boris
 bork-2,Bork,bork
 bork-on-ethereum,Bork on Ethereum,bork
-borly,Borly,borly
 borne,BORNE,borne
 born-in-19,Born in 19,19
 borpa,Borpa,borpa
@@ -4451,7 +4452,6 @@ claudia,CLAUDIA,claudia
 claudia-2,Claudia,claudia
 claudia-3,Claudia,claudia
 claudia-4,Claudia,claudia
-claudia-5,Claudia,claudia
 claudius,claudius,claudius
 claus,Claus,claus
 claus-2,claus,claus
@@ -5869,8 +5869,8 @@ direxion-daily-s-p-biotech-bear-3x-shares-etf-rstock,Direxion Daily S&P Biotech 
 direxion-daily-s-p-biotech-bull-3x-shares-etf-rstock,Direxion Daily S&P Biotech Bull 3x Shares ETF Tokenized Stock (Reality),rlabu
 direxion-daily-tsla-bear-1x-etf-shift-series-token,Direxion Daily TSLA Bear 1X ETF (SHIFT Series Token),tsl1s
 direxion-daily-tsla-bull-2x-etf-shift-series-token,Direxion Daily TSLA Bull 2X ETF (SHIFT Series Token),tsl2l
-direxion-mu-bull-2x-etf-bstocks-tokenized-stock,Direxion MU Bull 2X ETF (bStocks Tokenized Stock),muub
-direxion-semiconductor-bear-3x-etf-bstocks-tokenized-stock,Direxion Semiconductor Bear 3X ETF (bStocks Tokenized Stock),soxsb
+direxion-mu-bull-2x-etf-bstocks-tokenized-stock,Direxion MU Bull 2X ETF (bStocks Tokenized ETF),muub
+direxion-semiconductor-bear-3x-etf-bstocks-tokenized-stock,Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF),soxsb
 direxion-semiconductor-bull-3x-xstock,Direxion Semiconductor Bull 3X xStock,soxlx
 direxion-shares-etf-trust-direxion-daily-tsla-bull-2x-etf-dinari-tokenized-etf,Direxion Shares ETF Trust Direxion Daily TSLA Bull 2X ETF (Dinari Tokenized ETF),tsll
 disbelief,Disbelief,disbelief
@@ -8473,9 +8473,9 @@ grandpatrenchlive,GrandpaTrenchLive,gramps
 graniteshares-2x-long-coin-daily-etf-rstock,GraniteShares 2x Long COIN Daily ETF Tokenized Stock (Reality),rconl
 graniteshares-2x-long-dell-daily-etf-rstock,GraniteShares 2X Long DELL Daily ETF Tokenized Stock (Reality),rdlll
 graniteshares-2x-long-intc-daily-etf-rstock,GraniteShares 2X Long INTC Daily ETF Tokenized Stock (Reality),rintw
-graniteshares-2x-long-intc-etf-bstocks-tokenized-stock,GraniteShares 2X Long INTC ETF (bStocks Tokenized Stock),intwb
+graniteshares-2x-long-intc-etf-bstocks-tokenized-stock,GraniteShares 2X Long INTC ETF (bStocks Tokenized ETF),intwb
 graniteshares-2x-long-mrvl-daily-etf-rstock,GraniteShares 2X Long MRVL Daily ETF Tokenized Stock (Reality),rmvll
-graniteshares-2x-long-mrvl-etf-bstocks-tokenized-stock,GraniteShares 2X Long MRVL ETF (bStocks Tokenized Stock),mvllb
+graniteshares-2x-long-mrvl-etf-bstocks-tokenized-stock,GraniteShares 2X Long MRVL ETF (bStocks Tokenized ETF),mvllb
 graniteshares-2x-long-nvda-daily-etf-rstock,GraniteShares 2x Long NVDA Daily ETF Tokenized Stock (Reality),rnvdl
 graniteshares-2x-long-sk-hynix-daily-etf-rstock,GraniteShares 2x Long SK Hynix Daily ETF Tokenized Stock (Reality),rskuu
 graniteshares-2x-short-coin-daily-etf-astock,GraniteShares 2x Short COIN Daily ETF aStock,aconi
@@ -9923,7 +9923,7 @@ ishares-msci-india-index-etf-rstock,iShares MSCI India ETF Tokenized Stock (Real
 ishares-msci-japan-etf-ondo-tokenized,iShares MSCI Japan ETF (Ondo Tokenized),ewjon
 ishares-msci-japan-etf-rstock,iShares MSCI Japan ETF Tokenized Stock (Reality),rewj
 ishares-msci-south-korea-astock,iShares MSCI South Korea aStock,aewy
-ishares-msci-south-korea-etf-bstocks-tokenized-stock,iShares MSCI South Korea ETF (bStocks Tokenized Stock),ewyb
+ishares-msci-south-korea-etf-bstocks-tokenized-stock,iShares MSCI South Korea ETF (bStocks Tokenized ETF),ewyb
 ishares-msci-south-korea-etf-ondo-tokenized,iShares MSCI South Korea ETF (Ondo Tokenized),ewyon
 ishares-msci-south-korea-etf-rstock,iShares MSCI South Korea ETF Tokenized Stock (Reality),rewy
 ishares-msci-south-korea-fund-robinhood-tokenized-stock,iShares MSCI South Korea fund • Robinhood Token,ewy
@@ -12586,6 +12586,7 @@ money-printer,Money Printer,money
 money-sign,🤌 (Money Sign),🤌
 monezycoin,MonezyCoin,mzc
 mongcoin,MongCoin,mong
+mongodb-bstocks-tokenized-stock,MongoDB (bStocks Tokenized Stock),mdbb
 mongodb-robinhood-tokenized-stock,MongoDB • Robinhood Token,mdb
 mongodb-rstock,MongoDB Tokenized Stock (Reality),rmdb
 mongodb-xstock,MongoDB xStock,mdbx
@@ -14457,6 +14458,7 @@ peng,Peng,peng
 pengachu,Pengachu,pengachu
 peng-id,PENG ID,pengid
 penguin-finance,Penguin Finance,pefi
+penguin-solutions-bstocks-tokenized-stock,Penguin Solutions (bStocks Tokenized Stock),pengb
 penguin-solutions-ondo-tokenized,Penguin Solutions (Ondo Tokenized),pengon
 penguin-solutions-robinhood-tokenized-stock,Penguin Solutions • Robinhood Token,peng
 penguin-tariff,Penguin Tariff,pt
@@ -15304,6 +15306,7 @@ proshares-ultra-qqq-rstock,ProShares Ultra QQQ Tokenized Stock (Reality),rqld
 proshares-ultrashort-20-year-treasury-astock,ProShares UltraShort 20+ Year Treasury aStock,atbt
 proshares-ultrashort-s-p500-astock,ProShares UltraShort S&P500 aStock,asds
 proshares-ultra-sk-hynix-or-2x-long-sk-hynix-etf-rstock,ProShares Ultra SK Hynix Tokenized Stock (Reality),rskhu
+proshares-ultra-vix-short-term-futures-etf-bstocks-tokenized-etf,ProShares Ultra VIX Short-Term Futures ETF (bStocks Tokenized ETF),uvxyb
 proshares-ultra-vix-short-term-futures-etf-rstock,ProShares Ultra VIX Short-Term Futures ETF Tokenized Stock (Reality),ruvxy
 prospect-capital-dinari-tokenized-stock,Prospect Capital (Dinari Tokenized Stock),psec
 prospective,Prospective,pros
@@ -16393,7 +16396,7 @@ roundhill-magnificent-seven-etf-dinari-tokenized-etf,Roundhill Magnificent Seven
 roundhill-meme-stock-etf-astock,Roundhill Meme Stock ETF aStock,ameme
 roundhill-memory-etf-astock,Roundhill Memory ETF aStock,adram
 roundhill-memory-etf-backpack-securities,Roundhill Memory ETF (Backpack Securities),dram
-roundhill-memory-etf-bstocks-tokenized-stock,Roundhill Memory ETF (bStocks Tokenized Stock),dramb
+roundhill-memory-etf-bstocks-tokenized-stock,Roundhill Memory ETF (bStocks Tokenized ETF),dramb
 roundhill-memory-etf-ondo-tokenized,Roundhill Memory ETF (Ondo Tokenized),dramon
 roundhill-memory-etf-rstock,Roundhill Memory ETF Tokenized Stock (Reality),rdram
 roundhill-memory-etf-st0x-tokenized-etf,Roundhill Memory ETF (ST0x Tokenized ETF),wtdram
@@ -16864,7 +16867,7 @@ self-token,Self Token,self
 sellas-life-sciences-group-dinari-tokenized-stock,Sellas Life Sciences Group (Dinari Tokenized Stock),sls
 sellas-life-sciences-group-inc-robinhood-token,"SELLAS Life Sciences Group, Inc. • Robinhood Token",sls
 semantic-layer,Semantic Layer,42
-semicon-bull-3x-etf-bstocks-tokenized-stock,Semicon Bull 3X ETF (bStocks Tokenized Stock),soxlb
+semicon-bull-3x-etf-bstocks-tokenized-stock,Semicon Bull 3X ETF (bStocks Tokenized ETF),soxlb
 semivault-xyz,Semivault.xyz,semi
 sempra-energy-rstock,Sempra Tokenized Stock (Reality),rsre
 sempra-xstock,Sempra xStock,srex
@@ -17716,7 +17719,7 @@ southern-copper-xstock,Southern Copper xStock,sccox
 southern-ondo-tokenized-stock,Southern (Ondo Tokenized Stock),soon
 southern-rstock,Southern Tokenized Stock (Reality),rso
 southern-xstock,Southern xStock,sox
-south-korea-bull-3x-etf-bstocks-tokenized-stock,South Korea Bull 3X ETF (bStocks Tokenized Stock),korub
+south-korea-bull-3x-etf-bstocks-tokenized-stock,South Korea Bull 3X ETF (bStocks Tokenized ETF),korub
 south-korea-coin,South Korea Coin,korea
 southstate-corporation-rstock,SouthState Corporation Tokenized Stock (Reality),rssb
 southwest-airlines-co-backpack-securities,Southwest Airlines Co. (Backpack Securities),luv
@@ -18124,7 +18127,6 @@ starslax,StarSlax,sslx
 startale-usd,Startale USD,usdsc
 startup,Startup,startup
 startup-2,Startup,startup
-startupsi,startupSI,startupsi
 starworks-global-ecosystem,STARX,starx
 stash-inu,Stash Inu,stash
 stasis-eurs,STASIS EURO,eurs
@@ -19669,7 +19671,7 @@ tradoor,Tradoor,tradoor
 tradr-2x-long-asts-daily-etf-rstock,Tradr 2X Long ASTS Daily ETF Tokenized Stock (Reality),rastx
 tradr-2x-long-ibm-daily-etf-rstock,Tradr 2X Long IBM Daily ETF Tokenized Stock (Reality),ribx
 tradr-2x-long-sndk-daily-etf-rstock,Tradr 2X Long SNDK Daily ETF Tokenized Stock (Reality),rsnxx
-tradr-2x-long-sndk-etf-bstocks-tokenized-stock,Tradr 2X Long SNDK ETF (bStocks Tokenized Stock),snxxb
+tradr-2x-long-sndk-etf-bstocks-tokenized-stock,Tradr 2X Long SNDK ETF (bStocks Tokenized ETF),snxxb
 tradr-2x-short-sndk-daily-etf-rstock,Tradr 2X Short SNDK Daily ETF Tokenized Stock (Reality),rsndq
 tradr-2x-short-spacex-daily-etf-astock,Tradr 2X Short SpaceX Daily ETF aStock,aspcg
 tradr-2x-short-tsla-daily-etf-astock,Tradr 2X Short TSLA Daily ETF aStock,atslz
@@ -20418,7 +20420,7 @@ vaneck-rare-earth-and-strategic-metals-etf-dinari-tokenized-etf,VanEck Rare Eart
 vaneck-rare-earth-and-strategic-metals-etf-ondo-tokenized,VanEck Rare Earth and Strategic Metals ETF (Ondo Tokenized),remxon
 vaneck-rare-earth-and-strategic-metals-etf-rstock,VanEck Rare Earth and Strategic Metals ETF Tokenized Stock (Reality),rremx
 vaneck-semiconductor-astock,VanEck Semiconductor aStock,asmh
-vaneck-semiconductor-etf-bstocks-tokenized-stock,VanEck Semiconductor ETF (bStocks Tokenized Stock),smhb
+vaneck-semiconductor-etf-bstocks-tokenized-stock,VanEck Semiconductor ETF (bStocks Tokenized ETF),smhb
 vaneck-semiconductor-etf-dinari-tokenized-etf,VanEck Semiconductor ETF (Dinari Tokenized ETF),smh
 vaneck-semiconductor-etf-robinhood-token,VanEck Semiconductor ETF • Robinhood Token,smh
 vaneck-semiconductor-etf-rstock,VanEck Semiconductor ETF Tokenized Stock (Reality),rsmh
