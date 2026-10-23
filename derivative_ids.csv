@@ -7,16 +7,16 @@ mxc_futures,MEXC (Futures)
 weex-futures,WEEX (Futures)
 coinw_futures,CoinW (Futures)
 tapbit-futures,Tapbit (Futures)
-orangex_futures,OrangeX Futures
 xt_derivatives,XT.COM (Derivatives)
 bitget_futures,Bitget Futures
+orangex_futures,OrangeX Futures
 okex_swap,OKX (Futures)
 toobit_derivatives,Toobit Futures
 whitebit_futures,WhiteBIT Futures
 coinup-futures,CoinUp.io (Futures)
-bitrue_futures,Bitrue (Futures)
 kumex,KuCoin Futures
 bingx_futures,BingX (Futures)
+bitrue_futures,Bitrue (Futures)
 btse_futures,BTSE (Futures)
 lbank-futures,LBank (Futures)
 aster,Aster (Futures)
@@ -27,21 +27,22 @@ huobi_dm,HTX Futures
 variational-omni,Variational Omni
 evedex,EVEDEX
 bitunix_futures,Bitunix Futures
-crypto_com_futures,Crypto.com Exchange (Futures)
 prime_xbt,PrimeXBT
+crypto_com_futures,Crypto.com Exchange (Futures)
 bitkan-futures,BitKan (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 blofin,BloFin (Futures)
 lighter,Lighter
+deepcoin_derivatives,Deepcoin (Derivatives)
 bitfinex_futures,Bitfinex (Futures)
-bitvenus,BVOX (Futures)
 kcex-futures,KCEX (Futures)
+hotcoin-futures,Hotcoin (Futures)
+bitvenus,BVOX (Futures)
 zoomex-futures,Zoomex (Futures)
 kraken_futures,Kraken (Futures)
 grvt_futures,GRVT
-alphax-futures,AlphaX (Futures)
-robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
 biconomy-futures,Biconomy (Futures)
+robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
+alphax-futures,AlphaX (Futures)
 antarctic,Antarctic 
 levex-futures,LeveX (Futures)
 sodex-futures,SoDEX (Futures)
@@ -50,7 +51,6 @@ edgex,edgeX
 arcus-futures,Arcus (Futures)
 gmx-perpetuals-v2-solana,GMX Perpetuals V2 (Solana)
 extended,Extended
-hotcoin-futures,Hotcoin (Futures)
 apex-omni,ApeX Omni
 pacifica,Pacifica
 kalshi,Kalshi
@@ -76,8 +76,8 @@ aevo,Aevo
 paradex,Paradex
 astros,Astros
 gate-perp-dex,Gate DEX
-decibel,Decibel
 bulk,BULK
+decibel,Decibel
 standx,StandX
 bigone_futures,BigONE Futures
 hashkey-global-futures,HashKey Global (Futures)
@@ -91,8 +91,8 @@ katana-perps,Katana Perps
 strike-finance,Strike Finance
 delta_futures,Delta Exchange (Futures)
 dipcoin-futures,Dipcoin (Futures)
-synthetix-perps,Synthetix
 turboflow,TurboFlow
+synthetix-perps,Synthetix
 hitbtc_derivatives,HitBTC (Derivatives)
 kiloex-bsc,KiloEx (BSC)
 kiloex-base,KiloEx (Base)
