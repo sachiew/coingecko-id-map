@@ -6,8 +6,8 @@ gate_futures,Gate (Futures)
 mxc_futures,MEXC (Futures)
 coinw_futures,CoinW (Futures)
 weex-futures,WEEX (Futures)
-bitget_futures,Bitget Futures
 tapbit-futures,Tapbit (Futures)
+bitget_futures,Bitget Futures
 okex_swap,OKX (Futures)
 xt_derivatives,XT.COM (Derivatives)
 toobit_derivatives,Toobit Futures
@@ -43,13 +43,12 @@ grvt_futures,GRVT
 levex-futures,LeveX (Futures)
 robinhood-chain-lighter-futures,Robinhood Chain Lighter (Futures)
 biconomy-futures,Biconomy (Futures)
-qfex,QFEX
 antarctic,Antarctic 
 sodex-futures,SoDEX (Futures)
+qfex,QFEX
 edgex,edgeX
 arcus-futures,Arcus (Futures)
 extended,Extended
-gmx-perpetuals-v2-solana,GMX Perpetuals V2 (Solana)
 alphax-futures,AlphaX (Futures)
 derive-futures,Derive (Futures)
 bbx,BBX
@@ -57,6 +56,7 @@ apex-omni,ApeX Omni
 kalshi,Kalshi
 backpack-futures,Backpack (Futures)
 pacifica,Pacifica
+gmx-perpetuals-v2-solana,GMX Perpetuals V2 (Solana)
 polymarket-perps,Polymarket Perps
 ondo-perps,Ondo Perps
 bydfi-futures,BYDFi (Futures)
@@ -77,8 +77,8 @@ aqx_derivatives,Flipster
 aevo,Aevo
 paradex,Paradex
 bulk,BULK
-gate-perp-dex,Gate DEX
 injective_futures,Helix (Futures)
+gate-perp-dex,Gate DEX
 decibel,Decibel
 hashkey-global-futures,HashKey Global (Futures)
 bigone_futures,BigONE Futures
@@ -86,24 +86,24 @@ standx,StandX
 gemini_derivatives,Gemini Derivatives
 valr-futures,VALR Futures
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
+strike-finance,Strike Finance
 synfutures,SynFutures
 gtrade-arbitrum,gTrade (Arbitrum)
-strike-finance,Strike Finance
 katana-perps,Katana Perps
 dipcoin-futures,Dipcoin (Futures)
 storm-trade,Storm Trade
 delta_futures,Delta Exchange (Futures)
-gtrade-base,gTrade (Base)
 synthetix-perps,Synthetix
+gtrade-base,gTrade (Base)
 kiloex-bsc,KiloEx (BSC)
-hitbtc_derivatives,HitBTC (Derivatives)
-turboflow,TurboFlow
 kiloex-base,KiloEx (Base)
+turboflow,TurboFlow
 sparkdex-perps,SparkDEX Perps
 kiloex-opbnb,KiloEx (opBnb)
 gtrade-polygon,gTrade (Polygon)
 margin-trade-futures,Margin Trade (Futures)
 deriw,DeriW
+hitbtc_derivatives,HitBTC (Derivatives)
 bitmex,BitMEX (Derivative)
 bitflyer_futures,Bitflyer (Futures)
 gmo_japan_futures,GMO Coin Japan (Futures)
