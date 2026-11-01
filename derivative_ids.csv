@@ -18,24 +18,24 @@ kumex,KuCoin Futures
 coinup-futures,CoinUp.io (Futures)
 phemex_futures,Phemex (Futures)
 deribit,Deribit
+bingx_futures,BingX (Futures)
 btse_futures,BTSE (Futures)
 ourbit-futures,Ourbit (Futures)
-bingx_futures,BingX (Futures)
 huobi_dm,HTX Futures
 evedex,EVEDEX
-variational-omni,Variational Omni
 bitunix_futures,Bitunix Futures
+variational-omni,Variational Omni
 aster,Aster (Futures)
 bitkan-futures,BitKan (Futures)
 crypto_com_futures,Crypto.com Exchange (Futures)
 lbank-futures,LBank (Futures)
-blofin,BloFin (Futures)
 prime_xbt,PrimeXBT
+blofin,BloFin (Futures)
 lighter,Lighter
 bitfinex_futures,Bitfinex (Futures)
+deepcoin_derivatives,Deepcoin (Derivatives)
 hotcoin-futures,Hotcoin (Futures)
 zoomex-futures,Zoomex (Futures)
-deepcoin_derivatives,Deepcoin (Derivatives)
 kcex-futures,KCEX (Futures)
 bitvenus,BVOX (Futures)
 kraken_futures,Kraken (Futures)
@@ -69,8 +69,8 @@ bullish-futures,Bullish (Futures)
 vest-exchange-futures,Vest Exchange
 globe_exchange_derivatives,Globe (Derivatives)
 dydx_chain,dYdX Chain
-phoenix,Phoenix
 gmx-perpetuals-v2-solana,GMX Perpetuals V2 (Solana)
+phoenix,Phoenix
 aqx_derivatives,Flipster
 bitstamp-futures,Bitstamp by Robinhood (Futures)
 woo_network_futures,WOO X (Futures)
@@ -78,11 +78,10 @@ aevo,Aevo
 paradex,Paradex
 bulk,BULK
 injective_futures,Helix (Futures)
-decibel,Decibel
 gate-perp-dex,Gate DEX
+decibel,Decibel
 hashkey-global-futures,HashKey Global (Futures)
 bigone_futures,BigONE Futures
-standx,StandX
 gemini_derivatives,Gemini Derivatives
 gmx-perpetuals-v2-avalanche,GMX Perpetuals V2 (Avalanche)
 valr-futures,VALR Futures
@@ -90,9 +89,10 @@ strike-finance,Strike Finance
 synfutures,SynFutures
 katana-perps,Katana Perps
 gtrade-arbitrum,gTrade (Arbitrum)
-storm-trade,Storm Trade
 dipcoin-futures,Dipcoin (Futures)
 delta_futures,Delta Exchange (Futures)
+standx,StandX
+storm-trade,Storm Trade
 turboflow,TurboFlow
 synthetix-perps,Synthetix
 gtrade-base,gTrade (Base)
@@ -103,7 +103,6 @@ sparkdex-perps,SparkDEX Perps
 gtrade-polygon,gTrade (Polygon)
 margin-trade-futures,Margin Trade (Futures)
 deriw,DeriW
-hitbtc_derivatives,HitBTC (Derivatives)
 bitmex,BitMEX (Derivative)
 bitflyer_futures,Bitflyer (Futures)
 gmo_japan_futures,GMO Coin Japan (Futures)
@@ -151,6 +150,7 @@ powertrade_derivatives,Powertrade (Derivatives)
 btcc_futures,BTCC Futures
 zb_derivatives,ZB (Derivatives)
 mango_markets_derivatives,Mango Markets (Derivatives)
+hitbtc_derivatives,HitBTC (Derivatives)
 apex_pro,ApeX Pro
 fairdesk_derivatives,Fairdesk Derivatives
 cointr_derivatives,CoinTR Pro (Derivatives)
