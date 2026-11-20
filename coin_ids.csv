@@ -6361,7 +6361,12 @@ enough-to-live,Enough To Live,enough
 enphase-energy-inc-coinbase-tokenized-stock,"Enphase Energy, Inc. (Coinbase Tokenized Stock)",enphc
 enphase-energy-ondo-tokenized,Enphase Energy (Ondo Tokenized),enphon
 enphase-energy-rstock,Enphase Energy Tokenized Stock (Reality),renph
-ensemble-vol-vault-share,Ensemble VOL Vault Share,vol
+ensemble-bear,Ensemble BEAR,bear
+ensemble-bull,Ensemble BULL,bull
+ensemble-ibear,Ensemble iBEAR,ibear
+ensemble-ibull,Ensemble iBULL,ibull
+ensemble-ivol,Ensemble iVOL,ivol
+ensemble-vol-vault-share,Ensemble VOL,vol
 enso,Enso,enso
 ensoul,Ensoul,ensoul
 ensuro-senior-pool,Ensuro Senior Pool,eusdcsr
@@ -7770,6 +7775,7 @@ gitbounty,Gitbounty,gitb
 gitcoin,Gitcoin,gtc
 gitghost,GitGhost,gtg
 githook,GITHOOK,githook
+gitlab-inc-coinbase-tokenized-stock,GitLab Inc. (Coinbase Tokenized Stock),gtlbc
 gitlab-rstock,Gitlab Tokenized Stock (Reality),rgtlb
 gitlawb,Gitlawb,gitlawb
 gitly,Gitly,gitly
@@ -8429,6 +8435,7 @@ hca-healthcare-stove-tokenized-stock,HCA Healthcare (Stove Tokenized Stock),hcas
 hca-healthcare-xstock,HCA Healthcare xStock,hcax
 hdfc-bank-rstock,HDFC Bank Tokenized Stock (Reality),rhdb
 hd-hyundai-heavy-industries-stove-tokenized-stock,HD Hyundai Heavy Industries (Stove Tokenized Stock),hdhhis
+hdoki,HDOKI,oki
 hdrome,HDROME,hdrome
 headline,Headline,hdl
 head-of-d-o-g-e,Head of D.O.G.E,vivek
@@ -9742,6 +9749,7 @@ johnny-suede,Suede AI,suede
 john-pork-2,John Pork,pork
 johnson-controls-rstock,Johnson Controls Tokenized Stock (Reality),rjci
 johnson-johnson-backpack-securities,Johnson & Johnson (Backpack Securities),jnj
+johnson-johnson-coinbase-tokenized-stock,Johnson & Johnson (Coinbase Tokenized Stock),jnjc
 johnson-johnson-dinari-tokenized-stock,Johnson & Johnson (Dinari Tokenized Stock),jnj
 johnson-johnson-ondo-tokenized-stock,Johnson & Johnson (Ondo Tokenized Stock),jnjon
 johnson-johnson-robinhood-token,Johnson & Johnson • Robinhood Token,jnj
@@ -10973,6 +10981,7 @@ luksoagent,LUKSOAgent,lukso
 lukso-token,LUKSO [OLD],lyxe
 lukso-token-2,LUKSO,lyx
 lululemon-athletica-inc-backpack-securities,lululemon athletica inc. (Backpack Securities),lulu
+lululemon-athletica-inc-coinbase-tokenized-stock,lululemon athletica inc. (Coinbase Tokenized Stock),luluc
 lululemon-athletica-inc-rstock,lululemon Tokenized Stock (Reality),rlulu
 lululemon-robinhood-tokenized-stock,Lululemon • Robinhood Token,lulu
 lululemon-xstock,lululemon xStock,lulux
@@ -11396,6 +11405,7 @@ mccormick-company-incorporated-non-voting-rstock,"McCormick & Company, Incorpora
 mccormick-company-incorporated-rstock,McCormick Tokenized Stock (Reality),rmkc
 mccormick-xstock,McCormick xStock,mkcx
 mcdex,MUX Protocol,mcb
+mcdonald-s-corporation-coinbase-tokenized-stock,McDonald's Corporation (Coinbase Tokenized Stock),mcdc
 mcdonald-s-corporation-robinhood-token,McDonald's Corporation • Robinhood Token,mcd
 mcdonald-s-dinari-tokenized-stock,McDonald's (Dinari Tokenized Stock),mcd
 mcdonald-s-ondo-tokenized-stock,McDonald's (Ondo Tokenized Stock),mcdon
@@ -14128,6 +14138,7 @@ pipedog,pipedog,pipedog
 pipeiq,PipeIQ,pipeiq
 pipe-network,Pipe Network,pipe
 piper,Piper,piper
+pipi-2,PIPI,pipi
 pipi-on-eth,Pipi on ETH,pipi
 pippin,pippin,pippin
 pippin-s-friend,Pippin's Friend,dot
@@ -15065,6 +15076,7 @@ r-coin,R-COIN,rcn
 rcsc,RCSC,rcsc
 re,RE,re
 re7-cbbtc,Re7 cbBTC,re7cbbtc
+re7-confidential-ondo-usdc,Re7 Confidential Ondo USDC,re7cousdc
 re7-frax,Re7 FRAX,re7frax
 re7-rwa,Re7 RWA,re7rwa
 re7-tbtc,Re7 tBTC,re7tbtc
@@ -15514,6 +15526,7 @@ robinhood-dinari-tokenized-stock,Robinhood (Dinari Tokenized Stock),hood
 robinhood-hat-strategy,Robinhood Hat Strategy,rstr
 robinhoodies,ROBINHOODIES,robinhoodies
 robinhood-markets-backpack-securities,Robinhood Markets (Backpack Securities),hood
+robinhood-markets-inc-coinbase-tokenized-stock,"Robinhood Markets, Inc. (Coinbase Tokenized Stock)",hoodc
 robinhood-markets-ondo-tokenized-stock,Robinhood Markets (Ondo Tokenized Stock),hoodon
 robinhood-names,Robinhood Names,rh
 robinhood-payments-protocol,Robinhood Payments Protocol,rpp402
@@ -15946,6 +15959,7 @@ satozhi,Satozhi,satoz
 sat-rush,Sat Rush,rush
 sats-ordinals,SATS (Ordinals),sats
 saturna,Saturna,sat
+saturn-confidential-tokenized-equity-vault,Saturn Confidential Tokenized Equity Vault,satcusdc
 saturn-dollar,Saturn Dollar,usdat
 saturn-susdat,Saturn sUSDat,susdat
 satu-wallet-token,Satu Wallet Token,satu
@@ -16521,6 +16535,7 @@ skyhash,Skyhash,skh
 skynet-2,Skynet,drones
 skynet-3,Skynet,sky
 skynity-skydust,SkyNity SkyDust,sdt
+sky-staked-usds,Sky Staked USDS,stusds
 sky-super-cat,Sky Super Cat,sky
 skytrade-pro,SkyTrade Pro,susdt
 skyworks-solutions-inc-rstock,Skyworks Solutions Tokenized Stock (Reality),rswks
@@ -18222,6 +18237,7 @@ the-chubby-elephant,The Chubby Elephant,ชั้ง
 the-chubby-gosling,The Chubby Gosling,chubbygosling
 the-cigna-xstock,The Cigna xStock,cix
 the-clorox-company-rstock,Clorox Tokenized Stock (Reality),rclx
+the-coca-cola-company-coinbase-tokenized-stock,The Coca-Cola Company (Coinbase Tokenized Stock),koc
 the-coin,the coin,the
 thecontentforge,TheContentForge,sparq
 the-cooper-companies-inc-rstock,The Cooper Companies Tokenized Stock (Reality),rcoo
@@ -19172,6 +19188,7 @@ united-airlines-stove-tokenized-stock,United Airlines (Stove Tokenized Stock),ua
 united-airlines-xstock,United Airlines xStock,ualx
 unitedcoin,UnitedCoin,units
 united-founders-group,United Founders Group,ufg
+unitedhealth-group-incorporated-coinbase-tokenized-stock,UnitedHealth Group Incorporated (Coinbase Tokenized Stock),unhc
 unitedhealth-group-incorporated-robinhood-token,UnitedHealth Group Incorporated • Robinhood Token,unh
 unitedhealth-ondo-tokenized-stock,UnitedHealth (Ondo Tokenized Stock),unhon
 unitedhealth-rstock,UnitedHealth Tokenized Stock (Reality),runh
@@ -19655,6 +19672,7 @@ vertex-pharmaceuticals-xstock,Vertex Pharmaceuticals xStock,vrtxx
 vertex-privacy,Vertex Privacy,vertex
 vertical-ai,Vertical AI,vertai
 vertiv-astock,Vertiv aStock,avrt
+vertiv-holdings-co-coinbase-tokenized-stock,Vertiv Holdings Co (Coinbase Tokenized Stock),vrtc
 vertiv-holdings-co-robinhood-token,Vertiv Holdings Co • Robinhood Token,vrt
 vertiv-holdings-co-xstock,Vertiv Holdings Co xStock,vrtx
 vertiv-holdings-rstock,Vertiv Tokenized Stock (Reality),rvrt
@@ -19768,6 +19786,7 @@ visionswap,VisionSwap,vswap
 visteon-corporation-coinbase-tokenized-stock,Visteon Corporation (Coinbase Tokenized Stock),vcc
 vistra-astock,Vistra aStock,avst
 vistra-corp-bstocks-tokenized-stock,Vistra Corp (bStocks Tokenized Stock),vstb
+vistra-corp-coinbase-tokenized-stock,Vistra Corp. (Coinbase Tokenized Stock),vstc
 vistra-corp-robinhood-token,Vistra Corp. • Robinhood Token,vst
 vistra-energy-rstock,Vistra Tokenized Stock (Reality),rvst
 vistra-ondo-tokenized,Vistra (Ondo Tokenized),vston
@@ -21077,6 +21096,7 @@ yuru-coin,YURU COIN [OLD],yuru
 yuru-coin-2,YURU COIN,yuru
 yusd-stablecoin,YUSD Stablecoin,yusd
 yuuki,YUUKI,yuuki
+yuzu-confidential-yield,Yuzu Confidential Yield,yzprvt
 yuzu-prime,Yuzu Prime,yzprime
 yuzu-protection-pool,Yuzu Protection Pool,yzpp
 yuzu-usd,Yuzu USD,yzusd
